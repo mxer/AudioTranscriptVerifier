@@ -66,6 +66,8 @@ def create_transcripts(transfile,super_prompts_file,trfile,scriptlist,dirlist,tr
 			fpath = dirlist[index]
 			print(filepath)
 			for line in fr:
+				if line=="\n":
+					continue
 				line = line.strip().lower()
 #				print(line)
 				f.write("<s> %s </s> (%s\\%08d)\n" % (line,filepath,fcounter))

@@ -5,33 +5,27 @@ Created on Wed Apr 13 18:00:39 2016
 @author: Pankaj
 """
 from subprocess import call
-import sys
 import os
-import codecs
 import time
-import unicodedata2 as uc
-from lm import lmgen
-from adcfg import voice_derivatives 
-from adutil import file_split
-from adutil import create_fileids
-from adutil import create_transcripts
-from adutil import read_words
-from adutil import create_dictionary
+from adapter.adutil import file_split
+from adapter.adutil import create_fileids
+from adapter.adutil import create_transcripts
 import make_local_pdict as ml
+import Constants as cs
+import io
+from shutil import copyfile
 
-
-wavdir = "E:\\New_Corpus"
 bindir = "E:\\asr\\bin"
-lmname = "E:\\asr\\adapter\\etc\\adaptation.lm"
+# lmname = "E:\\asr\\adapter\\etc\\adaptation.lm"
 transfile = "etc\\hindi_model_train.transcription"
 trfile = "etc\\train.transcription"
 super_prompts_file = "etc\\hindi_model_train_prompt.txt"
-phonefile = "..\\bin\\phonemap.txt"
-hindi_phone_file = "..\\bin\\hindiphone.txt"
-infile = "etc\\hindi_model_train_prompt.txt"
-vocabfile = "etc\\hindi_model_train_vocab.txt"
-outfile = "etc\\hindi_model_train_adaptation.dic"
-dictutil = "E:\\asr\\bin\\progen.exe"
+# phonefile = "..\\bin\\phonemap.txt"
+# hindi_phone_file = "..\\bin\\hindiphone.txt"
+# infile = "etc\\hindi_model_train_prompt.txt"
+# vocabfile = "etc\\hindi_model_train_vocab.txt"
+# outfile = "etc\\hindi_model_train_adaptation.dic"
+# dictutil = "E:\\asr\\bin\\progen.exe"
 
 train_fileid = "etc\\hindi_model_adapt.fileids"
 mfc_fileids_file = "etc\\hindi_model_adapt_mfc.fileids"
@@ -50,43 +44,10 @@ language_model = "..\\reverie.lm"
 dictionary = train_dict	
 hypfile = "result\\hindi_adapt.hyp.txt"
 cepdir = wavdir
-wavdirs_and_files = [		
-						# ["\\train\\others\\accomodation\\Niyanta","bohni.raw","bohni.txt"],
-						# ["\\train\\others\\accomodation\\Final\\anubhav","anubhav.raw","anubhav.txt"],
-						# ["\\train\\others\\accomodation\\ToBeVerified\\part4","part4.raw","part4.txt"],
-						# ["\\train\\others\\accomodation\\ToBeVerified\\Niyanta\\part12","part12.raw","part12.txt"],
-						["\\train\\others\\accomodation\\ToBeVerified\\arun","1.raw","1.txt"],
+
+wavdirs_and_files = [
+						["\\train\\others\\accomodation\\ToBeVerified\\cleaned","2.raw","master.txt"],
 ]
-
-# Delete existing .raw files if any from train_audio folder
-# First split the raw audio files in audio segments
-for rawfiles in wavdirs_and_files:
-	dirname = rawfiles[0]
-	inraw_file = wavdir + "\\" + dirname + "\\" + rawfiles[1]
-	rawdir = wavdir + "\\" + dirname + "\\" + "train_audio"
-	callcmd = "del " + rawdir + "\\*.raw"
-	call(callcmd,shell=True)
-	file_split(bindir,inraw_file,rawdir)
-
-# Check whether transcripts file lines are equal to no of raw files
-DIR = wavdir + "\\" + wavdirs_and_files[0][0]
-print ("helllo")
-transcriptscnt=0
-rawfilescnt=0
-for name in os.listdir(DIR+"\\"+"train_audio"):
-	if os.path.isfile(os.path.join(DIR+"\\"+"train_audio", name)):
-		rawfilescnt=rawfilescnt+1
-
-with open(DIR+"\\"+wavdirs_and_files[0][2],"r",encoding="utf-8") as fr:
-	for f in fr:
-		transcriptscnt=transcriptscnt+1
-if transcriptscnt!=rawfilescnt:
-	print("Mismatch in Transcripts and rawfiles count")
-	print("Rawfiles_Count= "+str(rawfilescnt))
-	print("Transcripts_Count= " + str(transcriptscnt))
-	exit(1)
-print("Rawfiles_Count= "+str(rawfilescnt))
-print("Transcripts_Count= " + str(transcriptscnt))
 
 # create train_audio and train_mfc directories
 dirlist = []
@@ -94,7 +55,40 @@ dirlist = []
 for lst in wavdirs_and_files:
 	print(lst[0])
 	dirlist.append(lst[0])
-	
+
+def copy_rename(root, rawfile, txtfile, i):
+	copyfile(os.path.join(root, rawfile),
+			 os.path.join(wavdir + "\\" + dir + "\\train_audio", rawfile))
+
+	with io.open(root + "\\" + txtfile, "r", encoding="utf-8") as fr:
+		for line in fr:
+			wf.write(line)
+
+	os.rename(os.path.join(wavdir + "\\" + dir + "\\train_audio", rawfile),
+			  os.path.join(wavdir + "\\" + dir + "\\train_audio\\%08d"%(i) + ".raw"))
+
+i=0
+
+for dir in dirlist:
+	if not os.path.exists(wavdir+ "\\"+dir+"\\train_audio"):
+		os.makedirs(wavdir+ "\\"+dir+"\\train_audio")
+	wf = io.open(wavdir + "\\" + dir + "\\master.txt", "w", encoding="utf-8")
+	print(dir)
+	filecounter = 0
+	for root,dirs,files in os.walk(wavdir + "\\" + dir):
+		if root.endswith("train_audio") or root.endswith("train_mfc"):
+			continue
+		for file in files:
+			if file.endswith('.wav'):
+				print(file)
+				s = file.split(".wav")
+				callcmd = "sox " + root + "\\"+file + " " + root + "\\"+ s[0]+".raw"
+				call(callcmd,shell=True)
+				copy_rename(root, file, s[0]+".txt", i)
+				i = i+1
+	wf.close()
+# exit(1)
+
 #for lst in dirlist:
 #	mfdirlist.append(lst + "\\train_mfc")
 
@@ -123,7 +117,7 @@ print(dirlist)
 
 create_transcripts(transfile,super_prompts_file,trfile,scriptlist,dirlist,wavdir)
 
-ml.createDictionary(super_prompts_file, train_dict)
+ml.createDictionary(super_prompts_file, train_dict, cs.Kannada)
 #create_dictionary("..\\eng.dic",super_prompts_file,dictutil,phonefile,train_dict)
 
 dirlist = []

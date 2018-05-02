@@ -5,33 +5,30 @@ Created on Wed Apr 13 18:00:39 2016
 @author: Pankaj
 """
 from subprocess import call
-import sys
-import os
-import codecs
 import time
-import unicodedata2 as uc
-from lm import lmgen
-from adutil import file_split
-from adutil import create_fileids
-from adutil import create_transcripts
-from adutil import read_words
-from adutil import create_dictionary
-import make_local_pdict as ml
 
-wavdir = "E:\\\\New_Corpus"
+import os
+
+from tester.lm import lmgen
+from tester.adutil import file_split
+from tester.adutil import create_fileids
+from tester.adutil import create_transcripts
+import make_local_pdict as ml
+import Constants as cs
+from shutil import copyfile
+
 bindir = "E:\\\\asr\\\\bin"
 lmname = "E:\\\\asr\\\\tester\\\\etc\\\\test.lm"
 transfile = "etc\\hindi_model_test.transcription"
 trfile = "etc\\test.transcription"
 super_prompts_file = "etc\\hindi_model_test_prompt.txt"
-phonefile = "..\\\\bin\\\\phonemap.txt"
-hindi_phone_file = "..\\\\bin\\\\hindiphone.txt"
+# phonefile = "..\\\\bin\\\\phonemap.txt"
+# hindi_phone_file = "..\\\\bin\\\\hindiphone.txt"
 infile = "etc\\\\hindi_model_test_prompt.txt"
-lminfile = "etc\\\\lminput.txt"
-vocabfile = "etc\\\\hindi_model_test_vocab.txt"
-#outfile = "etc\\hindi_model_test_adaptation.dic"
-outfile = "..\\\\test.dic"
-dictutil = "E:\\\\asr\\\\bin\\\\progen.exe"
+# lminfile = "etc\\\\lminput.txt"
+# vocabfile = "etc\\\\hindi_model_test_vocab.txt"
+# outfile = "..\\\\test.dic"
+# dictutil = "E:\\\\asr\\\\bin\\\\progen.exe"
 
 FILE_SPLIT = 1
 
@@ -49,7 +46,7 @@ adapt_model = rootdir + "\\\\" + "models\\\\en-us-adapt"
 
 test_dict = rootdir + "\\\\revasr.dic"
 
-language_model = "..\\reverie.lm"
+# language_model = "..\\reverie.lm"
 dictionary = test_dict	
 hypfile = "result\\\\hindi_adapt.hyp.txt"
 cepdir = wavdir
@@ -57,22 +54,29 @@ cepdir = wavdir
 discount = 0.3
 
 wavdirs_and_files = [
-		# ["\\train\\others\\accomodation\\Niyanta","bohni.raw","bohni.txt"],
-		# ["\\train\\others\\accomodation\\Final\\anubhav", "anubhav.raw", "anubhav.txt"],
-		# ["\\train\\others\\accomodation\\debasish","badegharkibeti.raw","badegharkibeti.txt"]
-		# ["\\train\\others\\accomodation\\ToBeVerified\\part4", "part4.raw", "part4.txt"],
-		["\\train\\others\\accomodation\\ToBeVerified\\Niyanta\\part12", "part12.raw", "part12.txt"],
+		# ["\\train\\others\\accomodation\\ToBeVerified\\arun\\1", "1.raw", "1.txt"],
+		# ["\\train\\others\\accomodation\\ToBeVerified\\test", "1.raw", "master.txt"],
+		# ["\\train\\others\\accomodation\\ToBeVerified\\cleaned", "2.raw", "master.txt"],
+		["\\train\\others\\accomodation\\ToBeVerified\\cleaned","2.raw","master.txt"],
 					]
 								
-							
+# i = 0
+# for wf in wavdirs_and_files:
+# 	# os.rename(os.path.join(wavdir + "\\" + wf[0],wf[1]),os.path.join(wavdir + "\\" + wf[0],"0000000"+str(i)+".raw"))
+# 	# copyfile(os.path.join(wavdir + "\\" + wf[0], "0000000"+str(i)+".raw"), os.path.join(wavdir + "\\" + wf[0]+"\\train_audio", "0000000"+str(i)+".raw"))
+# 	copyfile(os.path.join(wavdir + "\\" + wf[0], wf[1]),
+# 			 os.path.join(wavdir + "\\" + wf[0] + "\\train_audio", wf[1]))
+# 	os.rename(os.path.join(wavdir + "\\" + wf[0] + "\\train_audio", wf[1]),
+# 			  os.path.join(wavdir + "\\" + wf[0] + "\\train_audio", "0000000" + str(i) + ".raw"))
+# 	i=i+1
 							
 # First split the raw audio files in audio segments
-if FILE_SPLIT == 1:		  
-	for rawfiles in wavdirs_and_files:
-		dirname = rawfiles[0]
-		inraw_file = wavdir + "\\\\" + dirname + "\\\\" + rawfiles[1]
-		rawdir = wavdir + "\\\\" + dirname + "\\\\" + "train_audio"
-		file_split(bindir,inraw_file,rawdir)
+# if FILE_SPLIT == 1:
+# 	for rawfiles in wavdirs_and_files:
+# 		dirname = rawfiles[0]
+# 		inraw_file = wavdir + "\\\\" + dirname + "\\\\" + rawfiles[1]
+# 		rawdir = wavdir + "\\\\" + dirname + "\\\\" + "train_audio"
+# 		file_split(bindir,inraw_file,rawdir)
 	
 # create train_audio and train_mfc directories
 dirlist = []
@@ -110,7 +114,7 @@ print(dirlist)
 
 create_transcripts(transfile,super_prompts_file,trfile,scriptlist,dirlist,wavdir)
 
-ml.createDictionary(super_prompts_file, test_dict)
+ml.createDictionary(super_prompts_file, test_dict, cs.Kannada)
 
 # create_dictionary("E:\\\\asr\\\\eng.dic",super_prompts_file,dictutil,phonefile,test_dict)
 

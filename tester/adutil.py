@@ -60,6 +60,8 @@ def create_transcripts(transfile,super_prompts_file,trfile,scriptlist,dirlist,tr
             fpath = dirlist[index]
             print(filepath)
             for line in fr:
+                if line=="\n":
+                    continue
                 linewords = line.strip().lower().split()
                 for word in linewords:
                     if uc.script(word[0]) not in ['Devanagari','Lain']:
