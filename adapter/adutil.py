@@ -4,7 +4,8 @@ import os
 import codecs
 import time
 import re
-import unicodedata2 as uc
+import adapter.unicodedata2 as uc
+import adapter.unicodedata2 as uc
 import io
 
 def file_split(bindir,inraw_file,rawdir):

@@ -15,8 +15,8 @@ import Constants as cs
 import io
 from shutil import copyfile
 
-bindir = "E:\\asr\\bin"
-# lmname = "E:\\asr\\adapter\\etc\\adaptation.lm"
+bindir = "E:\\AudioTranscriptVerifier\\bin"
+# lmname = "E:\\AudioTranscriptVerifier\\adapter\\etc\\adaptation.lm"
 transfile = "etc\\hindi_model_train.transcription"
 trfile = "etc\\train.transcription"
 super_prompts_file = "etc\\hindi_model_train_prompt.txt"
@@ -25,7 +25,7 @@ super_prompts_file = "etc\\hindi_model_train_prompt.txt"
 # infile = "etc\\hindi_model_train_prompt.txt"
 # vocabfile = "etc\\hindi_model_train_vocab.txt"
 # outfile = "etc\\hindi_model_train_adaptation.dic"
-# dictutil = "E:\\asr\\bin\\progen.exe"
+# dictutil = "E:\\AudioTranscriptVerifier\\bin\\progen.exe"
 
 train_fileid = "etc\\hindi_model_adapt.fileids"
 mfc_fileids_file = "etc\\hindi_model_adapt_mfc.fileids"
@@ -34,7 +34,7 @@ wavdir = "E:\\New_Corpus"
 mfcdir = "E:\\New_Corpus"
 metadata = "metadata"
 
-rootdir = "E:\\asr"
+rootdir = "E:\\AudioTranscriptVerifier"
 
 org_model = rootdir + "\\" + "models\\en-us"
 adapt_model = rootdir + "\\" + "models\\en-us-adapt"
@@ -87,6 +87,27 @@ for dir in dirlist:
 				copy_rename(root, file, s[0]+".txt", i)
 				i = i+1
 	wf.close()
+
+# Check whether transcripts file lines are equal to no of raw files
+DIR = wavdir + "\\" + wavdirs_and_files[0][0]
+print ("helllo")
+transcriptscnt=0
+rawfilescnt=0
+for name in os.listdir(DIR+"\\"+"train_audio"):
+	if os.path.isfile(os.path.join(DIR+"\\"+"train_audio", name)):
+		rawfilescnt=rawfilescnt+1
+
+with open(DIR+"\\"+wavdirs_and_files[0][2],"r",encoding="utf-8") as fr:
+	for f in fr:
+		transcriptscnt=transcriptscnt+1
+if transcriptscnt!=rawfilescnt:
+	print("Mismatch in Transcripts and rawfiles count")
+	print("Rawfiles_Count= "+str(rawfilescnt))
+	print("Transcripts_Count= " + str(transcriptscnt))
+	exit(1)
+print("Rawfiles_Count= "+str(rawfilescnt))
+print("Transcripts_Count= " + str(transcriptscnt))
+
 # exit(1)
 
 #for lst in dirlist:
@@ -125,7 +146,7 @@ for lst in wavdirs_and_files:
 	print(lst[0])
 	dirlist.append(lst[0])
 
-call("E:\\asr\\bin\\sphinx_fe -argfile" + " " + org_model + "\\feat.params" + \
+call("E:\\AudioTranscriptVerifier\\bin\\sphinx_fe -argfile" + " " + org_model + "\\feat.params" + \
 					 " -samprate 16000" + " -c" + " " + train_fileid + \
 				 " -di" + " " + wavdir + \
 				 " -do" + " " + mfcdir + \
@@ -147,13 +168,13 @@ for di in dirlist:
 
 time.sleep(2)
 
-call("E:\\asr\\bin\\pocketsphinx_mdef_convert" + " -text" + " " + org_model + "\\mdef" + " " + org_model + "\\mdef.txt",shell=True)
+call("E:\\AudioTranscriptVerifier\\bin\\pocketsphinx_mdef_convert" + " -text" + " " + org_model + "\\mdef" + " " + org_model + "\\mdef.txt",shell=True)
 
 time.sleep(2)
 
 print("calling bw")
 call(
-		"E:\\asr\\bin\\bw" + " " + "-hmmdir" + " " + org_model + \
+		"E:\\AudioTranscriptVerifier\\bin\\bw" + " " + "-hmmdir" + " " + org_model + \
 					" -moddeffn" + " " + org_model + "\\mdef.txt" + \
 					" -ts2cbfn .ptm. -feat 1s_c_d_dd -svspec 0-12/13-25/26-38" + \
 					" -cmn current -agc none -dictfn" + " " + train_dict + \
@@ -164,7 +185,7 @@ call(
 time.sleep(2)
 print("calling mmlr_solve")
 call(
-		"E:\\asr\\bin\\mllr_solve" + " " + "-meanfn" + " " + org_model + "\\means" + \
+		"E:\\AudioTranscriptVerifier\\bin\\mllr_solve" + " " + "-meanfn" + " " + org_model + "\\means" + \
 								 " -varfn" + " " + org_model + "\\variances" + \
 								 " -outmllrfn" + " " + metadata + "\\mllr_matrix" + \
 								 " -accumdir" + " " + metadata,shell=True
@@ -176,12 +197,12 @@ print("copying models")
 callstr = "md" + " " + adapt_model
 print(callstr)
 call(callstr,shell=True)
-call("copy E:\\asr\\models\\en-us\\*.* E:\\asr\\models\\en-us-adapt",shell=True)
+call("copy E:\\AudioTranscriptVerifier\\models\\en-us\\*.* E:\\AudioTranscriptVerifier\\models\\en-us-adapt",shell=True)
 
 time.sleep(2)
 print("calling map_adapt")
 call(
-		"E:\\asr\\bin\\map_adapt" + " " + "-moddeffn" + " " + org_model + "\\mdef.txt" + \
+		"E:\\AudioTranscriptVerifier\\bin\\map_adapt" + " " + "-moddeffn" + " " + org_model + "\\mdef.txt" + \
 						    " -ts2cbfn .ptm. " + \
 							  " -meanfn" + " " + org_model + "\\means" + \
 							  " -varfn" + " " + org_model + "\\variances" + \
@@ -198,7 +219,7 @@ time.sleep(2)
 print("calling sendump")
 
 call(
-		"E:\\asr\\bin\\mk_s2sendump" + " " + "-pocketsphinx yes" + \
+		"E:\\AudioTranscriptVerifier\\bin\\mk_s2sendump" + " " + "-pocketsphinx yes" + \
 						      " -moddeffn" + " " + adapt_model + "\\mdef.txt" + \
 									" -mixwfn" + " " + adapt_model + "\\mixture_weights" + \
 									" -sendumpfn" + " " + adapt_model + "\\sendump" 
@@ -212,7 +233,7 @@ time.sleep(2)
 '''
 print("calling pocketsphinx_batch")	
 call(
-		"E:\\asr\\bin\\pocketsphinx_batch" + \
+		"E:\\AudioTranscriptVerifier\\bin\\pocketsphinx_batch" + \
 		" -adcin yes" + \
 		" -cepdir" + " " + cepdir + \
 		" -cepext" + " " + ".raw" + \
@@ -228,7 +249,7 @@ call(
 	
 time.sleep(2)	
 	
-callcmd = "perl E:\\asr\\bin\\word_align.pl" + " " + trfile + " " + hypfile 
+callcmd = "perl E:\\AudioTranscriptVerifier\\bin\\word_align.pl" + " " + trfile + " " + hypfile 
 print(callcmd)
 cmdcall = callcmd + " > result\\res_adapt.txt"
 print(cmdcall)
@@ -239,7 +260,7 @@ call(
 '''	
 print("calling pocketsphinx_batch")	
 call(
-		"E:\\asr\\bin\\pocketsphinx_batch" + \
+		"E:\\AudioTranscriptVerifier\\bin\\pocketsphinx_batch" + \
 		" -adcin yes" + \
 		" -cepdir" + " " + cepdir + \
 		" -cepext" + " " + ".raw" + \
@@ -255,7 +276,7 @@ call(
 	
 time.sleep(2)	
 	
-c allcmd = "perl E:\\asr\\bin\\word_align.pl" + " " + trfile + " " + hypfile 
+c allcmd = "perl E:\\AudioTranscriptVerifier\\bin\\word_align.pl" + " " + trfile + " " + hypfile 
 print(callcmd)
 cmdcall = callcmd + " > result\\res.txt"
 print(cmdcall)
