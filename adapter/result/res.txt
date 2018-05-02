@@ -1,0 +1,791 @@
+छत       के लैंप  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000000)
+सैंट के लैंप  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000000)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+पर्स     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000001)
+लागेज़  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000001)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+लागेज़        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000002)
+जैकेट्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000002)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+पैकेट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000003)
+पैकेट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000003)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***          शौपिंग बैग     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000004)
+साड़ी सूट          पैंट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000004)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+सैमसंग लैपटॉप  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000005)
+सैमसंग मैडम        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000005)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+नाइटी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000006)
+पैकेट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000006)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+जीवनी       मोबाईल     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000007)
+सीक्रेट लैहेंगा  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000007)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+बच्चे के    नाइट कपड़े  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000008)
+लीड       किट मैडम कपड़े  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000008)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+फैंसी ***          वॉच  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000009)
+फैंसी लेदर सूज  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000009)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+पैन ड्राइव  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000010)
+इन    बैग           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000010)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+गोल्ड रानी    हर    डिझाईन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000011)
+पुरूस जैतुन घड़ी टैरेन     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000011)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+***          सलवार सूट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000012)
+सैंट एस          सूट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000012)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***    कूलर  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000013)
+ली एस        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000013)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+सैमसंग स्मैर्ट ***       फोन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000014)
+सैमसंग स्मैर्ट फूल इन     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000014)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+सैमसंग मोवाइल     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000015)
+सैमसंग लैहेंगा  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000015)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+लंच    बॉक्स टिफ़ीन्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000016)
+लैदर ली          जीन्स        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000016)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+***       थर्मस     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000017)
+पैन लाइट्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000017)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+जीम        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000018)
+नाइटी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000018)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+बॉल पेन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000019)
+राउ फैन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000019)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+वुमेन्स नाइटी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000020)
+वुमेन्स नाइटी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000020)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+सूट ***       कटन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000021)
+सूट बैग पैन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000021)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***    एसियन शूज  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000022)
+एफ़ एम्       सूट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000022)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+नाईट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000023)
+मैडम  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000023)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+नाईट ड्रेस  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000024)
+मैडम के           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000024)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+गुजराती साड़ी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000025)
+बड़े          रैडमी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000025)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+लो कॉस्ट साड़ीज़     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000026)
+***    नागाज़ स्टैंड  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000026)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+वेस्टर्न रूट टॉप्स और    ट्यूनिक्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000027)
+वेस्टर्न बूट डाटा    हात घड़ी                    (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000027)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+***       मैडम  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000028)
+बैग कटन     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000028)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***       डिजाइनर्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000029)
+डैल मैन्स              (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000029)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***                अमेरिकन    इंडिको जीन्स        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000030)
+हेलमेट इंग्लैंड ली             कुर्तीज  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000030)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+फ्रॉक गाउन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000031)
+जैतुन गाउन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000031)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+कर्टेन रैड होल्डर  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000032)
+पैकेट    के    बरतन        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000032)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+***          स्फोर्ट जूता  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000033)
+सोलर झूला          डैल     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000033)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+गैहने सोने के           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000034)
+***             डेटा सैंडल  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000034)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+***          सायकल  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000035)
+सैंट इतर        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000035)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***             लेडीज सायकल  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000036)
+लेडीस सैंट    इतर        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000036)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***    एडम       स्टेप ब्राउन बूट्स        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000037)
+के मैन्स के          गाउन       ब्लूटूथ  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000037)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+***       खाना पकाने के       बरतन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000038)
+पैन बूट    पैकेट गेनर पैन     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000038)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+फ्लॉपी डिक्स        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000039)
+कैस          इंटेक्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000039)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+पेरागौन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000040)
+एडम              (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000040)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+रीबोक    जूते     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000041)
+इंडिया नाइटी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000041)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+फैन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000042)
+फैन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000042)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+इन       रोड           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000043)
+ईपसन हेलमेट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000043)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***       माइक्रो एस डी मेमोरी कार्ड  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000044)
+बैग दार             एस डी मेमोरी पैकेट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000044)
+Words: 5 Correct: 3 Errors: 3 Percent correct = 60.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+ड्रिल काइट्स टूल्स              (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000045)
+गैहने पैकेट    स्पोर्ट्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000045)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+मोबाइल कवर           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000046)
+लेडीस    काइट्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000046)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+काला जूता  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000047)
+कटन    बैग     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000047)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+बूट           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000048)
+ब्लाउज  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000048)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***                डोर  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000049)
+दुल्हन की     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000049)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+इंटेक्स मोबाइल फोन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000050)
+***                   लैदर       फोन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000050)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+***          सैंडल  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000051)
+सैंट इतर        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000051)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+फेस       क्लीनर           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000052)
+फैंसी सप्लीमेंट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000052)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***                   इंडिया रेल्वे  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000053)
+लिबर्टी एस             तैयारी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000053)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***             ***    झालीदार लेडिज ब्रा  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000054)
+पैकेट एस डी                एस          बैग     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000054)
+Words: 3 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 166.67% Accuracy = -66.67%
+Insertions: 2 Deletions: 0 Substitutions: 3
+***       लैपटॉप  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000055)
+पैन डैल           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000055)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***             जालीदार  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000056)
+पैकेट बैग              (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000056)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+लेडिज  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000057)
+मैडम     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000057)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+लिवाइस जीन्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000058)
+***                लैदर     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000058)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+फूल ***    साइज़ गाउन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000059)
+फूल एस एस          गाउन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000059)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+टीसर्ट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000060)
+पीटर        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000060)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+फूल ***    साइज़ गाउन फ्रक  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000061)
+फूल ली सेट       गाउन बैग     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000061)
+Words: 4 Correct: 2 Errors: 3 Percent correct = 50.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+फूल ***       ***       टीसर्ट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000062)
+फूल लीड लीड रैक           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000062)
+Words: 2 Correct: 1 Errors: 3 Percent correct = 50.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 2 Deletions: 0 Substitutions: 1
+ईपसन इंकज़ेट ***       प्रिंटर्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000063)
+ईपसन इंकज़ेट पेन बैग्स              (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000063)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***          ***             लैपटॉप एक्स्टेंडेड वॉरंटी और             इन्शुरन्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000064)
+मैडम पैकेट इन             के                            लिए          इंडिया सोने                 (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000064)
+Words: 5 Correct: 0 Errors: 7 Percent correct = 0.00% Error = 140.00% Accuracy = -40.00%
+Insertions: 2 Deletions: 0 Substitutions: 5
+बेबी झूला ***     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000065)
+बेबी झूला एस  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000065)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+***       इस्त्री  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000066)
+सूट कटन              (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000066)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+बूटेदार लैहेंगा  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000067)
+बड़े          लैहेंगा  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000067)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***    ट्रीमर सेविंग  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000068)
+डी रैक          के              (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000068)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+प्रीन्टेड साड़ी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000069)
+सिंथेटिक    लेदर     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000069)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+पार्टी वेअर       साड़ी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000070)
+बैग          टीवीएस मैडम  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000070)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ड्रेस के फ़ोटो  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000071)
+ड्रेस के फ़ोटो  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000071)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***    ***       ***          एक्स्टर्नल हारडिस्क  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000072)
+एफ़ एम् मैडम हात                      रींग्स        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000072)
+Words: 2 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 250.00% Accuracy = -150.00%
+Insertions: 3 Deletions: 0 Substitutions: 2
+कपड़ों के फ़ोटो  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000073)
+कपड़ों के फ़ोटो  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000073)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बड़े लोगों के ड्रेस  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000074)
+बड़े लोगों के ड्रेस  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000074)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+स्पोर्ट्स जूते  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000075)
+स्पोर्ट्स जूते  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000075)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बड़े लोगों    के             लिए    चनिया चोली     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000076)
+***          प्लेयर वॉरंटी सैंट इतर       सैंडल  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000076)
+Words: 6 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 5
+***             घागरा चोली  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000077)
+पैकेट एस          नाईट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000077)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+चनिया    चोली     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000078)
+फिटनेस नाइटी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000078)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+डिज़ाइन दार       घागरा                    (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000079)
+डी             गेम्स एक्स्टेंडेड  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000079)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+***          घागरा  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000080)
+सैंट इतर        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000080)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+चनिया  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000081)
+फैन        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000081)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ड्रेस ***                मट्रीअल  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000082)
+ड्रेस मिट्टी एस                 (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000082)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***             चनिया चोली     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000083)
+सैंडल कैस       नाइटी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000083)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+पैन       अमेरिका जीन्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000084)
+गैहने गाउन          जीन्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000084)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***       लैहेंगा कुर्ता  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000085)
+जीम जैतुन       बैग           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000085)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+ली    जीन्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000086)
+बूट तेल        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000086)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***    पीटर          इंग्लैंड  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000087)
+की वैक्यूम मैडम              (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000087)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***          माइक्रोमैक्स लैपटॉप  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000088)
+मैडम एस                               लैदर        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000088)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***    ब्लूटूथ  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000089)
+ली कूलर           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000089)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***                ***       शपथ             बायुपुत्राची  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000090)
+लैपटॉप बैग सीक्रेट की                                (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000090)
+Words: 2 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 2 Deletions: 0 Substitutions: 2
+राउ  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000091)
+डैल  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000091)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***          राऊ पूस्तक  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000092)
+मैडम ली    बैग           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000092)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***       राऊ       कादंबरी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000093)
+डैल गैहने लेडीज        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000093)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+वेट गेनर सप्लीमेंट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000094)
+वेट गेनर सप्लीमेंट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000094)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***       ***    लिबर्टी शूज़             फॉर्मल  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000095)
+जीम एस डी                सुलतानी मैडम        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000095)
+Words: 3 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 166.67% Accuracy = -66.67%
+Insertions: 2 Deletions: 0 Substitutions: 3
+***                   लेटेस्ट स्मार्टफोंस  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000096)
+इंटेक्स स्मैर्ट फोन                          (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000096)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***          सर्डी के कपडे  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000097)
+सैंट डी          के कपडे  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000097)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+रेड    बेड       शीट्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000098)
+मैडम ड्रेस साड़ीज़  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000098)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ट्रैवल बैग  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000099)
+सैमसंग बैग  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000099)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+क्रिकेट किट        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000100)
+***                   पैकेट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000100)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+क्रिकेट शूज़              (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000101)
+डी                कुर्तीज  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000101)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+तेल  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000102)
+तेल  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000102)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+जैतुन का       तेल        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000103)
+***             डेटा पैकेट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000103)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+सैंट इतर  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000104)
+सैंट इतर  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000104)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***    इतर  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000105)
+की एस     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000105)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***             टीवीएस मोटर ***          साइकिल  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000106)
+अडीयो एस             मोटर सैंट इतर           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000106)
+Words: 3 Correct: 1 Errors: 4 Percent correct = 33.33% Error = 133.33% Accuracy = -33.33%
+Insertions: 2 Deletions: 0 Substitutions: 2
+***          सोलर    लाइट्स     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000107)
+सैंट मैन्स लैहेंगा  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000107)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+सादी    की    साड़ियाँ  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000108)
+सैंडल बैग कैनर           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000108)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+लेडीस ब्लाउज        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000109)
+लेडीस गैलेक्सी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000109)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+दुल्हन का             जोड़ा  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000110)
+डिज़ाइन काइट्स जोड़ा  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000110)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+लैपटॉप बैग  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000111)
+मैडम       बैग  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000111)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+दुल्हन की          साड़ी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000112)
+ड्रेस    पैकेट बैग     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000112)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+***    ***    एम्ब्रयडरी साड़ीयाँ  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000113)
+इन एस बैग                      कैनर           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000113)
+Words: 2 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 2 Deletions: 0 Substitutions: 2
+सैमसंग गैलेक्सी कोर    प्राइम  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000114)
+सैमसंग गैलेक्सी कूलर मैडम        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000114)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***       पेनड्राईव  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000115)
+पैन बैग                    (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000115)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+डबल       डोर        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000116)
+गैहने नाइटी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000116)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***       सिंगल डोर  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000117)
+सूट कटन       नोट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000117)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***          चपलचे रैक  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000118)
+सैंट इतर       बैग  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000118)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***                ***             ट्रैवल बैग्स    ऐमिरिकन टूरिस्टर  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000119)
+सैमसंग मैन्स पैन          मिट्टी लेडीस       बैग्स           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000119)
+Words: 4 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 2 Deletions: 0 Substitutions: 4
+रैडमी    नोट          प्राइम  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000120)
+इंडिया लैपटॉप बैग           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000120)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+साओमी रेडमी नोट       प्राइम मोवाइल  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000121)
+सैंट    लिए       चनिया कैमरा    मैडम        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000121)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 5
+बूट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000122)
+लंच  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000122)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+गोल्ड स्टार स्पोर्ट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000123)
+वेट       एस          बूट              (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000123)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+यूनीफॉर्म  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000124)
+पीटर                 (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000124)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***       कैनर  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000125)
+पैन एस        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000125)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***          डैल  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000126)
+मैडम लो     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000126)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+आराम    कुर्सी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000127)
+पैकेट कुर्सी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000127)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+रीबोक     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000128)
+इंडिया  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000128)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***       कम्बो       जीन्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000129)
+पैन अमेरिका जीन्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000129)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***    कैस    औन डिलिवरी मोवाइल  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000130)
+के साधन एफ़ एम्             रैक           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000130)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+वैक्यूम क्लीनर  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000131)
+सैंट          एस              (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000131)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+पैन ड्राइव  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000132)
+पैन बैग           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000132)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***          मदरबोर्ड  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000133)
+मैडम बूट                 (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000133)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+हात       घड़ी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000134)
+पैकेट घड़ी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000134)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+सैंडिल  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000135)
+सैंडिल  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000135)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***                लैदर चप्पल  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000136)
+एडिडास सैंट इतर        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000136)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+प्योअर गोल्ड ज्वेलरी रींग्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000137)
+सीरप       आराम    कुर्सी    फैंसी     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000137)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+हेलमेट स्टैंड  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000138)
+हेलमेट स्टैंड  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000138)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+इंडियन टैरेन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000139)
+इंडियन पैकेट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000139)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***    लेनोवो  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000140)
+डी मेमोरी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000140)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***          माइक्रोमैक्स बैट्री  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000141)
+मैडम एस                               मिट्टी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000141)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***       कफ़ी       मेकर  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000142)
+कैस जीवनी कैनर  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000142)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+चेक्स     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000143)
+स्टैंड  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000143)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+औरेलिया कुर्तीज ***        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000144)
+औरेलिया कुर्तीज शूज़  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000144)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+***    टिपटॉप  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000145)
+की एस              (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000145)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+इंटेल  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000146)
+गैहने  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000146)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+सुलतानी    सीरप        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000147)
+सिंथेटिक क्लीनर  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000147)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***                   टोपी    मफलर  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000148)
+फ़िलीप्स पैकेट एस        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000148)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***       मुलतानी सीरप  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000149)
+रेड बेड             पीटर  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000149)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+पुरूस स्टैमिना के लिए ***             सीरप  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000150)
+पुरूस स्टैमिना के लिए एसियन एफ़        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000150)
+Words: 5 Correct: 4 Errors: 2 Percent correct = 80.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***          कार्बन टाइटेनियम एस फाइव       प्लस  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000151)
+मैडम बैग          इंडियन          एस बैट्री एस        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000151)
+Words: 5 Correct: 1 Errors: 5 Percent correct = 20.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+***       एफ़ एम् रेडियो  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000152)
+पैन के लिए सीरप        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000152)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+***       मैमोरी कार्ड  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000153)
+जीम लेडीज    रैक        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000153)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***             ***    ***             ***    एडिडास सिंथेटिक लेदर सूज              (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000154)
+पैकेट एस स्किन के की             के                   एस       कुर्तीज  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000154)
+Words: 4 Correct: 0 Errors: 8 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 4 Deletions: 0 Substitutions: 4
+सैमसंग ग्रैंड ***       प्राइम फ़्लीप कवर्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000155)
+सैमसंग ग्रैंड फैन गोल्ड    की          नागाज़  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000155)
+Words: 5 Correct: 2 Errors: 4 Percent correct = 40.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+रेलवे बूक  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000156)
+पैन       लो     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000156)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+मिट्टी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000157)
+गेम्स     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000157)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+पीपल मैन्स    सर्ट्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000158)
+पीटर ग्रैंड काइट्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000158)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+***                ***       रेलवे परीक्षा तैयारी बूक  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000159)
+तैयारी वेट कैनर    बेड             शीट्स    लो     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000159)
+Words: 4 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 2 Deletions: 0 Substitutions: 4
+मेलुहाचे ***    मृतुन्जय  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000160)
+मेलुहाचे ली इंटेल           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000160)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***          सोनी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000161)
+साड़ी सूट     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000161)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***          वीवो          स्मार्टफोन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000162)
+ईपसन स्मैर्ट फोन                       (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000162)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+सीक्रेट ऑफ़ नागाज़  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000163)
+सीक्रेट ऑफ़ मैडम     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000163)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+फ़िलीप्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000164)
+कटन              (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000164)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***                फ़िलीप्स मोवाईल  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000165)
+टीवीएस मोटर          मैडम        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000165)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+स्किन केयर     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000166)
+स्किन गेम्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000166)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***             ***       कैमरा डाटा केवल  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000167)
+गैहने बैग बैग       के       लिए     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000167)
+Words: 3 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 166.67% Accuracy = -66.67%
+Insertions: 2 Deletions: 0 Substitutions: 3
+इंटेक्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000168)
+इंटेक्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000168)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+लीड कैमरा ***        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000169)
+लीड कैमरा बैग  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000169)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+लीड           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000170)
+मिट्टी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000170)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***    ***             डेटा केबल कैमरा सोनी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000171)
+के पैकेट वेट    गेनर एस          फैन     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000171)
+Words: 4 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 2 Deletions: 0 Substitutions: 4
+***          ओफो मोबाइल    फोन              (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000172)
+पोलो एम् लैहेंगा ज्वेलरी  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000172)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+कृष्णन फ़ोटो  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000173)
+टीसर्ट फ़ोटो  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000173)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***       सफेद  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000174)
+कैस के        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000174)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***                   स्पोर्ट सूज आफर्ज़     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000175)
+स्मैर्ट बूट             एस    काइट्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000175)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+***    कसरत          के    साधन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000176)
+एस जैकेट्स बैग फैन     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000176)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+फिटनेस  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000177)
+फिटनेस  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000177)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***          स्वेटर ऑफर्ज़  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000178)
+सैंट इतर          आफर्ज़  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000178)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***             ब्लैक फॉर्मल शूज़  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000179)
+मैन्स पैन       एस             सूट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000179)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+जैकेट्स ऑफर           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000180)
+जैकेट्स काइट्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000180)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+नाइक शूज़  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000181)
+मैडम सूट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000181)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+पोलो          पैंट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000182)
+औरेलिया पेन     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000182)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+सोनी एक्स्पीरिया  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000183)
+सोनी एक्स्पीरिया  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000183)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***                               एक्स्टर्नल हार्डिस्क  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000184)
+एक्स्टेंडेड रैड                      लागेज़              (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000184)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+सेट टॉप       बॉक्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000185)
+सेट कैमरा एस           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000185)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+बेबीज़ ***          डायपर  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000186)
+बेबीज़ मैडम रैक        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000186)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+साड़ी       सूट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000187)
+सैमसंग सूट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000187)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+स्कील्स ड्रिल             मशीन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000188)
+जीन्स       सप्लीमेंट पेन     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000188)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+***             साड़ी सूट    लैहेंगा फाइव हंड्रेड तक     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000189)
+साड़ीज़ झूला गेनर बैग             पैन    के                रैक  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000189)
+Words: 6 Correct: 0 Errors: 7 Percent correct = 0.00% Error = 116.67% Accuracy = -16.67%
+Insertions: 1 Deletions: 0 Substitutions: 6
+***       ***                ब्लूटूथ अडीयो    प्लेयर  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000190)
+बूट लैपटॉप बैग             विडियो गेम्स     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000190)
+Words: 3 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 166.67% Accuracy = -66.67%
+Insertions: 2 Deletions: 0 Substitutions: 3
+टीवी विडियो गेम्स        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000191)
+टीवी तैयारी जैकेट्स  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000191)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***       सैमसंग  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000192)
+फैन फैन           (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000192)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+सोना भाव     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000193)
+सोना लैदर  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000193)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+गोल्ड ***       रिंग        (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000194)
+गोल्ड रेट कृष्णन  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000194)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+गोल्ड ***          रेट     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000195)
+गोल्ड रिंग पैंट  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000195)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+गोल्ड  (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000196)
+नाईट     (\\TRAIN\\REVERIE\\NIBEDITA\\SET_A\\TRAIN_AUDIO\\00000196)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+TOTAL Words: 441 Correct: 95 Errors: 457
+TOTAL Percent correct = 21.54% Error = 103.63% Accuracy = -3.63%
+TOTAL Insertions: 111 Deletions: 7 Substitutions: 339

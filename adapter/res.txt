@@ -1,0 +1,227 @@
+डायनामो  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000000)
+डायनामो  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000000)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+सस्ती और भरपूर विद्युत शक्ति  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000001)
+सस्ती और भरपूर विद्युत शक्ति  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000001)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+किसी भी देश के लिए एक बड़ा वरदान है  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000002)
+किसी भी देश के लिए एक बड़ा वरदान है  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000002)
+Words: 9 Correct: 9 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+घरों में इससे न केवल रोशनी और गर्मी ही प्राप्त होती है  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000003)
+घरों में इससे न केवल रोशनी और गर्मी ही प्राप्त होती है  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000003)
+Words: 12 Correct: 12 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+वरन इसी के द्वारा हमारे दैनिक उपयोग की अनेक चीजें भी चलती हैं  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000004)
+वरन इसी ***    निकला    हमारे दैनिक उपयोग की अनेक चीजें भी ***          जब     (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000004)
+Words: 13 Correct: 9 Errors: 4 Percent correct = 69.23% Error = 30.77% Accuracy = 69.23%
+Insertions: 0 Deletions: 2 Substitutions: 2
+बिजली को इस्त्री बिजली के टोस्टर बिजली के          चूल्हे बिजली की घंटी  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000005)
+बिजली की इस्त्री बिजली के टोस्टर बिजली बिजली है             बिजली की घंटी  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000005)
+Words: 12 Correct: 9 Errors: 3 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+बिजली के कूलर कपड़े धोने की मशीन और बिजली के उस्तरे आदि से  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000006)
+बिजली के कूलर कपड़े धोने की मशीन और बिजली के उस्तरे आदि से  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000006)
+Words: 13 Correct: 13 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+हमारा जीवन आसान और सुखमय बन गया है  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000007)
+हमारा जीवन आसान और सुखमय बन गया है  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000007)
+Words: 8 Correct: 8 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बिजली से ही ट्रेन और ट्राम तथा फैक्ट्रियों में मशीनें चलायी जाती हैं  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000008)
+बिजली से ही ट्रेन और ट्राम तथा फैक्ट्रियों में मशीनें चलायी जाती हैं  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000008)
+Words: 13 Correct: 13 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+टेलीग्राफ टेलीफोन रेडियो और टेलीविज़न भी बिजली से ही चलते हैं  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000009)
+टेलीग्राफ टेलीफोन रेडियो और टेलीविज़न भी बिजली से ही तब       तक     (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000009)
+Words: 11 Correct: 9 Errors: 2 Percent correct = 81.82% Error = 18.18% Accuracy = 81.82%
+Insertions: 0 Deletions: 0 Substitutions: 2
+बिजली के इतने अधिक लाभ हैं  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000010)
+बिजली के इतने अधिक लाभ हैं  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000010)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+कि हम सोच कर हैरान रह जाते हैं  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000011)
+कि हम सोच कर हैरान रह जाते हैं  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000011)
+Words: 8 Correct: 8 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+कि जब बिजली नहीं थी तब हमारा काम कैसे चलता था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000012)
+कि जब बिजली नहीं थी तब हमारा काम कैसे चलता था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000012)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बिजली के अविष्कार को बहुत समय नहीं हुआ  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000013)
+बिजली के अविष्कार को बहुत समय नहीं हुआ  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000013)
+Words: 8 Correct: 8 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+सिर्फ एक सौ पचास वर्ष पहले लोगों को बिजली के बिना ही काम चलाना पड़ता था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000014)
+सिर्फ एक सौ पचास वर्ष पहले लोगों को बिजली के बिना ही काम चलाना पड़ता था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000014)
+Words: 16 Correct: 16 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+इसलिए नहीं कि तब लोगों को बिजली की जानकारी नहीं थी  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000015)
+इसलिए नहीं कि तब लोगों को बिजली की जानकारी नहीं थी  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000015)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बल्कि इसलिए कि तब तक बिजली का उत्पादन कठिन होने के साथ साथ महंगा भी       था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000016)
+बल्कि इसलिए कि तब तक बिजली का उत्पादन कठिन होने के साथ साथ में       नहीं था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000016)
+Words: 16 Correct: 14 Errors: 2 Percent correct = 87.50% Error = 12.50% Accuracy = 87.50%
+Insertions: 0 Deletions: 0 Substitutions: 2
+तब इसका उत्पादन सिर्फ वैज्ञानिक लोग  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000017)
+तब इसका उत्पादन सिर्फ वैज्ञानिक लोग  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000017)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+थोड़ी मात्रा में बस अपने प्रयोगों आदि भर के लिए किया करते थे  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000018)
+थोड़ी मात्रा में बस अपने प्रयोगों आदि भर के लिए किया करते ***     (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000018)
+Words: 13 Correct: 12 Errors: 1 Percent correct = 92.31% Error = 7.69% Accuracy = 92.31%
+Insertions: 0 Deletions: 1 Substitutions: 0
+डायनामो या विद्युत जेनरेटर के आविष्कार के बाद ही  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000019)
+डायनामो या विद्युत जेनरेटर के आविष्कार के बाद ही  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000019)
+Words: 9 Correct: 9 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बिजली साधारण आदमी के इस्तेमाल की चीज़ बन सकी  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000020)
+बिजली साधारण आदमी के इस्तेमाल की चीज़ बन सकी  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000020)
+Words: 9 Correct: 9 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बिजली की जानकारी तो पहले से ही थी बहुत पहले से  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000021)
+बिजली की जानकारी तो पहले से ही थी बहुत पहले से  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000021)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ईसा से छह सौ वर्ष पूर्व एक यूनानी दार्शनिक ने पता लगाया था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000022)
+ईसा से छह सौ वर्ष पूर्व एक यूनानी दार्शनिक ने पता लगाया था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000022)
+Words: 13 Correct: 13 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+कि रेशम को कपड़े के साथ रगड़ने पर एम्बर में एक विचित्र लक्षण आ जाता था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000023)
+कि रेशम को कपड़े के साथ रगड़ने पर एम्बर में एक विचित्र लक्षण आ जाता था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000023)
+Words: 16 Correct: 16 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+वह पास लायी गयी हर हल्की वस्तु को उठा लेता था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000024)
+वह पास लायी गयी हर हल्की वस्तु को उठा लेता था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000024)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+छोटे छोटे कागज़ के टुकड़े कपड़े की कतरनें पक्षियों के पर वगैरह  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000025)
+छोटे छोटे कागज़ के टुकड़े कपड़े की कतरनें पक्षियों के पर वगैरह  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000025)
+Words: 12 Correct: 12 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+उछल कर एम्बर पर पहुँच जाते और उससे चिपके रहते  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000026)
+उछल कर एम्बर पर पहुँच जाते और उससे चिपके ***           (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000026)
+Words: 10 Correct: 9 Errors: 1 Percent correct = 90.00% Error = 10.00% Accuracy = 90.00%
+Insertions: 0 Deletions: 1 Substitutions: 0
+इस खोज से लोगों का मनोरंजन तो होता रहा होगा  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000027)
+इस खोज से लोगों का मनोरंजन तो होता रहा होगा  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000027)
+Words: 10 Correct: 10 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+लेकिन बहुत समय तक आगे इससे कोई ठोस नतीजा नहीं निकला  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000028)
+लेकिन बहुत समय तक आगे इसका इट    पास नतीजा नहीं निकला  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000028)
+Words: 11 Correct: 8 Errors: 3 Percent correct = 72.73% Error = 27.27% Accuracy = 72.73%
+Insertions: 0 Deletions: 0 Substitutions: 3
+सोलह सौ में एक व्यक्ति विलियम गिलबर्ट  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000029)
+सोलह सौ में एक व्यक्ति विलियम गिलबर्ट  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000029)
+Words: 7 Correct: 7 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+यों ही अपने मनबहलाव के लिए बिजली का अध्ययन कर रहा था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000030)
+यों ही अपने मनबहलाव के लिए बिजली का अध्ययन कर रहा था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000030)
+Words: 12 Correct: 12 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+उसने विविध पदार्थों के साथ बड़े प्रयोग किये  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000031)
+उसने विविध पदार्थों के साथ बड़े प्रयोग किये  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000031)
+Words: 8 Correct: 8 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+उसने देखा कि एम्बर के अलावा कुछ अन्य पदार्थों में भी  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000032)
+उसने देखा कि एम्बर के अलावा कुछ अन्य पदार्थों में भी  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000032)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+जैसे कि गंधक काँच और सील लगाने की लाख में  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000033)
+जैसे कि गंधक काँच और सील लगाने की लाख में  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000033)
+Words: 10 Correct: 10 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+रेशम फलालैन और फर के साथ रगड़ने पर  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000034)
+रेशम फलालैन और फर के साथ रगड़ने पर  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000034)
+Words: 8 Correct: 8 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+कागज़ के टुकड़ों को खींचने की शक्ति आ जाती है  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000035)
+कागज़ के टुकड़ों को खींचने की शक्ति आ जाती है  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000035)
+Words: 10 Correct: 10 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+यहाँ पर जो आज टॉपिक टच होने वाला है  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000000)
+यहाँ पर जो आज टॉपिक टच होने वाला ***     (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000000)
+Words: 9 Correct: 8 Errors: 1 Percent correct = 88.89% Error = 11.11% Accuracy = 88.89%
+Insertions: 0 Deletions: 1 Substitutions: 0
+इट इज वन ऑफ़ द मोस्ट इम्पोर्टेन्ट टॉपिक्स ऑफ़ माय लाइफ  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000001)
+इट इज वन ऑफ़ द मोस्ट इम्पोर्टेन्ट टॉपिक्स ऑफ़ माय लाइफ  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000001)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+एंड आय मीन इट ये मैं अपने किसी सेशन में नहीं बोला आज तक आज बोल रहा हूँ  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000002)
+एंड आय मीन इट ये मैं अपने किसी सेशन में एक       बोला आज तक आज बोल रहा हूँ  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000002)
+Words: 18 Correct: 17 Errors: 1 Percent correct = 94.44% Error = 5.56% Accuracy = 94.44%
+Insertions: 0 Deletions: 0 Substitutions: 1
+नॉट जस्ट फॉर दि स्टूडेंट्स  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000003)
+नॉट जस्ट फॉर दि स्टूडेंट्स  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000003)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+यहाँ पर कितने स्टूडेंट्स हैं  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000004)
+***          पर कितने स्टूडेंट्स हैं  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000004)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 1 Substitutions: 0
+जो कि स्कूल में हैं कॉलेज में हैं या पोस्टग्रेजुएट लेवल पे  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000005)
+जो कि स्कूल में हैं कॉलेज में हैं या पोस्टग्रेजुएट लेवल पे  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000005)
+Words: 12 Correct: 12 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+स्टूडेंट्स की लाइफ की  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000006)
+स्टूडेंट्स की लाइफ की  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000006)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+दो ऐसी प्रोब्लेम्स हैं जिसको आज हम टच करने वाले हैं  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000007)
+दो ऐसी प्रोब्लेम्स हैं जिसको आज हम टच करने वाले हैं  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000007)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+और मेरे अकौर्डिंग जितनी भी प्रोब्लेम्स हैं स्टूडेंट्स की लाइफ से रिलेटेड  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000008)
+और मेरे अकौर्डिंग जितनी भी प्रोब्लेम्स हैं स्टूडेंट्स की लाइफ से रिलेटेड  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000008)
+Words: 12 Correct: 12 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+पहली प्रॉब्लम ये है  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000009)
+पहली प्रॉब्लम ये है  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000009)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+कि हम  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000010)
+कि हम  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000010)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+जाने या अनजाने  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000011)
+जाने या अनजाने  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000011)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+गलत ट्रैक पे चलने लग जाते हैं  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000012)
+गलत ट्रैक पे चलने ***    ***          ***        (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000012)
+Words: 7 Correct: 4 Errors: 3 Percent correct = 57.14% Error = 42.86% Accuracy = 57.14%
+Insertions: 0 Deletions: 3 Substitutions: 0
+ये हो गया गलत ट्रैक  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000013)
+ये हो गया गलत ट्रैक  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000013)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+सही ट्रैक क्या है वो हम सबको पता है  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000014)
+सही ट्रैक क्या है ***    हम सबको पता है  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000014)
+Words: 9 Correct: 8 Errors: 1 Percent correct = 88.89% Error = 11.11% Accuracy = 88.89%
+Insertions: 0 Deletions: 1 Substitutions: 0
+वो क्या है कि अगर हम स्टूडेंट हैं  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000015)
+वो क्या है कि अगर हम स्टूडेंट हैं  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000015)
+Words: 8 Correct: 8 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+तो हमारे लिए सबसे ज़रूरी क्या है इस पॉइंट पे  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000016)
+तो हमारे लिए सबसे ज़रूरी क्या है इस पॉइंट पे  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000016)
+Words: 10 Correct: 10 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+पढ़ाई करना  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000017)
+पढ़ाई करना  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000017)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+और कोई ऑप्शन ही नहीं है ना  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000018)
+और कोई ऑप्शन ही नहीं है ***     (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000018)
+Words: 7 Correct: 6 Errors: 1 Percent correct = 85.71% Error = 14.29% Accuracy = 85.71%
+Insertions: 0 Deletions: 1 Substitutions: 0
+अभी आप क्या करोगे  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000019)
+अभी आप क्या करोगे  (TEST\\SANDEEP_MAHESHWARI\\TEST_AUDIO\\00000019)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+TOTAL Words: 518 Correct: 494 Errors: 24
+TOTAL Percent correct = 95.37% Error = 4.63% Accuracy = 95.37%
+TOTAL Insertions: 0 Deletions: 11 Substitutions: 13

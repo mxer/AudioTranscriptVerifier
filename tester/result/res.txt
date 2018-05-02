@@ -1,0 +1,951 @@
+डायनामो  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000000)
+डायनामो  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000000)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+सस्ती और भरपूर विद्युत शक्ति  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000001)
+सस्ती और भरपूर विद्युत शक्ति  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000001)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+किसी भी देश के लिए एक बड़ा वरदान है  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000002)
+किसी भी देश के लिए एक बड़ा वरदान है  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000002)
+Words: 9 Correct: 9 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+घरों में इससे न केवल रोशनी और गर्मी ही प्राप्त होती है  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000003)
+घरों में इससे न अपने मशीन    और गर्मी ही प्राप्त होती है  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000003)
+Words: 12 Correct: 10 Errors: 2 Percent correct = 83.33% Error = 16.67% Accuracy = 83.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+वरन इसी के द्वारा हमारे दैनिक उपयोग की अनेक चीजें भी चलती हैं  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000004)
+वरन इसी के द्वारा हमारे अनेक    उपयोग की अनेक चीजें भी चलती ***        (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000004)
+Words: 13 Correct: 11 Errors: 2 Percent correct = 84.62% Error = 15.38% Accuracy = 84.62%
+Insertions: 0 Deletions: 1 Substitutions: 1
+बिजली को इस्त्री बिजली के टोस्टर बिजली के          चूल्हे बिजली की घंटी  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000005)
+बिजली की इस्त्री बिजली के टोस्टर बिजली बिजली तक             बिजली की घंटी  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000005)
+Words: 12 Correct: 9 Errors: 3 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+बिजली के कूलर कपड़े धोने की मशीन और बिजली के उस्तरे आदि से  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000006)
+बिजली के कूलर कपड़े धोने की मशीन और बिजली के उस्तरे आदि से  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000006)
+Words: 13 Correct: 13 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+हमारा जीवन आसान और सुखमय बन गया है  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000007)
+हमारा जीवन आसान और सुखमय बन गया है  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000007)
+Words: 8 Correct: 8 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बिजली से ही ट्रेन और ट्राम तथा फैक्ट्रियों में मशीनें चलायी जाती हैं  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000008)
+बिजली से ही ट्रेन और ट्राम तथा फैक्ट्रियों ***       मशीनें चलायी जाती हैं  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000008)
+Words: 13 Correct: 12 Errors: 1 Percent correct = 92.31% Error = 7.69% Accuracy = 92.31%
+Insertions: 0 Deletions: 1 Substitutions: 0
+टेलीग्राफ टेलीफोन रेडियो और टेलीविज़न भी बिजली से ही चलते हैं  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000009)
+टेलीग्राफ टेलीफोन रेडियो और टेलीविज़न भी बिजली से ही चलते हैं  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000009)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बिजली के इतने अधिक लाभ हैं  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000010)
+बिजली के इतने अधिक लाभ हैं  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000010)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+कि हम सोच कर हैरान रह जाते हैं  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000011)
+कि हम सोच कर हैरान रह जाते हैं  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000011)
+Words: 8 Correct: 8 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+कि जब बिजली नहीं थी तब हमारा काम कैसे चलता था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000012)
+कि जब बिजली नहीं थी तब हमारा काम कैसे चलता था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000012)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बिजली के अविष्कार को बहुत समय नहीं हुआ  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000013)
+बिजली के अविष्कार को बहुत समय नहीं हुआ  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000013)
+Words: 8 Correct: 8 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+सिर्फ एक सौ पचास वर्ष पहले लोगों को बिजली के बिना ही काम चलाना पड़ता था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000014)
+सिर्फ एक सौ पचास वर्ष पहले लोगों को बिजली के बिना ही काम चलाना पड़ता था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000014)
+Words: 16 Correct: 16 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+इसलिए नहीं कि तब लोगों को बिजली की जानकारी नहीं थी  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000015)
+इसलिए नहीं कि तब लोगों को बिजली की जानकारी नहीं थी  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000015)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बल्कि इसलिए कि तब तक बिजली का उत्पादन कठिन होने के साथ साथ महंगा भी था                 (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000016)
+बल्कि इसलिए कि तब तक बिजली का उत्पादन कठिन होने के साथ साथ ***             ***    मुनक्का  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000016)
+Words: 16 Correct: 13 Errors: 3 Percent correct = 81.25% Error = 18.75% Accuracy = 81.25%
+Insertions: 0 Deletions: 2 Substitutions: 1
+तब इसका उत्पादन सिर्फ वैज्ञानिक लोग  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000017)
+तब इसका उत्पादन सिर्फ वैज्ञानिक लोग  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000017)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+थोड़ी मात्रा में बस अपने प्रयोगों आदि भर के लिए किया करते थे  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000018)
+थोड़ी मात्रा में बस अपने प्रयोगों आदि भर के लिए किया करते ***     (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000018)
+Words: 13 Correct: 12 Errors: 1 Percent correct = 92.31% Error = 7.69% Accuracy = 92.31%
+Insertions: 0 Deletions: 1 Substitutions: 0
+डायनामो या विद्युत जेनरेटर के आविष्कार के बाद ही  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000019)
+डायनामो या विद्युत जेनरेटर के आविष्कार के बाद ही  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000019)
+Words: 9 Correct: 9 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बिजली साधारण आदमी के इस्तेमाल की चीज़ बन सकी  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000020)
+बिजली साधारण आदमी के इस्तेमाल की चीज़ बन सकी  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000020)
+Words: 9 Correct: 9 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बिजली की जानकारी तो पहले से ही थी बहुत पहले से  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000021)
+बिजली की जानकारी तो पहले से ही थी बहुत पहले से  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000021)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ईसा से छह सौ वर्ष पूर्व एक यूनानी दार्शनिक ने पता लगाया था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000022)
+ईसा से छह सौ वर्ष पूर्व एक यूनानी दार्शनिक ने पता लगाया था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000022)
+Words: 13 Correct: 13 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+कि रेशम को कपड़े के साथ रगड़ने पर एम्बर में एक विचित्र लक्षण आ जाता था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000023)
+कि रेशम को कपड़े के साथ रगड़ने पर एम्बर में एक विचित्र लक्षण आ जाता था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000023)
+Words: 16 Correct: 16 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+वह पास लायी गयी हर हल्की वस्तु को उठा लेता था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000024)
+वह पास लायी गयी हर हल्की वस्तु को उठा लेता था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000024)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+छोटे छोटे कागज़ के टुकड़े कपड़े की कतरनें पक्षियों के पर वगैरह  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000025)
+छोटे छोटे कागज़ के टुकड़े कपड़े की कतरनें पक्षियों के पर वगैरह  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000025)
+Words: 12 Correct: 12 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+उछल कर          एम्बर पर पहुँच जाते और उससे चिपके रहते  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000026)
+***       उंचाई कैमरा पर पहुँच जाते और उससे चिपके ***           (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000026)
+Words: 10 Correct: 6 Errors: 4 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+इस खोज से लोगों का मनोरंजन तो होता रहा होगा  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000027)
+इस खोज से लोगों का मनोरंजन तो होता रहा होगा  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000027)
+Words: 10 Correct: 10 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+लेकिन बहुत समय तक आगे इससे कोई ठोस       नतीजा नहीं निकला  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000028)
+लेकिन बहुत समय तक आगे इससे कोई कॉस्ट नतीजा नहीं निकला  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000028)
+Words: 11 Correct: 10 Errors: 1 Percent correct = 90.91% Error = 9.09% Accuracy = 90.91%
+Insertions: 0 Deletions: 0 Substitutions: 1
+सोलह सौ में एक व्यक्ति विलियम गिलबर्ट  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000029)
+सोलह सौ में एक व्यक्ति विलियम गिलबर्ट  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000029)
+Words: 7 Correct: 7 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+यों ही अपने मनबहलाव के लिए बिजली का अध्ययन कर रहा था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000030)
+यों ही अपने मनबहलाव के लिए बिजली का अध्ययन कर रहा था  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000030)
+Words: 12 Correct: 12 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+उसने विविध पदार्थों के साथ बड़े प्रयोग किये  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000031)
+उसने विविध पदार्थों के साथ बड़े प्रयोग किये  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000031)
+Words: 8 Correct: 8 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+उसने देखा कि एम्बर के अलावा कुछ अन्य पदार्थों में भी  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000032)
+उसने देखा कि एम्बर के अलावा कुछ अन्य पदार्थों में भी  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000032)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+जैसे कि गंधक काँच और सील लगाने की लाख में  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000033)
+जैसे कि गंधक काँच और सील लगाने की लाख में  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000033)
+Words: 10 Correct: 10 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+रेशम फलालैन और फर के साथ रगड़ने पर  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000034)
+रेशम फलालैन और फर के साथ रगड़ने पर  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000034)
+Words: 8 Correct: 8 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+कागज़ के टुकड़ों को खींचने की शक्ति आ जाती है  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000035)
+कागज़ के टुकड़ों को खींचने की शक्ति आ जाती है  (TEST\\3553\\PANKAJ\\TEST_AUDIO\\00000035)
+Words: 10 Correct: 10 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+किराए की गाड़ियाँ  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000000)
+किराए की गाड़ियाँ  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000000)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+प्रतिस्पर्धात्मक परीक्षाओं के लिए किताबें  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000001)
+प्रतिस्पर्धात्मक परीक्षाओं के लिए किताबें  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000001)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+कथा साहित्य ***        (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000002)
+कथा साहित्य अंक  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000002)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+चलते पुर्जे  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000003)
+चलते पुर्जे  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000003)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+यंत्र सामग्री  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000004)
+यंत्र सामग्री  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000004)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+औज़ार  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000005)
+औज़ार  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000005)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+व्यापारिक वाहन  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000006)
+व्यापारिक वाहन  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000006)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+मोटरगाड़ी  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000007)
+मोटरगाड़ी  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000007)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+मल्टीमीडिया सीखने के लिए डीवीडी  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000008)
+मल्टीमीडिया सीखने के है    डीवीडी  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000008)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+स्मरण शक्ति का विकास कैसे करें  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000009)
+स्मरण शक्ति का विकास अति    करें  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000009)
+Words: 6 Correct: 5 Errors: 1 Percent correct = 83.33% Error = 16.67% Accuracy = 83.33%
+Insertions: 0 Deletions: 0 Substitutions: 1
+याददाश्त कैसे          बढ़ाएं  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000010)
+याददाश्त व्यक्ति बढ़ाएं  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000010)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+विदेश शिक्षा  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000011)
+विदेश शिक्षा  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000011)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+अंक गणित के लिए             गाइड  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000012)
+***       ***          ***    आदमियों गाइड  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000012)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 3 Substitutions: 1
+दिल्ली बोर्ड के लिए पुस्तकें  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000013)
+कि             बोर्ड के लिए पुस्तकें  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000013)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+बजेट मोबाइल नौ हज़ार तक  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000014)
+बजेट मोबाइल नौ हज़ार तक  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000014)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+स्क्रीन गार्ड्स  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000015)
+स्क्रीन गार्ड्स  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000015)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+थर्मामीटर  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000016)
+थर्मामीटर  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000016)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+वॉरंटी और इन्श्यूरैंस  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000017)
+वॉरंटी और इन्श्यूरैंस  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000017)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+जीवन बीमा  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000018)
+जीवन बीमा  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000018)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+अनारकली  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000019)
+अनारकली  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000019)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+कॉटन सिल्क ड्रैस मटीरियल  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000020)
+कॉटन सिल्क ड्रैस मटीरियल  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000020)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+शीतल फैशन  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000021)
+शीतल फैशन  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000021)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+स्कूली बच्चों के लिए वस्तुएं  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000022)
+स्कूली बच्चों के लिए वस्तुएं  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000022)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+कार जी                         पी ऐस  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000023)
+***       ग्राइंडिंग के ऐस  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000023)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+जी पी ऐस नैवीगेशन उपकरण  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000024)
+जी पी ऐस नैवीगेशन उपकरण  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000024)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***             ट्यूबलैस टायर  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000025)
+दुग्ध लैंस             टायर  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000025)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+पैनासोनिक डीवीडी प्लेयर  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000026)
+पैनासोनिक डीवीडी हैं           (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000026)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+पैनासोनिक टी वी  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000027)
+पैनासोनिक टी वी  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000027)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***    दौड़ने के लिए जूते  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000028)
+लो नहीं    थी तब    एम        (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000028)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+***    पारिवारिक पोषण  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000029)
+आय लायी                पोषण  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000029)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ऐम पी थ्री प्लेयर  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000030)
+ऐम पी थ्री बैड           (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000030)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+आदमियों के लिए मोज़े           (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000031)
+आदमियों के लिए वस्तुएं  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000031)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***    ***    ***    डीलिंक राऊटर्स  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000032)
+बी एम का लो             प्राइस     (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000032)
+Words: 2 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 250.00% Accuracy = -150.00%
+Insertions: 3 Deletions: 0 Substitutions: 2
+आयबॉल गैजेट्स  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000033)
+आयबॉल गैजेट्स  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000033)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+वायरलेस रिपीटर  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000034)
+वायरलेस रिपीटर  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000034)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+गोल्डन स्टील वॉच  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000035)
+वरन          स्टील वॉच  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000035)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+प्रोटीन बिस्कुट्स  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000036)
+प्रोटीन बिस्कुट्स  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000036)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+वज़न बढ़ाने के लिए  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000037)
+वज़न बढ़ाने के ही     (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000037)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+मोटापा घटाने के लिए  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000038)
+मोटापा घटाने के लिए  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000038)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+चर्बी कम करने के लिए  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000039)
+चर्बी कम करने के लिए  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000039)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+हनुमान ***          चालीसा  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000040)
+हनुमान जाती था              (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000040)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+दुर्गा सप्तशती  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000041)
+गोदान    सप्तशती  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000041)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+हनुमान शनि रक्षा यंत्र  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000042)
+हनुमान शनि रक्षा यंत्र  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000042)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+पूजा सामग्री  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000043)
+पूजा सामग्री  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000043)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ज्योतिष परामर्श  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000044)
+ज्योतिष परामर्श  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000044)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+रत्न ***             परामर्श  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000045)
+रत्न हमारा लक्षण        (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000045)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***       ***                एक्यूप्रैशर का सामान  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000046)
+बैग टुकड़े से                            का सामान  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000046)
+Words: 3 Correct: 2 Errors: 3 Percent correct = 66.67% Error = 100.00% Accuracy = 0.00%
+Insertions: 2 Deletions: 0 Substitutions: 1
+आज की खासीयत  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000047)
+आज की खासीयत  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000047)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+गणेश अथर्वशीर्ष ***     (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000048)
+गणेश अथर्वशीर्ष तक  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000048)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+भजन संध्या  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000049)
+भजन संध्या  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000049)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+चनिया चोली  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000050)
+चनिया चोली  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000050)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***          ग्रीष्म ऋतू     (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000051)
+गणेश बहुत          होगा  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000051)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+शरबत और अन्य शीतल पेय  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000052)
+शरबत और अन्य शीतल पेय  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000052)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+खरबूजे के बीज  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000053)
+खरबूजे के बीज  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000053)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+पिस्ता बर्फी  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000054)
+पिस्ता बर्फी  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000054)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+चॉकलेट सॉस  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000055)
+चॉकलेट सॉस  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000055)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+वज़न करने की मशीन  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000056)
+वज़न करने की मशीन  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000056)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+फ़ूड प्रोसेसर  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000057)
+फ़ूड प्रोसेसर  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000057)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+दुग्ध पदार्थ ***     (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000058)
+दुग्ध पदार्थ पर  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000058)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+***       ***       ज़ोलो फ़ोन  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000059)
+यों लोग और       कम     (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000059)
+Words: 2 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 2 Deletions: 0 Substitutions: 2
+अति सुरक्षित तिजोरी  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000060)
+अति सुरक्षित तिजोरी  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000060)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बिजली के उपकरण  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000061)
+बिजली के उपकरण  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000061)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+तवा और    कढ़ाई  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000062)
+बिल ऑफर करें  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000062)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+तंदूर  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000063)
+तंदूर  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000063)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ना ***    चिपकने वाला तवा  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000064)
+ना जे रोकने    वाला तवा  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000064)
+Words: 4 Correct: 3 Errors: 2 Percent correct = 75.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+डोसा तवा  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000065)
+डोसा तवा  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000065)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+इडली बनाने के लिए  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000066)
+इडली बनाने के लिए  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000066)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+मधुमेह                   के रोगियों के लिए  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000067)
+माइक्रोमैक्स के रोगियों के ही     (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000067)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+बुढ़ापा रोकने के लिए  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000068)
+मोटापा रोकने के लिए  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000068)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+मिल्टन लंच बॉक्स  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000069)
+मेवा       लंच बॉक्स  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000069)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+वॉटर बॉटल  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000070)
+वॉटर बॉटल  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000070)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+माइक्रोवेव सेफ        (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000071)
+माइक्रोवेव स्टिक  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000071)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+नया आगमन  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000072)
+नया आगमन  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000072)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+कम से ज्यादा  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000073)
+कम से ज्यादा  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000073)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ज्यादा से कम  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000074)
+ज्यादा से कम  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000074)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+आगे बढ़िये        (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000075)
+***       आदमियों  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000075)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+पीछे जाइए  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000076)
+पीछे जाइए  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000076)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+थैले    के साथ  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000077)
+दौड़ने के साथ  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000077)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+बैग के साथ  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000078)
+बैग के साथ  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000078)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+लिक प्रूफ़  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000079)
+***       इंटेल  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000079)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+वॉटर प्रूफ़  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000080)
+वॉटर प्रूफ़  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000080)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+मेटल बॉक्स  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000081)
+मेटल बॉक्स  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000081)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+पांच सौ रुपये से लेकर हज़ार रुपये तक  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000082)
+पांच सौ रुपये से लेकर हज़ार रुपये तक  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000082)
+Words: 8 Correct: 8 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+दस वर्ष से कम उम्र के लिए  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000083)
+दस वर्ष से कम उम्र के ही     (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000083)
+Words: 7 Correct: 6 Errors: 1 Percent correct = 85.71% Error = 14.29% Accuracy = 85.71%
+Insertions: 0 Deletions: 0 Substitutions: 1
+शारीरिक देखभाल के लिए              (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000084)
+जाती          टी             बी आदमियों  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000084)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+माइक्रोमैक्स स्पार्क जे          थ्री  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000085)
+माइक्रोमैक्स हुआ             चीजें भी        (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000085)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+चॉपर        (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000086)
+चॉकलेट  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000086)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+सब्जी काटने के लिए चाक़ू ***        (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000087)
+सब्जी काटने के लिए चाक़ू हुआ  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000087)
+Words: 5 Correct: 5 Errors: 1 Percent correct = 100.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+रस बनाने के लिए उपकरण  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000088)
+रस बनाने के लिए उपकरण  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000088)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+चटनी बनाने के लिए मशीन           (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000089)
+चटनी बनाने के लिए वस्तुएं  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000089)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+रक्त शर्करा नापने के लिए यन्त्र ***        (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000090)
+रक्त शर्करा नापने के लिए यन्त्र बिल  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000090)
+Words: 6 Correct: 6 Errors: 1 Percent correct = 100.00% Error = 16.67% Accuracy = 83.33%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ब्लड प्रेशर मॉनिटर  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000091)
+ब्लड प्रेशर मॉनिटर  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000091)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ओमरौन वज़न करने का काँटा  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000092)
+ओमरौन वज़न करने का काँटा  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000092)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+प्राप्ति पर नकद भुगतान  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000093)
+प्राप्ति पर नकद भुगतान  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000093)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***    मुफ्त डिलीवरी  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000094)
+को पर          डिलीवरी  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000094)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+लम्बे व्यक्तियों के लिए  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000095)
+लम्बे व्यक्तियों के लिए  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000095)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+उंचाई बढ़ाने के ***    लिए  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000096)
+उंचाई बढ़ाने के बी एम     (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000096)
+Words: 4 Correct: 3 Errors: 2 Percent correct = 75.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+बाल काले करने के लिए  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000097)
+बाल काले करने के ही     (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000097)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+जन्मदिन का उपहार  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000098)
+जन्मदिन का उपहार  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000098)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+सुबह का नाश्ता  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000099)
+सुबह का नाश्ता  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000099)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+रात्रि भोजन  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000100)
+रात्रि भोजन  (TEST\\RAKHEE\\SNAP\\PURE\\TEST_AUDIO\\00000100)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+आगे बढ़िये  (TEST\\VIVEK\\TEST_AUDIO\\00000000)
+आगे बढ़िये  (TEST\\VIVEK\\TEST_AUDIO\\00000000)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+और बताइये  (TEST\\VIVEK\\TEST_AUDIO\\00000001)
+और बताइये  (TEST\\VIVEK\\TEST_AUDIO\\00000001)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+और आगे        (TEST\\VIVEK\\TEST_AUDIO\\00000002)
+***    दौड़ने  (TEST\\VIVEK\\TEST_AUDIO\\00000002)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+नहीं और    आगे     (TEST\\VIVEK\\TEST_AUDIO\\00000003)
+***          नया जाइए  (TEST\\VIVEK\\TEST_AUDIO\\00000003)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+पीछे  (TEST\\VIVEK\\TEST_AUDIO\\00000004)
+पीछे  (TEST\\VIVEK\\TEST_AUDIO\\00000004)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+पीछे पीछे  (TEST\\VIVEK\\TEST_AUDIO\\00000005)
+पीछे पीछे  (TEST\\VIVEK\\TEST_AUDIO\\00000005)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+और पीछे  (TEST\\VIVEK\\TEST_AUDIO\\00000006)
+और पीछे  (TEST\\VIVEK\\TEST_AUDIO\\00000006)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+इससे सस्ती बताइए  (TEST\\VIVEK\\TEST_AUDIO\\00000007)
+इससे सस्ती बताइए  (TEST\\VIVEK\\TEST_AUDIO\\00000007)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+और अधिक सस्ती  (TEST\\VIVEK\\TEST_AUDIO\\00000008)
+और अधिक सस्ती  (TEST\\VIVEK\\TEST_AUDIO\\00000008)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+और कम  (TEST\\VIVEK\\TEST_AUDIO\\00000009)
+और कम  (TEST\\VIVEK\\TEST_AUDIO\\00000009)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+इससे महँगी  (TEST\\VIVEK\\TEST_AUDIO\\00000010)
+इससे महँगी  (TEST\\VIVEK\\TEST_AUDIO\\00000010)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+और ज्यादा महँगी  (TEST\\VIVEK\\TEST_AUDIO\\00000011)
+***    आज             आदमी     (TEST\\VIVEK\\TEST_AUDIO\\00000011)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+और ज्यादा सस्ती  (TEST\\VIVEK\\TEST_AUDIO\\00000012)
+***    कॉटन       सस्ती  (TEST\\VIVEK\\TEST_AUDIO\\00000012)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+इसकी कीमत क्या है  (TEST\\VIVEK\\TEST_AUDIO\\00000013)
+इसकी कीमत क्या है  (TEST\\VIVEK\\TEST_AUDIO\\00000013)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+इसकी कॉस्ट बताइए  (TEST\\VIVEK\\TEST_AUDIO\\00000014)
+इसकी कॉस्ट बताइए  (TEST\\VIVEK\\TEST_AUDIO\\00000014)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+क्या डिस्काउंट मिलेगा  (TEST\\VIVEK\\TEST_AUDIO\\00000015)
+क्या डिस्काउंट मिलेगा  (TEST\\VIVEK\\TEST_AUDIO\\00000015)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+चेकआउट करिए  (TEST\\VIVEK\\TEST_AUDIO\\00000016)
+चेकआउट करिए  (TEST\\VIVEK\\TEST_AUDIO\\00000016)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बिल बनाईये  (TEST\\VIVEK\\TEST_AUDIO\\00000017)
+बिल बनाईये  (TEST\\VIVEK\\TEST_AUDIO\\00000017)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+लेनोवो मोबाइल्स  (TEST\\VIVEK\\TEST_AUDIO\\00000018)
+लेनोवो मोबाइल्स  (TEST\\VIVEK\\TEST_AUDIO\\00000018)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+लहंगा  (TEST\\VIVEK\\TEST_AUDIO\\00000019)
+में        (TEST\\VIVEK\\TEST_AUDIO\\00000019)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+लहंगा फैंसी  (TEST\\VIVEK\\TEST_AUDIO\\00000020)
+लिए       नहीं     (TEST\\VIVEK\\TEST_AUDIO\\00000020)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+माइक्रोमैक्स ए सिक्सटी फाइव बैटरी  (TEST\\VIVEK\\TEST_AUDIO\\00000021)
+माइक्रोमैक्स ए सिक्सटी फाइव बैटरी  (TEST\\VIVEK\\TEST_AUDIO\\00000021)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+रश्मिरथी  (TEST\\VIVEK\\TEST_AUDIO\\00000022)
+रश्मिरथी  (TEST\\VIVEK\\TEST_AUDIO\\00000022)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+निराला  (TEST\\VIVEK\\TEST_AUDIO\\00000023)
+निराला  (TEST\\VIVEK\\TEST_AUDIO\\00000023)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+प्रसाद  (TEST\\VIVEK\\TEST_AUDIO\\00000024)
+प्रसाद  (TEST\\VIVEK\\TEST_AUDIO\\00000024)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+प्रसाद की कामायनी  (TEST\\VIVEK\\TEST_AUDIO\\00000025)
+प्रसाद की कामायनी  (TEST\\VIVEK\\TEST_AUDIO\\00000025)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+प्रेमचंद का कफ़न  (TEST\\VIVEK\\TEST_AUDIO\\00000026)
+प्रेमचंद का कफ़न  (TEST\\VIVEK\\TEST_AUDIO\\00000026)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+गोदान प्रेमचंद  (TEST\\VIVEK\\TEST_AUDIO\\00000027)
+वह          प्रेमचंद  (TEST\\VIVEK\\TEST_AUDIO\\00000027)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+प्रेमचंद  (TEST\\VIVEK\\TEST_AUDIO\\00000028)
+प्रेमचंद  (TEST\\VIVEK\\TEST_AUDIO\\00000028)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+गोदान  (TEST\\VIVEK\\TEST_AUDIO\\00000029)
+गोदान  (TEST\\VIVEK\\TEST_AUDIO\\00000029)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+निर्मला  (TEST\\VIVEK\\TEST_AUDIO\\00000030)
+निर्मला  (TEST\\VIVEK\\TEST_AUDIO\\00000030)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+निर्मला प्रेमचंद  (TEST\\VIVEK\\TEST_AUDIO\\00000031)
+निर्मला प्रेमचंद  (TEST\\VIVEK\\TEST_AUDIO\\00000031)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+छत के लैंप  (TEST\\VIVEK\\TEST_AUDIO\\00000032)
+छत के लैंप  (TEST\\VIVEK\\TEST_AUDIO\\00000032)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+पेनड्राइव  (TEST\\VIVEK\\TEST_AUDIO\\00000033)
+बिजली              (TEST\\VIVEK\\TEST_AUDIO\\00000033)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+फैंसी वॉच  (TEST\\VIVEK\\TEST_AUDIO\\00000034)
+फैंसी वॉच  (TEST\\VIVEK\\TEST_AUDIO\\00000034)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+पर्दे  (TEST\\VIVEK\\TEST_AUDIO\\00000035)
+बर्फी  (TEST\\VIVEK\\TEST_AUDIO\\00000035)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+पर्स  (TEST\\VIVEK\\TEST_AUDIO\\00000036)
+पर्स  (TEST\\VIVEK\\TEST_AUDIO\\00000036)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***       बॉलपेन  (TEST\\VIVEK\\TEST_AUDIO\\00000037)
+लाभ हैं           (TEST\\VIVEK\\TEST_AUDIO\\00000037)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+सलवार सूट     (TEST\\VIVEK\\TEST_AUDIO\\00000038)
+चनिया चोली  (TEST\\VIVEK\\TEST_AUDIO\\00000038)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+हार्ड डिस्क वन टी बी  (TEST\\VIVEK\\TEST_AUDIO\\00000039)
+हार्ड डिस्क वन टी बी  (TEST\\VIVEK\\TEST_AUDIO\\00000039)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+नोकिया दो सौ तीस मोबाइल  (TEST\\VIVEK\\TEST_AUDIO\\00000040)
+नोकिया दो सौ तीस मोबाइल  (TEST\\VIVEK\\TEST_AUDIO\\00000040)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+काला जूता  (TEST\\VIVEK\\TEST_AUDIO\\00000041)
+काला जूता  (TEST\\VIVEK\\TEST_AUDIO\\00000041)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+सैंडल  (TEST\\VIVEK\\TEST_AUDIO\\00000042)
+सैंडल  (TEST\\VIVEK\\TEST_AUDIO\\00000042)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बूटेदार लहंगा  (TEST\\VIVEK\\TEST_AUDIO\\00000043)
+बूटेदार लहंगा  (TEST\\VIVEK\\TEST_AUDIO\\00000043)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+घागरा  (TEST\\VIVEK\\TEST_AUDIO\\00000044)
+घागरा  (TEST\\VIVEK\\TEST_AUDIO\\00000044)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+सोलर लाइट्स  (TEST\\VIVEK\\TEST_AUDIO\\00000045)
+सोलर लिए           (TEST\\VIVEK\\TEST_AUDIO\\00000045)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+रीबोक  (TEST\\VIVEK\\TEST_AUDIO\\00000046)
+रीबोक  (TEST\\VIVEK\\TEST_AUDIO\\00000046)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+रीबोक के जूते  (TEST\\VIVEK\\TEST_AUDIO\\00000047)
+रीबोक के जूते  (TEST\\VIVEK\\TEST_AUDIO\\00000047)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+रीबोक शूज  (TEST\\VIVEK\\TEST_AUDIO\\00000048)
+रीबोक कम     (TEST\\VIVEK\\TEST_AUDIO\\00000048)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+इंटेक्स  (TEST\\VIVEK\\TEST_AUDIO\\00000049)
+इंटेक्स  (TEST\\VIVEK\\TEST_AUDIO\\00000049)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+फिलिप्स  (TEST\\VIVEK\\TEST_AUDIO\\00000050)
+लिए              (TEST\\VIVEK\\TEST_AUDIO\\00000050)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ज़ेरॉक्स  (TEST\\VIVEK\\TEST_AUDIO\\00000051)
+ज़ेरॉक्स  (TEST\\VIVEK\\TEST_AUDIO\\00000051)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+इंटेल  (TEST\\VIVEK\\TEST_AUDIO\\00000052)
+इंटेल  (TEST\\VIVEK\\TEST_AUDIO\\00000052)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+आय बी एम  (TEST\\VIVEK\\TEST_AUDIO\\00000053)
+आय बी एम  (TEST\\VIVEK\\TEST_AUDIO\\00000053)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+कसरत के साधन  (TEST\\VIVEK\\TEST_AUDIO\\00000054)
+कसरत के साधन  (TEST\\VIVEK\\TEST_AUDIO\\00000054)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+गोल्ड रिंग        (TEST\\VIVEK\\TEST_AUDIO\\00000055)
+***             वॉरंटी  (TEST\\VIVEK\\TEST_AUDIO\\00000055)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+कैनन कैमरा लैंस  (TEST\\VIVEK\\TEST_AUDIO\\00000056)
+कैनन कैमरा लैंस  (TEST\\VIVEK\\TEST_AUDIO\\00000056)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+लखानी  (TEST\\VIVEK\\TEST_AUDIO\\00000057)
+लखानी  (TEST\\VIVEK\\TEST_AUDIO\\00000057)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+वाटर प्रूफ घड़ी  (TEST\\VIVEK\\TEST_AUDIO\\00000058)
+वाटर प्रूफ घड़ी  (TEST\\VIVEK\\TEST_AUDIO\\00000058)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+वाशिंग मशीन  (TEST\\VIVEK\\TEST_AUDIO\\00000059)
+वाशिंग मशीन  (TEST\\VIVEK\\TEST_AUDIO\\00000059)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+कपड़े धोने की मशीन  (TEST\\VIVEK\\TEST_AUDIO\\00000060)
+कपड़े धोने की मशीन  (TEST\\VIVEK\\TEST_AUDIO\\00000060)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+स्लिपर  (TEST\\VIVEK\\TEST_AUDIO\\00000061)
+स्लिपर  (TEST\\VIVEK\\TEST_AUDIO\\00000061)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+थिंक एंड ग्रो रिच        (TEST\\VIVEK\\TEST_AUDIO\\00000062)
+थिंक ***       हैं    कटलरी  (TEST\\VIVEK\\TEST_AUDIO\\00000062)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+हाउ टू विन फ्रेंड्स  (TEST\\VIVEK\\TEST_AUDIO\\00000063)
+हाउ टू विन फ्रेंड्स  (TEST\\VIVEK\\TEST_AUDIO\\00000063)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+कटलरी  (TEST\\VIVEK\\TEST_AUDIO\\00000064)
+कटलरी  (TEST\\VIVEK\\TEST_AUDIO\\00000064)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+कैंची  (TEST\\VIVEK\\TEST_AUDIO\\00000065)
+कैंची  (TEST\\VIVEK\\TEST_AUDIO\\00000065)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+घोड़ा  (TEST\\VIVEK\\TEST_AUDIO\\00000066)
+और        (TEST\\VIVEK\\TEST_AUDIO\\00000066)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+प्रोटीन शेक  (TEST\\VIVEK\\TEST_AUDIO\\00000067)
+प्रोटीन शेक  (TEST\\VIVEK\\TEST_AUDIO\\00000067)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+लेमन टेबलेट     (TEST\\VIVEK\\TEST_AUDIO\\00000068)
+लेमन व्यक्ति  (TEST\\VIVEK\\TEST_AUDIO\\00000068)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+बिस्कुट  (TEST\\VIVEK\\TEST_AUDIO\\00000069)
+बिस्कुट  (TEST\\VIVEK\\TEST_AUDIO\\00000069)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+किशमिश  (TEST\\VIVEK\\TEST_AUDIO\\00000070)
+किशमिश  (TEST\\VIVEK\\TEST_AUDIO\\00000070)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+काजू  (TEST\\VIVEK\\TEST_AUDIO\\00000071)
+काजू  (TEST\\VIVEK\\TEST_AUDIO\\00000071)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बादाम  (TEST\\VIVEK\\TEST_AUDIO\\00000072)
+बादाम  (TEST\\VIVEK\\TEST_AUDIO\\00000072)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+मुनक्का  (TEST\\VIVEK\\TEST_AUDIO\\00000073)
+मुनक्का  (TEST\\VIVEK\\TEST_AUDIO\\00000073)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ग्राइंडिंग मशीन  (TEST\\VIVEK\\TEST_AUDIO\\00000074)
+ग्राइंडिंग मशीन  (TEST\\VIVEK\\TEST_AUDIO\\00000074)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+वॉलेट  (TEST\\VIVEK\\TEST_AUDIO\\00000075)
+वॉलेट  (TEST\\VIVEK\\TEST_AUDIO\\00000075)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+सिलाई मशीन  (TEST\\VIVEK\\TEST_AUDIO\\00000076)
+सिलाई मशीन  (TEST\\VIVEK\\TEST_AUDIO\\00000076)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+सेल्फी स्टिक  (TEST\\VIVEK\\TEST_AUDIO\\00000077)
+सेल्फी स्टिक  (TEST\\VIVEK\\TEST_AUDIO\\00000077)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+लो प्राइस  (TEST\\VIVEK\\TEST_AUDIO\\00000078)
+लो रिंग        (TEST\\VIVEK\\TEST_AUDIO\\00000078)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+सूती कपड़े  (TEST\\VIVEK\\TEST_AUDIO\\00000079)
+सूती कपड़े  (TEST\\VIVEK\\TEST_AUDIO\\00000079)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+सूती साड़ियाँ  (TEST\\VIVEK\\TEST_AUDIO\\00000080)
+सूती साड़ियाँ  (TEST\\VIVEK\\TEST_AUDIO\\00000080)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+सूती कमीज़  (TEST\\VIVEK\\TEST_AUDIO\\00000081)
+सूती कमीज़  (TEST\\VIVEK\\TEST_AUDIO\\00000081)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+दूल्हे के कपड़े  (TEST\\VIVEK\\TEST_AUDIO\\00000082)
+दूल्हे के कपड़े  (TEST\\VIVEK\\TEST_AUDIO\\00000082)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+दुल्हन का श्रृंगार  (TEST\\VIVEK\\TEST_AUDIO\\00000083)
+दुल्हन का श्रृंगार  (TEST\\VIVEK\\TEST_AUDIO\\00000083)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+दुल्हन    का सामान  (TEST\\VIVEK\\TEST_AUDIO\\00000084)
+जन्मदिन का सामान  (TEST\\VIVEK\\TEST_AUDIO\\00000084)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+श्री कुर्ते  (TEST\\VIVEK\\TEST_AUDIO\\00000085)
+श्री कुर्ते  (TEST\\VIVEK\\TEST_AUDIO\\00000085)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+एल ई डी बल्ब  (TEST\\VIVEK\\TEST_AUDIO\\00000086)
+एल ई डी बल्ब  (TEST\\VIVEK\\TEST_AUDIO\\00000086)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+नए मॉडल             के चश्मे  (TEST\\VIVEK\\TEST_AUDIO\\00000087)
+***    प्रेमचंद के चश्मे  (TEST\\VIVEK\\TEST_AUDIO\\00000087)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+बच्चों का बैड  (TEST\\VIVEK\\TEST_AUDIO\\00000088)
+बच्चों का बैड  (TEST\\VIVEK\\TEST_AUDIO\\00000088)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बच्चों का फर्नीचर  (TEST\\VIVEK\\TEST_AUDIO\\00000089)
+बच्चों का फर्नीचर  (TEST\\VIVEK\\TEST_AUDIO\\00000089)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+रेबन  (TEST\\VIVEK\\TEST_AUDIO\\00000090)
+रेबन  (TEST\\VIVEK\\TEST_AUDIO\\00000090)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+कार म्यूजिक सिस्टम  (TEST\\VIVEK\\TEST_AUDIO\\00000091)
+कार म्यूजिक सिस्टम  (TEST\\VIVEK\\TEST_AUDIO\\00000091)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बाटा के ऑफर  (TEST\\VIVEK\\TEST_AUDIO\\00000092)
+बाटा के ऑफर  (TEST\\VIVEK\\TEST_AUDIO\\00000092)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बाटा के स्पेशल ऑफर  (TEST\\VIVEK\\TEST_AUDIO\\00000093)
+बाटा के स्पेशल ऑफर  (TEST\\VIVEK\\TEST_AUDIO\\00000093)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+आय फ़ोन  (TEST\\VIVEK\\TEST_AUDIO\\00000094)
+आई फ़ोन  (TEST\\VIVEK\\TEST_AUDIO\\00000094)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+आई फ़ोन  (TEST\\VIVEK\\TEST_AUDIO\\00000095)
+आई फ़ोन  (TEST\\VIVEK\\TEST_AUDIO\\00000095)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+आई पैड  (TEST\\VIVEK\\TEST_AUDIO\\00000096)
+आई पैड  (TEST\\VIVEK\\TEST_AUDIO\\00000096)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+किचन कैबिनेट  (TEST\\VIVEK\\TEST_AUDIO\\00000097)
+किचन कैबिनेट  (TEST\\VIVEK\\TEST_AUDIO\\00000097)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+सूखे मेवा  (TEST\\VIVEK\\TEST_AUDIO\\00000098)
+सूखे मेवा  (TEST\\VIVEK\\TEST_AUDIO\\00000098)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+फ़ास्ट ट्रैक  (TEST\\VIVEK\\TEST_AUDIO\\00000099)
+फ़ास्ट ट्रैक  (TEST\\VIVEK\\TEST_AUDIO\\00000099)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+TOTAL Words: 898 Correct: 788 Errors: 132
+TOTAL Percent correct = 87.75% Error = 14.70% Accuracy = 85.30%
+TOTAL Insertions: 22 Deletions: 20 Substitutions: 90

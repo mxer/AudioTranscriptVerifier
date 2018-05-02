@@ -1,0 +1,74 @@
+अ	-	AH
+आ	-	AA
+इ	-	IH
+ई	-	IY
+उ	-	UH
+ऊ	-	UW
+ए	-	EY
+ऐ	-	AE
+ओ	-	OW
+औ	-	AO
+ऋ	-	RIH (RUH)
+अं	-	AH NG
+अः	-	AH HH
+क	- 	K
+ख	-	KH
+ग	-	G
+घ	-	GH
+ङ	-	NG
+च	-	CH
+छ	-	CHH
+ज	-	J
+झ	-	JH
+ञ	-	NG
+ट	-	T
+ठ	-	TH
+ड	-	D
+ढ	-	DH
+ण	-	ANA
+त	-	HT
+थ	-	HTH
+द	-	HD
+ध	-	HDH
+न	-	N
+प	-	P
+फ	-	PH
+ब	-	B
+भ	-	BH
+म	-	M
+य	-	Y
+र	-	R
+ल	-	L
+व	-	V (W)
+श	-	SH
+ष	-	SH
+स	-	S
+ह	-	H
+ळ	-	ALA
+क्ष	-	KSH
+ज्ञ	-	GYA
+त्र	-	TRA
+ड़	-	ADA
+ढ़	-	ADHA
+ा	-	AA
+ि	-	IH
+ी	-	IY
+ु	-	UH
+ू	-	UW
+े	-	EY
+ै	-	AE
+ो	-	OW
+ौ	-	AO
+ं	-	AM, AN, ANG
+ः	-	AHA, AH HH
+ऽ	-	AA
+ृ	-	R UH, R IH
+ऑ	- 	AO
+ँ	-	AAN (AHN)
+ऍ	-	EH
+ॐ	-	AUM
+श्र	-	SHR
+फ़	-	F
+ज़	-	Z
+
+	

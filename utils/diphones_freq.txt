@@ -1,0 +1,16 @@
+<SIL> AA	1
+AA UH	1
+AH </SIL>	1
+AH N	1
+AH R	1
+AO R	1
+CH AH	1
+DD AO	1
+DD N	1
+EY CH	1
+N DD	1
+N EY	1
+R AH	1
+R Z	1
+TT DD	1
+UH TT	1

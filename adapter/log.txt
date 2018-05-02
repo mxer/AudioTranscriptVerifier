@@ -1,0 +1,1444 @@
+J:\New_Corpus\\train\morphed\train_audio
+rawlodir = J:\New_Corpus\\train\morphed\train_audio
+Calibrating ... failed; file too short?
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000000.raw
+Utt 00000000, st=     6.03s, et=     9.30s, seg=    3.26s (#samp=      52224)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000001.raw
+Utt 00000001, st=    14.43s, et=    18.40s, seg=    3.97s (#samp=      63488)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000002.raw
+Utt 00000002, st=    23.65s, et=    25.39s, seg=    1.74s (#samp=      27904)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000003.raw
+Utt 00000003, st=    30.54s, et=    32.29s, seg=    1.74s (#samp=      27904)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000004.raw
+Utt 00000004, st=    37.38s, et=    39.46s, seg=    2.08s (#samp=      33280)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000005.raw
+Utt 00000005, st=    44.50s, et=    47.68s, seg=    3.18s (#samp=      50944)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000006.raw
+Utt 00000006, st=    52.77s, et=    55.20s, seg=    2.43s (#samp=      38912)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000007.raw
+Utt 00000007, st=    60.35s, et=    63.44s, seg=    3.09s (#samp=      49408)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000008.raw
+Utt 00000008, st=    68.69s, et=    71.04s, seg=    2.35s (#samp=      37632)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000009.raw
+Utt 00000009, st=    76.40s, et=    80.74s, seg=    4.34s (#samp=      69376)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000010.raw
+Utt 00000010, st=    85.84s, et=    90.56s, seg=    4.72s (#samp=      75520)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000011.raw
+Utt 00000011, st=    95.73s, et=    97.41s, seg=    1.68s (#samp=      26880)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000012.raw
+Utt 00000012, st=   102.51s, et=   105.38s, seg=    2.86s (#samp=      45824)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000013.raw
+Utt 00000013, st=   110.67s, et=   112.78s, seg=    2.11s (#samp=      33792)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000014.raw
+Utt 00000014, st=   118.18s, et=   121.68s, seg=    3.50s (#samp=      56064)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000015.raw
+Utt 00000015, st=   126.82s, et=   130.56s, seg=    3.74s (#samp=      59904)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000016.raw
+Utt 00000016, st=   135.84s, et=   138.64s, seg=    2.80s (#samp=      44800)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000017.raw
+Utt 00000017, st=   143.95s, et=   146.80s, seg=    2.85s (#samp=      45568)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000018.raw
+Utt 00000018, st=   152.10s, et=   153.79s, seg=    1.70s (#samp=      27136)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000019.raw
+Utt 00000019, st=   159.04s, et=   161.55s, seg=    2.51s (#samp=      40192)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000020.raw
+Utt 00000020, st=   166.69s, et=   170.05s, seg=    3.36s (#samp=      53760)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000021.raw
+Utt 00000021, st=   175.28s, et=   177.55s, seg=    2.27s (#samp=      36352)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000022.raw
+Utt 00000022, st=   182.70s, et=   186.03s, seg=    3.33s (#samp=      53248)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000023.raw
+Utt 00000023, st=   191.15s, et=   193.26s, seg=    2.11s (#samp=      33792)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000024.raw
+Utt 00000024, st=   198.59s, et=   202.02s, seg=    3.42s (#samp=      54784)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000025.raw
+Utt 00000025, st=   207.22s, et=   209.06s, seg=    1.84s (#samp=      29440)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000026.raw
+Utt 00000026, st=   214.30s, et=   216.59s, seg=    2.29s (#samp=      36608)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000027.raw
+Utt 00000027, st=   221.87s, et=   225.52s, seg=    3.65s (#samp=      58368)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000028.raw
+Utt 00000028, st=   230.98s, et=   232.77s, seg=    1.79s (#samp=      28672)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000029.raw
+Utt 00000029, st=   237.98s, et=   241.12s, seg=    3.14s (#samp=      50176)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000030.raw
+Utt 00000030, st=   246.21s, et=   248.14s, seg=    1.94s (#samp=      30976)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000031.raw
+Utt 00000031, st=   253.42s, et=   256.83s, seg=    3.41s (#samp=      54528)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000032.raw
+Utt 00000032, st=   261.97s, et=   265.18s, seg=    3.22s (#samp=      51456)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000033.raw
+Utt 00000033, st=   270.38s, et=   274.51s, seg=    4.13s (#samp=      66048)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000034.raw
+Utt 00000034, st=   279.95s, et=   283.09s, seg=    3.14s (#samp=      50176)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000035.raw
+Utt 00000035, st=   288.86s, et=   292.35s, seg=    3.49s (#samp=      55808)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000036.raw
+Utt 00000036, st=   297.50s, et=   300.22s, seg=    2.72s (#samp=      43520)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000037.raw
+Utt 00000037, st=   305.49s, et=   307.84s, seg=    2.35s (#samp=      37632)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000038.raw
+Utt 00000038, st=   313.02s, et=   315.57s, seg=    2.54s (#samp=      40704)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000039.raw
+Utt 00000039, st=   320.72s, et=   326.32s, seg=    5.60s (#samp=      89600)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000040.raw
+Utt 00000040, st=   331.57s, et=   335.90s, seg=    4.34s (#samp=      69376)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000041.raw
+Utt 00000041, st=   341.06s, et=   344.32s, seg=    3.26s (#samp=      52224)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000042.raw
+Utt 00000042, st=   349.41s, et=   352.29s, seg=    2.88s (#samp=      46080)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000043.raw
+Utt 00000043, st=   357.52s, et=   361.55s, seg=    4.03s (#samp=      64512)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000044.raw
+Utt 00000044, st=   366.91s, et=   368.69s, seg=    1.78s (#samp=      28416)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000045.raw
+Utt 00000045, st=   373.84s, et=   375.71s, seg=    1.87s (#samp=      29952)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000046.raw
+Utt 00000046, st=   380.85s, et=   382.91s, seg=    2.06s (#samp=      33024)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000047.raw
+Utt 00000047, st=   388.34s, et=   390.29s, seg=    1.95s (#samp=      31232)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000048.raw
+Utt 00000048, st=   395.52s, et=   398.21s, seg=    2.69s (#samp=      43008)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000049.raw
+Utt 00000049, st=   403.26s, et=   405.10s, seg=    1.84s (#samp=      29440)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000050.raw
+Utt 00000050, st=   410.61s, et=   414.02s, seg=    3.41s (#samp=      54528)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000051.raw
+Utt 00000051, st=   419.12s, et=   421.15s, seg=    2.03s (#samp=      32512)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000052.raw
+Utt 00000052, st=   426.35s, et=   428.30s, seg=    1.95s (#samp=      31232)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000053.raw
+Utt 00000053, st=   433.42s, et=   435.39s, seg=    1.97s (#samp=      31488)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000054.raw
+Utt 00000054, st=   440.69s, et=   442.58s, seg=    1.89s (#samp=      30208)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000055.raw
+Utt 00000055, st=   447.86s, et=   451.42s, seg=    3.57s (#samp=      57088)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000056.raw
+Utt 00000056, st=   456.54s, et=   458.78s, seg=    2.24s (#samp=      35840)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000057.raw
+Utt 00000057, st=   464.26s, et=   466.88s, seg=    2.62s (#samp=      41984)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000058.raw
+Utt 00000058, st=   472.06s, et=   475.66s, seg=    3.60s (#samp=      57600)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000059.raw
+Utt 00000059, st=   480.94s, et=   482.50s, seg=    1.55s (#samp=      24832)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000060.raw
+Utt 00000060, st=   487.90s, et=   490.18s, seg=    2.27s (#samp=      36352)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000061.raw
+Utt 00000061, st=   495.28s, et=   497.97s, seg=    2.69s (#samp=      43008)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000062.raw
+Utt 00000062, st=   503.15s, et=   507.62s, seg=    4.46s (#samp=      71424)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000063.raw
+Utt 00000063, st=   512.78s, et=   515.63s, seg=    2.85s (#samp=      45568)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000064.raw
+Utt 00000064, st=   520.88s, et=   524.18s, seg=    3.30s (#samp=      52736)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000065.raw
+Utt 00000065, st=   529.28s, et=   531.98s, seg=    2.70s (#samp=      43264)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000066.raw
+Utt 00000066, st=   537.14s, et=   539.81s, seg=    2.67s (#samp=      42752)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000067.raw
+Utt 00000067, st=   545.10s, et=   548.72s, seg=    3.62s (#samp=      57856)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000068.raw
+Utt 00000068, st=   553.81s, et=   556.32s, seg=    2.51s (#samp=      40192)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000069.raw
+Utt 00000069, st=   561.44s, et=   565.70s, seg=    4.26s (#samp=      68096)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000070.raw
+Utt 00000070, st=   570.83s, et=   573.68s, seg=    2.85s (#samp=      45568)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000071.raw
+Utt 00000071, st=   578.82s, et=   581.28s, seg=    2.46s (#samp=      39424)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000072.raw
+Utt 00000072, st=   586.51s, et=   591.02s, seg=    4.51s (#samp=      72192)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000073.raw
+Utt 00000073, st=   596.27s, et=   599.09s, seg=    2.82s (#samp=      45056)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000074.raw
+Utt 00000074, st=   604.24s, et=   606.43s, seg=    2.19s (#samp=      35072)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000075.raw
+Utt 00000075, st=   611.58s, et=   613.90s, seg=    2.32s (#samp=      37120)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000076.raw
+Utt 00000076, st=   619.17s, et=   622.74s, seg=    3.57s (#samp=      57088)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000077.raw
+Utt 00000077, st=   627.87s, et=   630.46s, seg=    2.59s (#samp=      41472)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000078.raw
+Utt 00000078, st=   635.68s, et=   640.21s, seg=    4.53s (#samp=      72448)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000079.raw
+Utt 00000079, st=   645.47s, et=   647.44s, seg=    1.97s (#samp=      31488)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000080.raw
+Utt 00000080, st=   652.70s, et=   655.54s, seg=    2.83s (#samp=      45312)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000081.raw
+Utt 00000081, st=   660.75s, et=   664.06s, seg=    3.31s (#samp=      52992)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000082.raw
+Utt 00000082, st=   669.07s, et=   672.70s, seg=    3.63s (#samp=      58112)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000083.raw
+Utt 00000083, st=   677.86s, et=   682.10s, seg=    4.24s (#samp=      67840)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000084.raw
+Utt 00000084, st=   687.33s, et=   689.78s, seg=    2.45s (#samp=      39168)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000085.raw
+Utt 00000085, st=   694.91s, et=   696.83s, seg=    1.92s (#samp=      30720)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000086.raw
+Utt 00000086, st=   702.16s, et=   706.16s, seg=    4.00s (#samp=      64000)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000087.raw
+Utt 00000087, st=   711.47s, et=   713.74s, seg=    2.27s (#samp=      36352)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000088.raw
+Utt 00000088, st=   718.90s, et=   722.80s, seg=    3.90s (#samp=      62464)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000089.raw
+Utt 00000089, st=   727.87s, et=   730.06s, seg=    2.19s (#samp=      35072)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000090.raw
+Utt 00000090, st=   735.15s, et=   737.33s, seg=    2.18s (#samp=      34816)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000091.raw
+Utt 00000091, st=   742.46s, et=   745.18s, seg=    2.72s (#samp=      43520)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000092.raw
+Utt 00000092, st=   750.34s, et=   754.30s, seg=    3.97s (#samp=      63488)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000093.raw
+Utt 00000093, st=   759.25s, et=   761.26s, seg=    2.02s (#samp=      32256)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000094.raw
+Utt 00000094, st=   766.61s, et=   768.90s, seg=    2.29s (#samp=      36608)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000095.raw
+Utt 00000095, st=   774.02s, et=   775.86s, seg=    1.84s (#samp=      29440)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000096.raw
+Utt 00000096, st=   781.07s, et=   784.86s, seg=    3.79s (#samp=      60672)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000097.raw
+Utt 00000097, st=   789.92s, et=   794.53s, seg=    4.61s (#samp=      73728)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000098.raw
+Utt 00000098, st=   799.68s, et=   803.22s, seg=    3.54s (#samp=      56576)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000099.raw
+Utt 00000099, st=   808.46s, et=   811.07s, seg=    2.61s (#samp=      41728)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000100.raw
+Utt 00000100, st=   816.21s, et=   818.35s, seg=    2.14s (#samp=      34304)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000101.raw
+Utt 00000101, st=   823.60s, et=   825.95s, seg=    2.35s (#samp=      37632)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000102.raw
+Utt 00000102, st=   830.98s, et=   833.55s, seg=    2.58s (#samp=      41216)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000103.raw
+Utt 00000103, st=   838.62s, et=   842.78s, seg=    4.16s (#samp=      66560)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000104.raw
+Utt 00000104, st=   847.89s, et=   850.75s, seg=    2.86s (#samp=      45824)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000105.raw
+Utt 00000105, st=   855.82s, et=   859.49s, seg=    3.66s (#samp=      58624)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000106.raw
+Utt 00000106, st=   864.72s, et=   867.46s, seg=    2.74s (#samp=      43776)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000107.raw
+Utt 00000107, st=   872.54s, et=   875.82s, seg=    3.28s (#samp=      52480)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000108.raw
+Utt 00000108, st=   880.91s, et=   885.30s, seg=    4.38s (#samp=      70144)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000109.raw
+Utt 00000109, st=   890.42s, et=   893.20s, seg=    2.78s (#samp=      44544)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000110.raw
+Utt 00000110, st=   898.35s, et=   901.28s, seg=    2.93s (#samp=      46848)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000111.raw
+Utt 00000111, st=   906.32s, et=   908.98s, seg=    2.66s (#samp=      42496)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000112.raw
+Utt 00000112, st=   914.10s, et=   916.19s, seg=    2.10s (#samp=      33536)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000113.raw
+Utt 00000113, st=   921.39s, et=   924.18s, seg=    2.78s (#samp=      44544)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000114.raw
+Utt 00000114, st=   929.30s, et=   933.98s, seg=    4.69s (#samp=      75008)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000115.raw
+Utt 00000115, st=   939.39s, et=   941.50s, seg=    2.11s (#samp=      33792)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000116.raw
+Utt 00000116, st=   946.75s, et=   949.52s, seg=    2.77s (#samp=      44288)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000117.raw
+Utt 00000117, st=   954.72s, et=   956.66s, seg=    1.94s (#samp=      30976)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000118.raw
+Utt 00000118, st=   961.97s, et=   964.50s, seg=    2.53s (#samp=      40448)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000119.raw
+Utt 00000119, st=   969.60s, et=   973.81s, seg=    4.21s (#samp=      67328)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000120.raw
+Utt 00000120, st=   979.09s, et=   981.33s, seg=    2.24s (#samp=      35840)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000121.raw
+Utt 00000121, st=   986.58s, et=   991.15s, seg=    4.58s (#samp=      73216)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000122.raw
+Utt 00000122, st=   996.43s, et=   999.15s, seg=    2.72s (#samp=      43520)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000123.raw
+Utt 00000123, st=  1004.34s, et=  1008.72s, seg=    4.38s (#samp=      70144)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000124.raw
+Utt 00000124, st=  1013.92s, et=  1016.37s, seg=    2.45s (#samp=      39168)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000125.raw
+Utt 00000125, st=  1021.60s, et=  1025.36s, seg=    3.76s (#samp=      60160)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000126.raw
+Utt 00000126, st=  1030.72s, et=  1033.44s, seg=    2.72s (#samp=      43520)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000127.raw
+Utt 00000127, st=  1038.67s, et=  1040.66s, seg=    1.98s (#samp=      31744)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000128.raw
+Utt 00000128, st=  1045.81s, et=  1047.71s, seg=    1.90s (#samp=      30464)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000129.raw
+Utt 00000129, st=  1053.06s, et=  1055.63s, seg=    2.58s (#samp=      41216)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000130.raw
+Utt 00000130, st=  1061.09s, et=  1063.41s, seg=    2.32s (#samp=      37120)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000131.raw
+Utt 00000131, st=  1068.53s, et=  1070.80s, seg=    2.27s (#samp=      36352)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000132.raw
+Utt 00000132, st=  1076.06s, et=  1078.11s, seg=    2.05s (#samp=      32768)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000133.raw
+Utt 00000133, st=  1083.25s, et=  1087.68s, seg=    4.43s (#samp=      70912)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000134.raw
+Utt 00000134, st=  1092.93s, et=  1095.34s, seg=    2.42s (#samp=      38656)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000135.raw
+Utt 00000135, st=  1100.51s, et=  1103.38s, seg=    2.86s (#samp=      45824)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000136.raw
+Utt 00000136, st=  1108.53s, et=  1110.46s, seg=    1.94s (#samp=      30976)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000137.raw
+Utt 00000137, st=  1115.62s, et=  1117.62s, seg=    2.00s (#samp=      32000)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000138.raw
+Utt 00000138, st=  1122.69s, et=  1124.58s, seg=    1.89s (#samp=      30208)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000139.raw
+Utt 00000139, st=  1129.82s, et=  1131.90s, seg=    2.08s (#samp=      33280)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000140.raw
+Utt 00000140, st=  1137.07s, et=  1142.45s, seg=    5.38s (#samp=      86016)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000141.raw
+Utt 00000141, st=  1147.73s, et=  1149.84s, seg=    2.11s (#samp=      33792)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000142.raw
+Utt 00000142, st=  1155.04s, et=  1158.34s, seg=    3.30s (#samp=      52736)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000143.raw
+Utt 00000143, st=  1163.42s, et=  1166.77s, seg=    3.34s (#samp=      53504)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000144.raw
+Utt 00000144, st=  1171.98s, et=  1175.46s, seg=    3.47s (#samp=      55552)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000145.raw
+Utt 00000145, st=  1180.64s, et=  1182.99s, seg=    2.35s (#samp=      37632)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000146.raw
+Utt 00000146, st=  1188.32s, et=  1191.01s, seg=    2.69s (#samp=      43008)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000147.raw
+Utt 00000147, st=  1196.18s, et=  1198.32s, seg=    2.14s (#samp=      34304)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000148.raw
+Utt 00000148, st=  1203.50s, et=  1205.17s, seg=    1.66s (#samp=      26624)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000149.raw
+Utt 00000149, st=  1210.43s, et=  1213.14s, seg=    2.70s (#samp=      43264)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000150.raw
+Utt 00000150, st=  1218.21s, et=  1219.98s, seg=    1.78s (#samp=      28416)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000151.raw
+Utt 00000151, st=  1225.28s, et=  1228.45s, seg=    3.17s (#samp=      50688)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000152.raw
+Utt 00000152, st=  1233.71s, et=  1237.04s, seg=    3.33s (#samp=      53248)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000153.raw
+Utt 00000153, st=  1242.22s, et=  1244.26s, seg=    2.03s (#samp=      32512)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000154.raw
+Utt 00000154, st=  1249.38s, et=  1251.70s, seg=    2.32s (#samp=      37120)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000155.raw
+Utt 00000155, st=  1257.04s, et=  1259.23s, seg=    2.19s (#samp=      35072)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000156.raw
+Utt 00000156, st=  1264.38s, et=  1266.67s, seg=    2.29s (#samp=      36608)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000157.raw
+Utt 00000157, st=  1271.94s, et=  1274.29s, seg=    2.35s (#samp=      37632)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000158.raw
+Utt 00000158, st=  1279.71s, et=  1281.54s, seg=    1.82s (#samp=      29184)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000159.raw
+Utt 00000159, st=  1286.91s, et=  1289.65s, seg=    2.74s (#samp=      43776)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000160.raw
+Utt 00000160, st=  1295.17s, et=  1297.68s, seg=    2.51s (#samp=      40192)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000161.raw
+Utt 00000161, st=  1302.82s, et=  1304.83s, seg=    2.02s (#samp=      32256)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000162.raw
+Utt 00000162, st=  1309.95s, et=  1311.76s, seg=    1.81s (#samp=      28928)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000163.raw
+Utt 00000163, st=  1317.10s, et=  1319.07s, seg=    1.97s (#samp=      31488)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000164.raw
+Utt 00000164, st=  1324.24s, et=  1326.85s, seg=    2.61s (#samp=      41728)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000165.raw
+Utt 00000165, st=  1332.03s, et=  1335.52s, seg=    3.49s (#samp=      55808)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000166.raw
+Utt 00000166, st=  1340.70s, et=  1343.06s, seg=    2.35s (#samp=      37632)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000167.raw
+Utt 00000167, st=  1348.13s, et=  1350.64s, seg=    2.51s (#samp=      40192)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000168.raw
+Utt 00000168, st=  1355.74s, et=  1357.68s, seg=    1.94s (#samp=      30976)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000169.raw
+Utt 00000169, st=  1362.82s, et=  1366.98s, seg=    4.16s (#samp=      66560)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000170.raw
+Utt 00000170, st=  1372.34s, et=  1374.51s, seg=    2.18s (#samp=      34816)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000171.raw
+Utt 00000171, st=  1379.70s, et=  1382.06s, seg=    2.37s (#samp=      37888)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000172.raw
+Utt 00000172, st=  1387.26s, et=  1389.95s, seg=    2.69s (#samp=      43008)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000173.raw
+Utt 00000173, st=  1395.12s, et=  1397.28s, seg=    2.16s (#samp=      34560)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000174.raw
+Utt 00000174, st=  1402.53s, et=  1406.50s, seg=    3.97s (#samp=      63488)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000175.raw
+Utt 00000175, st=  1411.78s, et=  1414.48s, seg=    2.70s (#samp=      43264)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000176.raw
+Utt 00000176, st=  1419.65s, et=  1421.97s, seg=    2.32s (#samp=      37120)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000177.raw
+Utt 00000177, st=  1427.10s, et=  1431.60s, seg=    4.50s (#samp=      71936)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000178.raw
+Utt 00000178, st=  1436.69s, et=  1439.74s, seg=    3.06s (#samp=      48896)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000179.raw
+Utt 00000179, st=  1444.86s, et=  1447.50s, seg=    2.64s (#samp=      42240)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000180.raw
+Utt 00000180, st=  1452.80s, et=  1455.95s, seg=    3.15s (#samp=      50432)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000181.raw
+Utt 00000181, st=  1461.23s, et=  1464.43s, seg=    3.20s (#samp=      51200)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000182.raw
+Utt 00000182, st=  1469.73s, et=  1472.08s, seg=    2.35s (#samp=      37632)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000183.raw
+Utt 00000183, st=  1477.33s, et=  1481.04s, seg=    3.71s (#samp=      59392)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000184.raw
+Utt 00000184, st=  1486.29s, et=  1489.28s, seg=    2.99s (#samp=      47872)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000185.raw
+Utt 00000185, st=  1494.53s, et=  1496.14s, seg=    1.62s (#samp=      25856)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000186.raw
+Utt 00000186, st=  1501.34s, et=  1504.72s, seg=    3.38s (#samp=      54016)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000187.raw
+Utt 00000187, st=  1510.30s, et=  1512.86s, seg=    2.56s (#samp=      40960)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000188.raw
+Utt 00000188, st=  1518.13s, et=  1520.46s, seg=    2.34s (#samp=      37376)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000189.raw
+Utt 00000189, st=  1525.74s, et=  1528.61s, seg=    2.86s (#samp=      45824)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000190.raw
+Utt 00000190, st=  1533.81s, et=  1535.76s, seg=    1.95s (#samp=      31232)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000191.raw
+Utt 00000191, st=  1541.04s, et=  1544.80s, seg=    3.76s (#samp=      60160)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000192.raw
+Utt 00000192, st=  1550.02s, et=  1554.70s, seg=    4.69s (#samp=      75008)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000193.raw
+Utt 00000193, st=  1560.00s, et=  1562.14s, seg=    2.14s (#samp=      34304)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000194.raw
+Utt 00000194, st=  1567.55s, et=  1570.74s, seg=    3.18s (#samp=      50944)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000195.raw
+Utt 00000195, st=  1576.96s, et=  1580.75s, seg=    3.79s (#samp=      60672)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000196.raw
+Utt 00000196, st=  1586.21s, et=  1589.36s, seg=    3.15s (#samp=      50432)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000197.raw
+Utt 00000197, st=  1594.53s, et=  1598.21s, seg=    3.68s (#samp=      58880)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000198.raw
+Utt 00000198, st=  1603.79s, et=  1607.87s, seg=    4.08s (#samp=      65280)
+rawlogdir = J:\New_Corpus\\train\morphed\train_audio
+J:\New_Corpus\\train\morphed\train_audio\00000199.raw
+Utt 00000199, st=  1613.33s, et=  1615.50s, seg=    2.18s (#samp=      34816)
+J:\New_Corpus\train\morphed\train_audio\00000000.mfc
+J:\New_Corpus\train\morphed\train_audio\00000001.mfc
+J:\New_Corpus\train\morphed\train_audio\00000002.mfc
+J:\New_Corpus\train\morphed\train_audio\00000003.mfc
+J:\New_Corpus\train\morphed\train_audio\00000004.mfc
+J:\New_Corpus\train\morphed\train_audio\00000005.mfc
+J:\New_Corpus\train\morphed\train_audio\00000006.mfc
+J:\New_Corpus\train\morphed\train_audio\00000007.mfc
+J:\New_Corpus\train\morphed\train_audio\00000008.mfc
+J:\New_Corpus\train\morphed\train_audio\00000009.mfc
+J:\New_Corpus\train\morphed\train_audio\00000010.mfc
+J:\New_Corpus\train\morphed\train_audio\00000011.mfc
+J:\New_Corpus\train\morphed\train_audio\00000012.mfc
+J:\New_Corpus\train\morphed\train_audio\00000013.mfc
+J:\New_Corpus\train\morphed\train_audio\00000014.mfc
+J:\New_Corpus\train\morphed\train_audio\00000015.mfc
+J:\New_Corpus\train\morphed\train_audio\00000016.mfc
+J:\New_Corpus\train\morphed\train_audio\00000017.mfc
+J:\New_Corpus\train\morphed\train_audio\00000018.mfc
+J:\New_Corpus\train\morphed\train_audio\00000019.mfc
+J:\New_Corpus\train\morphed\train_audio\00000020.mfc
+J:\New_Corpus\train\morphed\train_audio\00000021.mfc
+J:\New_Corpus\train\morphed\train_audio\00000022.mfc
+J:\New_Corpus\train\morphed\train_audio\00000023.mfc
+J:\New_Corpus\train\morphed\train_audio\00000024.mfc
+J:\New_Corpus\train\morphed\train_audio\00000025.mfc
+J:\New_Corpus\train\morphed\train_audio\00000026.mfc
+J:\New_Corpus\train\morphed\train_audio\00000027.mfc
+J:\New_Corpus\train\morphed\train_audio\00000028.mfc
+J:\New_Corpus\train\morphed\train_audio\00000029.mfc
+J:\New_Corpus\train\morphed\train_audio\00000030.mfc
+J:\New_Corpus\train\morphed\train_audio\00000031.mfc
+J:\New_Corpus\train\morphed\train_audio\00000032.mfc
+J:\New_Corpus\train\morphed\train_audio\00000033.mfc
+J:\New_Corpus\train\morphed\train_audio\00000034.mfc
+J:\New_Corpus\train\morphed\train_audio\00000035.mfc
+J:\New_Corpus\train\morphed\train_audio\00000036.mfc
+J:\New_Corpus\train\morphed\train_audio\00000037.mfc
+J:\New_Corpus\train\morphed\train_audio\00000038.mfc
+J:\New_Corpus\train\morphed\train_audio\00000039.mfc
+J:\New_Corpus\train\morphed\train_audio\00000040.mfc
+J:\New_Corpus\train\morphed\train_audio\00000041.mfc
+J:\New_Corpus\train\morphed\train_audio\00000042.mfc
+J:\New_Corpus\train\morphed\train_audio\00000043.mfc
+J:\New_Corpus\train\morphed\train_audio\00000044.mfc
+J:\New_Corpus\train\morphed\train_audio\00000045.mfc
+J:\New_Corpus\train\morphed\train_audio\00000046.mfc
+J:\New_Corpus\train\morphed\train_audio\00000047.mfc
+J:\New_Corpus\train\morphed\train_audio\00000048.mfc
+J:\New_Corpus\train\morphed\train_audio\00000049.mfc
+J:\New_Corpus\train\morphed\train_audio\00000050.mfc
+J:\New_Corpus\train\morphed\train_audio\00000051.mfc
+J:\New_Corpus\train\morphed\train_audio\00000052.mfc
+J:\New_Corpus\train\morphed\train_audio\00000053.mfc
+J:\New_Corpus\train\morphed\train_audio\00000054.mfc
+J:\New_Corpus\train\morphed\train_audio\00000055.mfc
+J:\New_Corpus\train\morphed\train_audio\00000056.mfc
+J:\New_Corpus\train\morphed\train_audio\00000057.mfc
+J:\New_Corpus\train\morphed\train_audio\00000058.mfc
+J:\New_Corpus\train\morphed\train_audio\00000059.mfc
+J:\New_Corpus\train\morphed\train_audio\00000060.mfc
+J:\New_Corpus\train\morphed\train_audio\00000061.mfc
+J:\New_Corpus\train\morphed\train_audio\00000062.mfc
+J:\New_Corpus\train\morphed\train_audio\00000063.mfc
+J:\New_Corpus\train\morphed\train_audio\00000064.mfc
+J:\New_Corpus\train\morphed\train_audio\00000065.mfc
+J:\New_Corpus\train\morphed\train_audio\00000066.mfc
+J:\New_Corpus\train\morphed\train_audio\00000067.mfc
+J:\New_Corpus\train\morphed\train_audio\00000068.mfc
+J:\New_Corpus\train\morphed\train_audio\00000069.mfc
+J:\New_Corpus\train\morphed\train_audio\00000070.mfc
+J:\New_Corpus\train\morphed\train_audio\00000071.mfc
+J:\New_Corpus\train\morphed\train_audio\00000072.mfc
+J:\New_Corpus\train\morphed\train_audio\00000073.mfc
+J:\New_Corpus\train\morphed\train_audio\00000074.mfc
+J:\New_Corpus\train\morphed\train_audio\00000075.mfc
+J:\New_Corpus\train\morphed\train_audio\00000076.mfc
+J:\New_Corpus\train\morphed\train_audio\00000077.mfc
+J:\New_Corpus\train\morphed\train_audio\00000078.mfc
+J:\New_Corpus\train\morphed\train_audio\00000079.mfc
+J:\New_Corpus\train\morphed\train_audio\00000080.mfc
+J:\New_Corpus\train\morphed\train_audio\00000081.mfc
+J:\New_Corpus\train\morphed\train_audio\00000082.mfc
+J:\New_Corpus\train\morphed\train_audio\00000083.mfc
+J:\New_Corpus\train\morphed\train_audio\00000084.mfc
+J:\New_Corpus\train\morphed\train_audio\00000085.mfc
+J:\New_Corpus\train\morphed\train_audio\00000086.mfc
+J:\New_Corpus\train\morphed\train_audio\00000087.mfc
+J:\New_Corpus\train\morphed\train_audio\00000088.mfc
+J:\New_Corpus\train\morphed\train_audio\00000089.mfc
+J:\New_Corpus\train\morphed\train_audio\00000090.mfc
+J:\New_Corpus\train\morphed\train_audio\00000091.mfc
+J:\New_Corpus\train\morphed\train_audio\00000092.mfc
+J:\New_Corpus\train\morphed\train_audio\00000093.mfc
+J:\New_Corpus\train\morphed\train_audio\00000094.mfc
+J:\New_Corpus\train\morphed\train_audio\00000095.mfc
+J:\New_Corpus\train\morphed\train_audio\00000096.mfc
+J:\New_Corpus\train\morphed\train_audio\00000097.mfc
+J:\New_Corpus\train\morphed\train_audio\00000098.mfc
+J:\New_Corpus\train\morphed\train_audio\00000099.mfc
+J:\New_Corpus\train\morphed\train_audio\00000100.mfc
+J:\New_Corpus\train\morphed\train_audio\00000101.mfc
+J:\New_Corpus\train\morphed\train_audio\00000102.mfc
+J:\New_Corpus\train\morphed\train_audio\00000103.mfc
+J:\New_Corpus\train\morphed\train_audio\00000104.mfc
+J:\New_Corpus\train\morphed\train_audio\00000105.mfc
+J:\New_Corpus\train\morphed\train_audio\00000106.mfc
+J:\New_Corpus\train\morphed\train_audio\00000107.mfc
+J:\New_Corpus\train\morphed\train_audio\00000108.mfc
+J:\New_Corpus\train\morphed\train_audio\00000109.mfc
+J:\New_Corpus\train\morphed\train_audio\00000110.mfc
+J:\New_Corpus\train\morphed\train_audio\00000111.mfc
+J:\New_Corpus\train\morphed\train_audio\00000112.mfc
+J:\New_Corpus\train\morphed\train_audio\00000113.mfc
+J:\New_Corpus\train\morphed\train_audio\00000114.mfc
+J:\New_Corpus\train\morphed\train_audio\00000115.mfc
+J:\New_Corpus\train\morphed\train_audio\00000116.mfc
+J:\New_Corpus\train\morphed\train_audio\00000117.mfc
+J:\New_Corpus\train\morphed\train_audio\00000118.mfc
+J:\New_Corpus\train\morphed\train_audio\00000119.mfc
+J:\New_Corpus\train\morphed\train_audio\00000120.mfc
+J:\New_Corpus\train\morphed\train_audio\00000121.mfc
+J:\New_Corpus\train\morphed\train_audio\00000122.mfc
+J:\New_Corpus\train\morphed\train_audio\00000123.mfc
+J:\New_Corpus\train\morphed\train_audio\00000124.mfc
+J:\New_Corpus\train\morphed\train_audio\00000125.mfc
+J:\New_Corpus\train\morphed\train_audio\00000126.mfc
+J:\New_Corpus\train\morphed\train_audio\00000127.mfc
+J:\New_Corpus\train\morphed\train_audio\00000128.mfc
+J:\New_Corpus\train\morphed\train_audio\00000129.mfc
+J:\New_Corpus\train\morphed\train_audio\00000130.mfc
+J:\New_Corpus\train\morphed\train_audio\00000131.mfc
+J:\New_Corpus\train\morphed\train_audio\00000132.mfc
+J:\New_Corpus\train\morphed\train_audio\00000133.mfc
+J:\New_Corpus\train\morphed\train_audio\00000134.mfc
+J:\New_Corpus\train\morphed\train_audio\00000135.mfc
+J:\New_Corpus\train\morphed\train_audio\00000136.mfc
+J:\New_Corpus\train\morphed\train_audio\00000137.mfc
+J:\New_Corpus\train\morphed\train_audio\00000138.mfc
+J:\New_Corpus\train\morphed\train_audio\00000139.mfc
+J:\New_Corpus\train\morphed\train_audio\00000140.mfc
+J:\New_Corpus\train\morphed\train_audio\00000141.mfc
+J:\New_Corpus\train\morphed\train_audio\00000142.mfc
+J:\New_Corpus\train\morphed\train_audio\00000143.mfc
+J:\New_Corpus\train\morphed\train_audio\00000144.mfc
+J:\New_Corpus\train\morphed\train_audio\00000145.mfc
+J:\New_Corpus\train\morphed\train_audio\00000146.mfc
+J:\New_Corpus\train\morphed\train_audio\00000147.mfc
+J:\New_Corpus\train\morphed\train_audio\00000148.mfc
+J:\New_Corpus\train\morphed\train_audio\00000149.mfc
+J:\New_Corpus\train\morphed\train_audio\00000150.mfc
+J:\New_Corpus\train\morphed\train_audio\00000151.mfc
+J:\New_Corpus\train\morphed\train_audio\00000152.mfc
+J:\New_Corpus\train\morphed\train_audio\00000153.mfc
+J:\New_Corpus\train\morphed\train_audio\00000154.mfc
+J:\New_Corpus\train\morphed\train_audio\00000155.mfc
+J:\New_Corpus\train\morphed\train_audio\00000156.mfc
+J:\New_Corpus\train\morphed\train_audio\00000157.mfc
+J:\New_Corpus\train\morphed\train_audio\00000158.mfc
+J:\New_Corpus\train\morphed\train_audio\00000159.mfc
+J:\New_Corpus\train\morphed\train_audio\00000160.mfc
+J:\New_Corpus\train\morphed\train_audio\00000161.mfc
+J:\New_Corpus\train\morphed\train_audio\00000162.mfc
+J:\New_Corpus\train\morphed\train_audio\00000163.mfc
+J:\New_Corpus\train\morphed\train_audio\00000164.mfc
+J:\New_Corpus\train\morphed\train_audio\00000165.mfc
+J:\New_Corpus\train\morphed\train_audio\00000166.mfc
+J:\New_Corpus\train\morphed\train_audio\00000167.mfc
+J:\New_Corpus\train\morphed\train_audio\00000168.mfc
+J:\New_Corpus\train\morphed\train_audio\00000169.mfc
+J:\New_Corpus\train\morphed\train_audio\00000170.mfc
+J:\New_Corpus\train\morphed\train_audio\00000171.mfc
+J:\New_Corpus\train\morphed\train_audio\00000172.mfc
+J:\New_Corpus\train\morphed\train_audio\00000173.mfc
+J:\New_Corpus\train\morphed\train_audio\00000174.mfc
+J:\New_Corpus\train\morphed\train_audio\00000175.mfc
+J:\New_Corpus\train\morphed\train_audio\00000176.mfc
+J:\New_Corpus\train\morphed\train_audio\00000177.mfc
+J:\New_Corpus\train\morphed\train_audio\00000178.mfc
+J:\New_Corpus\train\morphed\train_audio\00000179.mfc
+J:\New_Corpus\train\morphed\train_audio\00000180.mfc
+J:\New_Corpus\train\morphed\train_audio\00000181.mfc
+J:\New_Corpus\train\morphed\train_audio\00000182.mfc
+J:\New_Corpus\train\morphed\train_audio\00000183.mfc
+J:\New_Corpus\train\morphed\train_audio\00000184.mfc
+J:\New_Corpus\train\morphed\train_audio\00000185.mfc
+J:\New_Corpus\train\morphed\train_audio\00000186.mfc
+J:\New_Corpus\train\morphed\train_audio\00000187.mfc
+J:\New_Corpus\train\morphed\train_audio\00000188.mfc
+J:\New_Corpus\train\morphed\train_audio\00000189.mfc
+J:\New_Corpus\train\morphed\train_audio\00000190.mfc
+J:\New_Corpus\train\morphed\train_audio\00000191.mfc
+J:\New_Corpus\train\morphed\train_audio\00000192.mfc
+J:\New_Corpus\train\morphed\train_audio\00000193.mfc
+J:\New_Corpus\train\morphed\train_audio\00000194.mfc
+J:\New_Corpus\train\morphed\train_audio\00000195.mfc
+J:\New_Corpus\train\morphed\train_audio\00000196.mfc
+J:\New_Corpus\train\morphed\train_audio\00000197.mfc
+J:\New_Corpus\train\morphed\train_audio\00000198.mfc
+J:\New_Corpus\train\morphed\train_audio\00000199.mfc
+      200 file(s) moved.
+column defns
+	<seq>
+	<id>
+	<n_frame_in>
+	<n_frame_del>
+	<n_state_shmm>
+	<avg_states_alpha>
+	<avg_states_beta>
+	<avg_states_reest>
+	<avg_posterior_prune>
+	<frame_log_lik>
+	<utt_log_lik>
+	... timing info ... 
+utt>     0 J:\New_Corpus\\train\morphed\train_mfc\00000000  325    0   192 31  utt 0.014x 1.047e upd 0.014x 0.983e fwd 0.014x 0.940e bwd 0.000x 0.000e gau 0.014x 0.897e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>     1 J:\New_Corpus\\train\morphed\train_mfc\00000001  385    0   216 44  15 14 4.131491e-102 -1.642035e+02 -6.321833e+04 utt 0.028x 0.943e upd 0.028x 0.916e fwd 0.016x 0.849e bwd 0.012x 0.983e gau 0.036x 1.880e rsts 0.004x 0.577e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>     2 J:\New_Corpus\\train\morphed\train_mfc\00000002  173    0   100 49  14 12 1.935106e-102 -1.573190e+02 -2.721619e+04 utt 0.027x 1.047e upd 0.027x 1.004e fwd 0.018x 0.865e bwd 0.009x 1.218e gau 0.144x 0.617e rsts 0.009x 0.128e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>     3 J:\New_Corpus\\train\morphed\train_mfc\00000003  173    0    80 30  13 12 1.509011e-102 -1.588155e+02 -2.747508e+04 utt 0.027x 0.833e upd 0.027x 0.791e fwd 0.009x 1.218e bwd 0.009x 1.154e gau 0.099x 0.752e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.009x 0.000e
+
+utt>     4 J:\New_Corpus\\train\morphed\train_mfc\00000004  198    0   108 41  16 16 4.355699e-102 -1.587063e+02 -3.142384e+04 utt 0.024x 1.111e upd 0.024x 1.047e fwd 0.008x 1.603e bwd 0.016x 0.769e gau 0.118x 0.427e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>     5 J:\New_Corpus\\train\morphed\train_mfc\00000005  308    0   156 33  12 10 2.385803e-102 -1.594802e+02 -4.911990e+04 utt 0.025x 0.949e upd 0.025x 0.923e fwd 0.015x 0.833e bwd 0.010x 1.026e gau 0.071x 1.026e rsts 0.005x 0.064e rstf 0.005x 0.064e rstu 0.000x 0.000e
+
+utt>     6 J:\New_Corpus\\train\morphed\train_mfc\00000006  230    0   108 51  12 10 1.262239e-102 -1.614045e+02 -3.712303e+04 utt 0.020x 1.197e upd 0.020x 1.154e fwd 0.014x 0.929e bwd 0.007x 1.474e gau 0.081x 0.796e rsts 0.007x 0.321e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>     7 J:\New_Corpus\\train\morphed\train_mfc\00000007  296    0   140 34  utt 0.016x 0.833e upd 0.016x 0.791e fwd 0.016x 0.748e bwd 0.000x 0.000e gau 0.011x 0.962e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>     8 J:\New_Corpus\\train\morphed\train_mfc\00000008  222    0   120 45  19 20 1.274879e-102 -1.634916e+02 -3.629514e+04 utt 0.028x 0.994e upd 0.028x 0.962e fwd 0.014x 0.897e bwd 0.014x 1.026e gau 0.134x 0.611e rsts 0.007x 0.449e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>     9 J:\New_Corpus\\train\morphed\train_mfc\00000009  433    0   248 34  utt 0.011x 1.175e upd 0.011x 1.111e fwd 0.011x 1.068e bwd 0.000x 0.000e gau 0.011x 0.983e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    10 J:\New_Corpus\\train\morphed\train_mfc\00000010  458    0   220 45  18 13 3.754519e-102 -1.637188e+02 -7.498321e+04 utt 0.031x 0.976e upd 0.031x 0.962e fwd 0.017x 0.872e bwd 0.014x 1.042e gau 0.194x 0.427e rsts 0.000x 0.000e rstf 0.003x 0.064e rstu 0.000x 0.000e
+
+utt>    11 J:\New_Corpus\\train\morphed\train_mfc\00000011  164    0    80 35  utt 0.010x 1.538e upd 0.010x 1.474e fwd 0.010x 1.346e bwd 0.000x 0.000e gau 0.010x 1.218e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    12 J:\New_Corpus\\train\morphed\train_mfc\00000012  273    0   136 36  utt 0.006x 2.051e upd 0.006x 1.923e fwd 0.006x 1.795e bwd 0.000x 0.000e gau 0.006x 1.667e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    13 J:\New_Corpus\\train\morphed\train_mfc\00000013  203    0    96 40  16 13 3.697789e-102 -1.583075e+02 -3.213643e+04 utt 0.023x 1.175e upd 0.023x 1.132e fwd 0.008x 1.731e bwd 0.015x 0.833e gau 0.100x 0.621e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    14 J:\New_Corpus\\train\morphed\train_mfc\00000014  349    0   188 35  utt 0.013x 1.026e upd 0.013x 0.962e fwd 0.013x 0.919e bwd 0.000x 0.000e gau 0.009x 1.250e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    15 J:\New_Corpus\\train\morphed\train_mfc\00000015  361    0   184 29  utt 0.013x 0.876e upd 0.013x 0.833e fwd 0.013x 0.791e bwd 0.000x 0.000e gau 0.013x 0.791e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    16 J:\New_Corpus\\train\morphed\train_mfc\00000016  267    0   144 33  utt 0.012x 1.186e upd 0.012x 1.122e fwd 0.012x 1.058e bwd 0.000x 0.000e gau 0.012x 0.962e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    17 J:\New_Corpus\\train\morphed\train_mfc\00000017  283    0   124 30  utt 0.017x 0.855e upd 0.017x 0.812e fwd 0.017x 0.748e bwd 0.000x 0.000e gau 0.017x 0.620e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    18 J:\New_Corpus\\train\morphed\train_mfc\00000018  165    0    80 30  utt 0.009x 1.603e upd 0.009x 1.474e fwd 0.009x 1.346e bwd 0.000x 0.000e gau 0.009x 1.218e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    19 J:\New_Corpus\\train\morphed\train_mfc\00000019  236    0   124 25  utt 0.013x 0.801e upd 0.013x 0.737e fwd 0.013x 0.673e bwd 0.000x 0.000e gau 0.007x 1.154e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    20 J:\New_Corpus\\train\morphed\train_mfc\00000020  321    0   180 33  utt 0.015x 0.919e upd 0.015x 0.876e fwd 0.015x 0.833e bwd 0.000x 0.000e gau 0.010x 1.218e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    21 J:\New_Corpus\\train\morphed\train_mfc\00000021  213    0   128 52  12 12 1.060839e-102 -1.601240e+02 -3.410641e+04 utt 0.022x 1.218e upd 0.022x 1.154e fwd 0.015x 1.026e bwd 0.007x 1.346e gau 0.088x 0.636e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    22 J:\New_Corpus\\train\morphed\train_mfc\00000022  327    0   196 26  utt 0.010x 1.058e upd 0.010x 1.026e fwd 0.010x 0.929e bwd 0.000x 0.000e gau 0.010x 0.801e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    23 J:\New_Corpus\\train\morphed\train_mfc\00000023  198    0    92 23  utt 0.008x 1.282e upd 0.008x 1.154e fwd 0.008x 1.026e bwd 0.000x 0.000e gau 0.008x 0.897e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    24 J:\New_Corpus\\train\morphed\train_mfc\00000024  338    0   172 40  utt 0.014x 1.026e upd 0.014x 0.983e fwd 0.014x 0.919e bwd 0.000x 0.000e gau 0.014x 0.791e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    25 J:\New_Corpus\\train\morphed\train_mfc\00000025  172    0    88 41  10 12 1.484053e-102 -1.574643e+02 -2.708386e+04 utt 0.018x 1.218e upd 0.018x 1.154e fwd 0.009x 1.346e bwd 0.009x 0.962e gau 0.018x 2.628e rsts 0.009x 0.192e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    26 J:\New_Corpus\\train\morphed\train_mfc\00000026  215    0   124 28  10 10 6.581027e-103 -1.619095e+02 -3.481054e+04 utt 0.022x 0.876e upd 0.022x 0.833e fwd 0.015x 0.673e bwd 0.007x 1.154e gau 0.022x 2.115e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    27 J:\New_Corpus\\train\morphed\train_mfc\00000027  357    0   220 44  11 11 2.369628e-102 -1.618058e+02 -5.776468e+04 utt 0.022x 1.064e upd 0.022x 1.038e fwd 0.013x 0.983e bwd 0.009x 1.090e gau 0.079x 0.467e rsts 0.004x 0.321e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    28 J:\New_Corpus\\train\morphed\train_mfc\00000028  168    0    92 34  utt 0.019x 0.769e upd 0.019x 0.673e fwd 0.019x 0.609e bwd 0.000x 0.000e gau 0.019x 0.481e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    29 J:\New_Corpus\\train\morphed\train_mfc\00000029  300    0   116 24  utt 0.010x 0.994e upd 0.010x 0.929e fwd 0.010x 0.865e bwd 0.000x 0.000e gau 0.010x 0.705e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    30 J:\New_Corpus\\train\morphed\train_mfc\00000030  180    0    92 30  14 15 2.619071e-102 -1.571313e+02 -2.828363e+04 utt 0.026x 0.962e upd 0.026x 0.919e fwd 0.009x 1.346e bwd 0.017x 0.673e gau 0.095x 0.664e rsts 0.009x 0.256e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    31 J:\New_Corpus\\train\morphed\train_mfc\00000031  337    0   148 34  utt 0.009x 1.410e upd 0.009x 1.346e fwd 0.009x 1.282e bwd 0.000x 0.000e gau 0.009x 1.218e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    32 J:\New_Corpus\\train\morphed\train_mfc\00000032  316    0   160 51  utt 0.020x 0.865e upd 0.015x 1.090e fwd 0.015x 1.047e bwd 0.000x 0.000e gau 0.015x 0.919e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    33 J:\New_Corpus\\train\morphed\train_mfc\00000033  400    0   184 31  utt 0.012x 1.090e upd 0.012x 1.047e fwd 0.012x 0.983e bwd 0.000x 0.000e gau 0.008x 1.378e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    34 J:\New_Corpus\\train\morphed\train_mfc\00000034  310    0   184 28  utt 0.015x 0.855e upd 0.015x 0.812e fwd 0.015x 0.769e bwd 0.000x 0.000e gau 0.010x 1.026e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    35 J:\New_Corpus\\train\morphed\train_mfc\00000035  348    0   180 52  utt 0.018x 0.962e upd 0.018x 0.929e fwd 0.018x 0.881e bwd 0.000x 0.000e gau 0.013x 1.004e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    36 J:\New_Corpus\\train\morphed\train_mfc\00000036  259    0   108 26  utt 0.006x 1.731e upd 0.006x 1.603e fwd 0.006x 1.474e bwd 0.000x 0.000e gau 0.006x 1.346e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    37 J:\New_Corpus\\train\morphed\train_mfc\00000037  232    0   132 37  utt 0.007x 1.923e upd 0.007x 1.795e fwd 0.007x 1.603e bwd 0.000x 0.000e gau 0.007x 1.538e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    38 J:\New_Corpus\\train\morphed\train_mfc\00000038  248    0   104 42  15 12 3.815575e-102 -1.595222e+02 -3.956151e+04 utt 0.025x 1.010e upd 0.025x 0.978e fwd 0.013x 0.962e bwd 0.013x 0.929e gau 0.031x 2.667e rsts 0.006x 0.128e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    39 J:\New_Corpus\\train\morphed\train_mfc\00000039  545    0   312 30  utt 0.011x 1.010e upd 0.011x 0.978e fwd 0.011x 0.946e bwd 0.000x 0.000e gau 0.011x 0.865e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    40 J:\New_Corpus\\train\morphed\train_mfc\00000040  421    0   208 29  utt 0.011x 1.068e upd 0.011x 1.026e fwd 0.011x 0.983e bwd 0.000x 0.000e gau 0.011x 0.897e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    41 J:\New_Corpus\\train\morphed\train_mfc\00000041  320    0   208 utt 0.000x 0.000e upd 0.000x 0.000e fwd 0.000x 0.000e bwd 0.000x 0.000e gau 0.000x 0.000e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    42 J:\New_Corpus\\train\morphed\train_mfc\00000042  273    0   156 28  utt 0.011x 1.122e upd 0.011x 1.058e fwd 0.011x 0.962e bwd 0.000x 0.000e gau 0.011x 0.897e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    43 J:\New_Corpus\\train\morphed\train_mfc\00000043  399    0   220 43  utt 0.016x 1.042e upd 0.016x 0.994e fwd 0.016x 0.978e bwd 0.000x 0.000e gau 0.016x 0.913e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    44 J:\New_Corpus\\train\morphed\train_mfc\00000044  177    0   100 52  14 13 4.014043e-102 -1.648643e+02 -2.918098e+04 utt 0.035x 0.801e upd 0.035x 0.769e fwd 0.018x 0.865e bwd 0.018x 0.641e gau 0.035x 1.282e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    45 J:\New_Corpus\\train\morphed\train_mfc\00000045  174    0    92 25  utt 0.009x 1.282e upd 0.009x 1.154e fwd 0.009x 1.026e bwd 0.000x 0.000e gau 0.009x 0.897e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    46 J:\New_Corpus\\train\morphed\train_mfc\00000046  202    0    88 26  utt 0.008x 1.538e upd 0.008x 1.410e fwd 0.008x 1.282e bwd 0.000x 0.000e gau 0.008x 1.218e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    47 J:\New_Corpus\\train\morphed\train_mfc\00000047  194    0    96 38  utt 0.008x 2.115e upd 0.008x 1.923e fwd 0.008x 1.795e bwd 0.000x 0.000e gau 0.008x 1.795e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    48 J:\New_Corpus\\train\morphed\train_mfc\00000048  256    0   136 40  15 13 4.358316e-102 -1.612974e+02 -4.129213e+04 utt 0.030x 0.872e upd 0.024x 1.058e fwd 0.012x 1.122e bwd 0.012x 0.962e gau 0.030x 1.423e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    49 J:\New_Corpus\\train\morphed\train_mfc\00000049  169    0    88 30  utt 0.009x 1.410e upd 0.009x 1.282e fwd 0.009x 1.154e bwd 0.000x 0.000e gau 0.009x 0.962e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    50 J:\New_Corpus\\train\morphed\train_mfc\00000050  340    0   184 43  utt 0.018x 0.897e upd 0.018x 0.865e fwd 0.018x 0.833e bwd 0.000x 0.000e gau 0.014x 0.919e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    51 J:\New_Corpus\\train\morphed\train_mfc\00000051  191    0    92 28  utt 0.008x 1.603e upd 0.008x 1.474e fwd 0.008x 1.346e bwd 0.000x 0.000e gau 0.008x 1.218e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    52 J:\New_Corpus\\train\morphed\train_mfc\00000052  188    0   100 32  13 11 2.981197e-102 -1.594237e+02 -2.997166e+04 utt 0.017x 1.378e upd 0.017x 1.314e fwd 0.008x 1.346e bwd 0.008x 1.282e gau 0.041x 1.769e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    53 J:\New_Corpus\\train\morphed\train_mfc\00000053  182    0    92 40  utt 0.017x 0.865e upd 0.017x 0.801e fwd 0.017x 0.737e bwd 0.000x 0.000e gau 0.017x 0.641e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    54 J:\New_Corpus\\train\morphed\train_mfc\00000054  175    0    84 26  utt 0.009x 1.410e upd 0.009x 1.282e fwd 0.009x 1.154e bwd 0.000x 0.000e gau 0.009x 1.090e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    55 J:\New_Corpus\\train\morphed\train_mfc\00000055  356    0   192 53  17 13 5.077019e-102 -1.646659e+02 -5.862106e+04 utt 0.031x 1.016e upd 0.026x 1.165e fwd 0.013x 1.282e bwd 0.013x 1.026e gau 0.215x 0.372e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    56 J:\New_Corpus\\train\morphed\train_mfc\00000056  211    0   100 30  utt 0.015x 0.897e upd 0.007x 1.603e fwd 0.007x 1.538e bwd 0.000x 0.000e gau 0.000x 0.000e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    57 J:\New_Corpus\\train\morphed\train_mfc\00000057  261    0   112 21  utt 0.012x 0.897e upd 0.012x 0.801e fwd 0.012x 0.737e bwd 0.000x 0.000e gau 0.012x 0.641e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    58 J:\New_Corpus\\train\morphed\train_mfc\00000058  353    0   192 36  utt 0.013x 1.004e upd 0.013x 0.962e fwd 0.013x 0.919e bwd 0.000x 0.000e gau 0.013x 0.833e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    59 J:\New_Corpus\\train\morphed\train_mfc\00000059  150    0    76 24  utt 0.010x 1.154e upd 0.010x 1.026e fwd 0.010x 0.897e bwd 0.000x 0.000e gau 0.010x 0.833e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    60 J:\New_Corpus\\train\morphed\train_mfc\00000060  226    0   116 29  13 11 3.464096e-102 -1.649872e+02 -3.728711e+04 utt 0.021x 1.026e upd 0.021x 0.983e fwd 0.014x 0.705e bwd 0.007x 1.474e gau 0.179x 0.296e rsts 0.007x 0.064e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    61 J:\New_Corpus\\train\morphed\train_mfc\00000061  254    0   124 30  13 14 3.469166e-102 -1.623539e+02 -4.123790e+04 utt 0.025x 0.978e upd 0.025x 0.946e fwd 0.012x 0.994e bwd 0.012x 0.897e gau 0.025x 1.731e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    62 J:\New_Corpus\\train\morphed\train_mfc\00000062  433    0   212 26  utt 0.011x 0.983e upd 0.011x 0.919e fwd 0.011x 0.876e bwd 0.000x 0.000e gau 0.007x 1.154e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    63 J:\New_Corpus\\train\morphed\train_mfc\00000063  270    0   120 31  12 10 4.447509e-102 -1.638849e+02 -4.424891e+04 utt 0.023x 0.929e upd 0.023x 0.897e fwd 0.012x 0.929e bwd 0.012x 0.833e gau 0.023x 1.811e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    64 J:\New_Corpus\\train\morphed\train_mfc\00000064  315    0   160 36  utt 0.015x 1.004e upd 0.015x 0.962e fwd 0.015x 0.919e bwd 0.000x 0.000e gau 0.010x 1.186e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    65 J:\New_Corpus\\train\morphed\train_mfc\00000065  256    0   124 28  utt 0.012x 0.962e upd 0.012x 0.897e fwd 0.012x 0.833e bwd 0.000x 0.000e gau 0.012x 0.737e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    66 J:\New_Corpus\\train\morphed\train_mfc\00000066  254    0   116 43  17 13 5.456468e-102 -1.672401e+02 -4.247899e+04 utt 0.025x 1.154e upd 0.025x 1.122e fwd 0.012x 1.122e bwd 0.012x 1.090e gau 0.111x 0.609e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    67 J:\New_Corpus\\train\morphed\train_mfc\00000067  361    0   180 47  utt 0.013x 1.175e upd 0.013x 1.132e fwd 0.013x 1.111e bwd 0.000x 0.000e gau 0.013x 1.004e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    68 J:\New_Corpus\\train\morphed\train_mfc\00000068  236    0   108 53  9 8 6.370966e-103 -1.613717e+02 -3.808372e+04 utt 0.026x 0.897e upd 0.026x 0.865e fwd 0.013x 1.122e bwd 0.013x 0.577e gau 0.020x 2.286e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    69 J:\New_Corpus\\train\morphed\train_mfc\00000069  412    0   200 34  13 11 4.535197e-102 -1.590500e+02 -6.552860e+04 utt 0.023x 1.058e upd 0.023x 1.036e fwd 0.011x 1.047e bwd 0.011x 0.983e gau 0.155x 0.416e rsts 0.004x 0.577e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    70 J:\New_Corpus\\train\morphed\train_mfc\00000070  271    0   136 30  14 14 3.080925e-102 -1.604943e+02 -4.349396e+04 utt 0.023x 1.026e upd 0.023x 0.994e fwd 0.012x 0.962e bwd 0.012x 1.026e gau 0.098x 0.796e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    71 J:\New_Corpus\\train\morphed\train_mfc\00000071  236    0   108 34  13 12 3.567859e-102 -1.557779e+02 -3.676359e+04 utt 0.020x 1.047e upd 0.020x 1.004e fwd 0.013x 0.769e bwd 0.007x 1.474e gau 0.066x 1.167e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    72 J:\New_Corpus\\train\morphed\train_mfc\00000072  437    0   232 28  utt 0.011x 1.111e upd 0.011x 1.068e fwd 0.011x 1.026e bwd 0.000x 0.000e gau 0.011x 0.962e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    73 J:\New_Corpus\\train\morphed\train_mfc\00000073  269    0   124 25  utt 0.006x 1.923e upd 0.006x 1.731e fwd 0.006x 1.603e bwd 0.000x 0.000e gau 0.006x 1.474e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    74 J:\New_Corpus\\train\morphed\train_mfc\00000074  205    0   112 42  utt 0.008x 1.987e upd 0.008x 1.731e fwd 0.008x 1.667e bwd 0.000x 0.000e gau 0.008x 1.474e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    75 J:\New_Corpus\\train\morphed\train_mfc\00000075  218    0   104 28  utt 0.007x 1.603e upd 0.007x 1.474e fwd 0.007x 1.346e bwd 0.000x 0.000e gau 0.007x 1.090e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    76 J:\New_Corpus\\train\morphed\train_mfc\00000076  356    0   196 35  utt 0.013x 1.068e upd 0.013x 1.026e fwd 0.013x 1.004e bwd 0.000x 0.000e gau 0.013x 0.855e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    77 J:\New_Corpus\\train\morphed\train_mfc\00000077  258    0   116 37  10 9 6.360504e-103 -1.619346e+02 -4.177912e+04 utt 0.024x 0.865e upd 0.024x 0.833e fwd 0.012x 0.994e bwd 0.012x 0.673e gau 0.042x 0.842e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    78 J:\New_Corpus\\train\morphed\train_mfc\00000078  440    0   224 47  15 11 4.137132e-102 -1.671469e+02 -7.354463e+04 utt 0.028x 0.986e upd 0.028x 0.962e fwd 0.014x 1.074e bwd 0.014x 0.833e gau 0.025x 3.443e rsts 0.000x 0.000e rstf 0.004x 0.128e rstu 0.000x 0.000e
+
+utt>    79 J:\New_Corpus\\train\morphed\train_mfc\00000079  190    0    96 23  10 8 1.330526e-102 -1.611846e+02 -3.062508e+04 utt 0.016x 1.154e upd 0.016x 1.090e fwd 0.008x 1.090e bwd 0.008x 1.090e gau 0.025x 2.286e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    80 J:\New_Corpus\\train\morphed\train_mfc\00000080  269    0   168 49  utt 0.017x 1.026e upd 0.017x 0.983e fwd 0.017x 0.940e bwd 0.000x 0.000e gau 0.017x 0.833e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    81 J:\New_Corpus\\train\morphed\train_mfc\00000081  319    0   172 38  utt 0.015x 1.068e upd 0.015x 1.026e fwd 0.015x 1.004e bwd 0.000x 0.000e gau 0.010x 1.218e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    82 J:\New_Corpus\\train\morphed\train_mfc\00000082  349    0   148 56  25 21 5.981065e-102 -1.606711e+02 -5.607422e+04 utt 0.036x 0.929e upd 0.036x 0.913e fwd 0.018x 0.833e bwd 0.018x 0.962e gau 0.192x 0.874e rsts 0.004x 0.641e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    83 J:\New_Corpus\\train\morphed\train_mfc\00000083  411    0   184 31  utt 0.011x 1.175e upd 0.011x 1.132e fwd 0.011x 1.090e bwd 0.000x 0.000e gau 0.011x 0.962e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    84 J:\New_Corpus\\train\morphed\train_mfc\00000084  242    0   100 31  15 12 5.794744e-102 -1.583217e+02 -3.831385e+04 utt 0.026x 0.929e upd 0.026x 0.897e fwd 0.013x 0.865e bwd 0.013x 0.897e gau 0.026x 2.949e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    85 J:\New_Corpus\\train\morphed\train_mfc\00000085  180    0   100 31  utt 0.009x 1.667e upd 0.009x 1.538e fwd 0.009x 1.410e bwd 0.000x 0.000e gau 0.009x 1.218e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    86 J:\New_Corpus\\train\morphed\train_mfc\00000086  399    0   212 33  utt 0.012x 1.239e upd 0.012x 1.197e fwd 0.012x 1.154e bwd 0.000x 0.000e gau 0.012x 1.111e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    87 J:\New_Corpus\\train\morphed\train_mfc\00000087  223    0   128 36  utt 0.014x 1.058e upd 0.014x 0.994e fwd 0.014x 0.929e bwd 0.000x 0.000e gau 0.014x 0.929e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    88 J:\New_Corpus\\train\morphed\train_mfc\00000088  386    0   200 32  utt 0.008x 1.603e upd 0.008x 1.538e fwd 0.008x 1.474e bwd 0.000x 0.000e gau 0.008x 1.282e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    89 J:\New_Corpus\\train\morphed\train_mfc\00000089  206    0   100 26  utt 0.008x 1.731e upd 0.008x 1.603e fwd 0.008x 1.474e bwd 0.000x 0.000e gau 0.008x 1.282e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    90 J:\New_Corpus\\train\morphed\train_mfc\00000090  205    0   100 35  12 10 2.671636e-102 -1.596802e+02 -3.273444e+04 utt 0.023x 1.004e upd 0.023x 0.962e fwd 0.015x 0.769e bwd 0.008x 1.346e gau 0.091x 0.422e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    91 J:\New_Corpus\\train\morphed\train_mfc\00000091  258    0   124 34  11 10 2.880680e-102 -1.625382e+02 -4.193486e+04 utt 0.024x 0.881e upd 0.024x 0.849e fwd 0.006x 1.859e bwd 0.012x 0.737e gau 0.018x 3.590e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    92 J:\New_Corpus\\train\morphed\train_mfc\00000092  383    0   212 31  utt 0.012x 0.962e upd 0.012x 0.919e fwd 0.012x 0.876e bwd 0.000x 0.000e gau 0.012x 0.769e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    93 J:\New_Corpus\\train\morphed\train_mfc\00000093  187    0    96 29  utt 0.008x 1.282e upd 0.008x 1.154e fwd 0.008x 1.026e bwd 0.000x 0.000e gau 0.008x 0.769e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    94 J:\New_Corpus\\train\morphed\train_mfc\00000094  218    0   128 31  utt 0.014x 0.962e upd 0.014x 0.897e fwd 0.014x 0.801e bwd 0.000x 0.000e gau 0.014x 0.769e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    95 J:\New_Corpus\\train\morphed\train_mfc\00000095  175    0    88 34  13 11 3.990945e-102 -1.576997e+02 -2.759744e+04 utt 0.027x 0.897e upd 0.027x 0.876e fwd 0.009x 1.346e bwd 0.018x 0.609e gau 0.116x 0.523e rsts 0.009x 0.192e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    96 J:\New_Corpus\\train\morphed\train_mfc\00000096  374    0   172 53  19 14 5.338852e-102 -1.647809e+02 -6.162807e+04 utt 0.029x 1.053e upd 0.029x 1.035e fwd 0.017x 0.913e bwd 0.013x 1.175e gau 0.146x 0.551e rsts 0.004x 0.449e rstf 0.004x 0.064e rstu 0.000x 0.000e
+
+utt>    97 J:\New_Corpus\\train\morphed\train_mfc\00000097  448    0   224 42  17 13 3.886373e-102 -1.656557e+02 -7.421377e+04 utt 0.028x 1.018e upd 0.028x 1.002e fwd 0.014x 1.026e bwd 0.014x 0.946e gau 0.230x 0.369e rsts 0.003x 0.449e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    98 J:\New_Corpus\\train\morphed\train_mfc\00000098  342    0   180 49  22 18 6.202106e-102 -1.638664e+02 -5.604232e+04 utt 0.032x 1.026e upd 0.032x 1.007e fwd 0.018x 0.849e bwd 0.014x 1.218e gau 0.137x 1.244e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>    99 J:\New_Corpus\\train\morphed\train_mfc\00000099  248    0   124 26  12 11 1.502239e-102 -1.606804e+02 -3.984875e+04 utt 0.025x 0.785e upd 0.019x 1.004e fwd 0.006x 1.474e bwd 0.013x 0.769e gau 0.019x 3.654e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   100 J:\New_Corpus\\train\morphed\train_mfc\00000100  201    0    96 38  16 15 3.842589e-102 -1.648679e+02 -3.313845e+04 utt 0.023x 1.175e upd 0.023x 1.111e fwd 0.008x 1.667e bwd 0.016x 0.833e gau 0.023x 3.611e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   101 J:\New_Corpus\\train\morphed\train_mfc\00000101  222    0   108 57  13 11 4.516313e-102 -1.587035e+02 -3.523217e+04 utt 0.028x 0.994e upd 0.028x 0.946e fwd 0.021x 0.748e bwd 0.007x 1.538e gau 0.056x 0.809e rsts 0.007x 0.192e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   102 J:\New_Corpus\\train\morphed\train_mfc\00000102  244    0   104 38  16 16 2.899895e-102 -1.601231e+02 -3.907004e+04 utt 0.026x 0.946e upd 0.026x 0.913e fwd 0.013x 0.897e bwd 0.013x 0.929e gau 0.051x 1.186e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   103 J:\New_Corpus\\train\morphed\train_mfc\00000103  402    0   212 43  18 15 3.022553e-102 -1.621748e+02 -6.519426e+04 utt 0.027x 1.016e upd 0.027x 0.998e fwd 0.012x 1.154e bwd 0.016x 0.865e gau 0.023x 3.387e rsts 0.000x 0.000e rstf 0.004x 0.128e rstu 0.000x 0.000e
+
+utt>   104 J:\New_Corpus\\train\morphed\train_mfc\00000104  284    0   140 36  15 14 2.537815e-102 -1.627958e+02 -4.623401e+04 utt 0.027x 0.910e upd 0.027x 0.885e fwd 0.011x 1.154e bwd 0.016x 0.705e gau 0.137x 0.418e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   105 J:\New_Corpus\\train\morphed\train_mfc\00000105  356    0   196 31  12 11 4.272407e-102 -1.616845e+02 -5.755968e+04 utt 0.022x 1.051e upd 0.022x 1.026e fwd 0.009x 1.314e bwd 0.013x 0.812e gau 0.018x 2.869e rsts 0.000x 0.000e rstf 0.004x 0.000e rstu 0.000x 0.000e
+
+utt>   106 J:\New_Corpus\\train\morphed\train_mfc\00000106  273    0   144 35  utt 0.011x 1.154e upd 0.011x 1.058e fwd 0.011x 0.994e bwd 0.000x 0.000e gau 0.006x 1.731e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   107 J:\New_Corpus\\train\morphed\train_mfc\00000107  317    0   180 34  utt 0.015x 0.876e upd 0.015x 0.833e fwd 0.015x 0.791e bwd 0.000x 0.000e gau 0.010x 1.026e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   108 J:\New_Corpus\\train\morphed\train_mfc\00000108  423    0   212 47  16 13 4.456428e-102 -1.642372e+02 -6.947232e+04 utt 0.026x 1.071e upd 0.026x 1.053e fwd 0.015x 1.010e bwd 0.011x 1.111e gau 0.114x 0.709e rsts 0.004x 0.385e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   109 J:\New_Corpus\\train\morphed\train_mfc\00000109  264    0   132 51  12 11 2.679881e-102 -1.601439e+02 -4.227800e+04 utt 0.030x 0.987e upd 0.030x 0.962e fwd 0.018x 1.004e bwd 0.012x 0.865e gau 0.030x 2.244e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   110 J:\New_Corpus\\train\morphed\train_mfc\00000110  280    0   148 28  utt 0.011x 1.154e upd 0.011x 1.058e fwd 0.011x 0.994e bwd 0.000x 0.000e gau 0.011x 0.962e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   111 J:\New_Corpus\\train\morphed\train_mfc\00000111  253    0   116 44  utt 0.012x 1.250e upd 0.012x 1.186e fwd 0.012x 1.122e bwd 0.000x 0.000e gau 0.012x 1.058e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   112 J:\New_Corpus\\train\morphed\train_mfc\00000112  203    0   116 37  utt 0.015x 1.058e upd 0.015x 0.962e fwd 0.015x 0.929e bwd 0.000x 0.000e gau 0.015x 0.897e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   113 J:\New_Corpus\\train\morphed\train_mfc\00000113  274    0   140 33  utt 0.011x 1.122e upd 0.011x 1.058e fwd 0.011x 0.994e bwd 0.000x 0.000e gau 0.011x 0.897e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   114 J:\New_Corpus\\train\morphed\train_mfc\00000114  455    0   224 42  16 14 2.908248e-102 -1.700264e+02 -7.736199e+04 utt 0.024x 1.099e upd 0.024x 1.081e fwd 0.010x 1.282e bwd 0.014x 0.913e gau 0.099x 0.778e rsts 0.003x 0.449e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   115 J:\New_Corpus\\train\morphed\train_mfc\00000115  210    0    96 30  utt 0.015x 0.769e upd 0.015x 0.705e fwd 0.015x 0.641e bwd 0.000x 0.000e gau 0.015x 0.577e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   116 J:\New_Corpus\\train\morphed\train_mfc\00000116  264    0   144 38  utt 0.012x 1.282e upd 0.012x 1.218e fwd 0.012x 1.154e bwd 0.000x 0.000e gau 0.012x 1.058e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   117 J:\New_Corpus\\train\morphed\train_mfc\00000117  181    0    92 32  12 11 3.188954e-102 -1.618197e+02 -2.928937e+04 utt 0.026x 0.812e upd 0.026x 0.748e fwd 0.017x 0.577e bwd 0.009x 1.090e gau 0.026x 2.500e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   118 J:\New_Corpus\\train\morphed\train_mfc\00000118  247    0   124 42  utt 0.013x 1.122e upd 0.013x 1.026e fwd 0.013x 0.962e bwd 0.000x 0.000e gau 0.013x 0.897e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   119 J:\New_Corpus\\train\morphed\train_mfc\00000119  408    0   232 37  15 13 4.608719e-102 -1.689309e+02 -6.892380e+04 utt 0.023x 1.036e upd 0.023x 1.004e fwd 0.011x 1.026e bwd 0.011x 0.983e gau 0.065x 1.275e rsts 0.004x 0.577e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   120 J:\New_Corpus\\train\morphed\train_mfc\00000120  215    0    92 45  utt 0.022x 0.791e upd 0.022x 0.726e fwd 0.015x 1.058e bwd 0.000x 0.000e gau 0.015x 0.929e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   121 J:\New_Corpus\\train\morphed\train_mfc\00000121  453    0   252 40  utt 0.014x 1.090e upd 0.014x 1.058e fwd 0.014x 1.026e bwd 0.000x 0.000e gau 0.014x 0.897e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   122 J:\New_Corpus\\train\morphed\train_mfc\00000122  264    0   132 33  15 13 2.460568e-102 -1.609346e+02 -4.248675e+04 utt 0.024x 1.042e upd 0.024x 1.010e fwd 0.012x 1.026e bwd 0.012x 0.994e gau 0.024x 3.622e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   123 J:\New_Corpus\\train\morphed\train_mfc\00000123  429    0   216 39  utt 0.015x 1.010e upd 0.015x 0.962e fwd 0.015x 0.946e bwd 0.000x 0.000e gau 0.011x 1.111e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   124 J:\New_Corpus\\train\morphed\train_mfc\00000124  231    0   116 35  14 12 3.323240e-102 -1.643634e+02 -3.796795e+04 utt 0.027x 0.849e upd 0.027x 0.833e fwd 0.014x 0.833e bwd 0.007x 1.538e gau 0.074x 0.571e rsts 0.007x 0.128e rstf 0.000x 0.000e rstu 0.007x 0.064e
+
+utt>   125 J:\New_Corpus\\train\morphed\train_mfc\00000125  366    0   204 42  utt 0.013x 1.261e upd 0.013x 1.218e fwd 0.013x 1.175e bwd 0.000x 0.000e gau 0.013x 1.047e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   126 J:\New_Corpus\\train\morphed\train_mfc\00000126  258    0   112 28  utt 0.006x 2.244e upd 0.006x 2.051e fwd 0.006x 1.923e bwd 0.000x 0.000e gau 0.006x 1.859e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   127 J:\New_Corpus\\train\morphed\train_mfc\00000127  184    0    84 47  16 13 4.967878e-102 -1.607052e+02 -2.956976e+04 utt 0.025x 1.132e upd 0.025x 1.068e fwd 0.008x 1.731e bwd 0.017x 0.737e gau 0.008x 12.564e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   128 J:\New_Corpus\\train\morphed\train_mfc\00000128  176    0    92 38  19 14 3.347410e-102 -1.580427e+02 -2.781551e+04 utt 0.027x 1.111e upd 0.027x 1.047e fwd 0.018x 0.737e bwd 0.009x 1.667e gau 0.213x 0.294e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   129 J:\New_Corpus\\train\morphed\train_mfc\00000129  249    0   124 34  utt 0.013x 1.058e upd 0.013x 0.962e fwd 0.013x 0.897e bwd 0.000x 0.000e gau 0.013x 0.737e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   130 J:\New_Corpus\\train\morphed\train_mfc\00000130  224    0   128 38  utt 0.007x 1.987e upd 0.007x 1.859e fwd 0.007x 1.731e bwd 0.000x 0.000e gau 0.007x 1.667e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   131 J:\New_Corpus\\train\morphed\train_mfc\00000131  213    0   100 29  utt 0.007x 1.859e upd 0.007x 1.731e fwd 0.007x 1.603e bwd 0.000x 0.000e gau 0.007x 1.346e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   132 J:\New_Corpus\\train\morphed\train_mfc\00000132  195    0    92 34  utt 0.016x 1.026e upd 0.016x 0.962e fwd 0.016x 0.865e bwd 0.000x 0.000e gau 0.016x 0.673e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   133 J:\New_Corpus\\train\morphed\train_mfc\00000133  429    0   200 27  utt 0.011x 1.068e upd 0.011x 1.026e fwd 0.011x 0.983e bwd 0.000x 0.000e gau 0.004x 2.564e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   134 J:\New_Corpus\\train\morphed\train_mfc\00000134  228    0   104 29  utt 0.007x 1.667e upd 0.007x 1.538e fwd 0.007x 1.410e bwd 0.000x 0.000e gau 0.007x 1.218e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   135 J:\New_Corpus\\train\morphed\train_mfc\00000135  272    0   140 32  utt 0.011x 1.122e upd 0.011x 1.090e fwd 0.011x 0.994e bwd 0.000x 0.000e gau 0.006x 1.859e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   136 J:\New_Corpus\\train\morphed\train_mfc\00000136  182    0    80 40  12 12 2.705722e-102 -1.589685e+02 -2.893227e+04 utt 0.017x 1.410e upd 0.017x 1.346e fwd 0.009x 1.603e bwd 0.009x 1.090e gau 0.017x 3.686e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   137 J:\New_Corpus\\train\morphed\train_mfc\00000137  187    0    96 46  17 14 8.086104e-102 -1.555319e+02 -2.908446e+04 utt 0.033x 0.913e upd 0.033x 0.881e fwd 0.017x 0.897e bwd 0.017x 0.833e gau 0.033x 4.087e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   138 J:\New_Corpus\\train\morphed\train_mfc\00000138  177    0    92 46  17 17 5.173155e-102 -1.573816e+02 -2.785655e+04 utt 0.026x 1.132e upd 0.026x 1.111e fwd 0.018x 0.865e bwd 0.009x 1.538e gau 0.026x 2.009e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   139 J:\New_Corpus\\train\morphed\train_mfc\00000139  194    0   108 33  utt 0.016x 0.897e upd 0.016x 0.833e fwd 0.016x 0.801e bwd 0.000x 0.000e gau 0.016x 0.705e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   140 J:\New_Corpus\\train\morphed\train_mfc\00000140  533    0   280 50  11 12 8.977848e-103 -1.690889e+02 -9.012436e+04 utt 0.026x 0.947e upd 0.026x 0.933e fwd 0.015x 1.038e bwd 0.012x 0.785e gau 0.067x 0.948e rsts 0.003x 0.513e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   141 J:\New_Corpus\\train\morphed\train_mfc\00000141  210    0   100 36  utt 0.007x 1.731e upd 0.007x 1.603e fwd 0.007x 1.410e bwd 0.000x 0.000e gau 0.007x 1.154e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   142 J:\New_Corpus\\train\morphed\train_mfc\00000142  322    0   148 33  10 8 2.136736e-102 -1.618517e+02 -5.211624e+04 utt 0.019x 1.138e upd 0.019x 1.090e fwd 0.010x 1.282e bwd 0.010x 0.865e gau 0.015x 2.650e rsts 0.005x 0.321e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   143 J:\New_Corpus\\train\morphed\train_mfc\00000143  320    0   184 37  12 11 3.320638e-102 -1.629082e+02 -5.213062e+04 utt 0.024x 0.974e upd 0.024x 0.949e fwd 0.015x 0.855e bwd 0.010x 1.090e gau 0.059x 0.897e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   144 J:\New_Corpus\\train\morphed\train_mfc\00000144  346    0   156 23  utt 0.009x 1.154e upd 0.009x 1.090e fwd 0.009x 0.994e bwd 0.000x 0.000e gau 0.009x 0.929e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   145 J:\New_Corpus\\train\morphed\train_mfc\00000145  222    0    92 37  16 13 2.656618e-102 -1.547746e+02 -3.435995e+04 utt 0.028x 0.994e upd 0.028x 0.929e fwd 0.014x 0.929e bwd 0.014x 0.929e gau 0.091x 0.602e rsts 0.000x 0.000e rstf 0.007x 0.192e rstu 0.000x 0.000e
+
+utt>   146 J:\New_Corpus\\train\morphed\train_mfc\00000146  256    0   132 34  14 12 3.248502e-102 -1.611368e+02 -4.125102e+04 utt 0.024x 1.042e upd 0.024x 1.010e fwd 0.012x 1.026e bwd 0.012x 0.962e gau 0.171x 0.531e rsts 0.012x 0.256e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   147 J:\New_Corpus\\train\morphed\train_mfc\00000147  200    0    88 33  utt 0.016x 0.801e upd 0.016x 0.737e fwd 0.016x 0.705e bwd 0.000x 0.000e gau 0.016x 0.641e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   148 J:\New_Corpus\\train\morphed\train_mfc\00000148  153    0    72 34  14 12 3.408976e-102 -1.547464e+02 -2.367619e+04 utt 0.020x 1.250e upd 0.020x 1.186e fwd 0.010x 1.218e bwd 0.010x 1.090e gau 0.020x 3.494e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   149 J:\New_Corpus\\train\morphed\train_mfc\00000149  269    0   120 39  utt 0.012x 1.442e upd 0.012x 1.346e fwd 0.012x 1.282e bwd 0.000x 0.000e gau 0.012x 1.186e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   150 J:\New_Corpus\\train\morphed\train_mfc\00000150  164    0    72 45  20 14 5.099364e-102 -1.584946e+02 -2.599312e+04 utt 0.038x 0.801e upd 0.038x 0.769e fwd 0.019x 0.737e bwd 0.019x 0.801e gau 0.038x 2.324e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   151 J:\New_Corpus\\train\morphed\train_mfc\00000151  312    0   160 21  utt 0.005x 2.051e upd 0.005x 1.923e fwd 0.005x 1.795e bwd 0.000x 0.000e gau 0.005x 1.795e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   152 J:\New_Corpus\\train\morphed\train_mfc\00000152  328    0   172 24  utt 0.010x 1.090e upd 0.010x 1.026e fwd 0.010x 0.962e bwd 0.000x 0.000e gau 0.010x 0.929e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   153 J:\New_Corpus\\train\morphed\train_mfc\00000153  188    0   104 30  utt 0.008x 1.474e upd 0.008x 1.346e fwd 0.008x 1.218e bwd 0.000x 0.000e gau 0.008x 1.026e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   154 J:\New_Corpus\\train\morphed\train_mfc\00000154  220    0    96 33  13 12 1.738159e-102 -1.613654e+02 -3.550039e+04 utt 0.021x 0.983e upd 0.021x 0.940e fwd 0.014x 0.673e bwd 0.007x 1.410e gau 0.156x 0.288e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   155 J:\New_Corpus\\train\morphed\train_mfc\00000155  218    0   112 27  utt 0.014x 0.769e upd 0.014x 0.737e fwd 0.014x 0.641e bwd 0.000x 0.000e gau 0.014x 0.641e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   156 J:\New_Corpus\\train\morphed\train_mfc\00000156  219    0    92 30  14 11 3.693937e-102 -1.590368e+02 -3.482907e+04 utt 0.021x 1.090e upd 0.021x 1.047e fwd 0.007x 1.474e bwd 0.014x 0.769e gau 0.199x 0.332e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   157 J:\New_Corpus\\train\morphed\train_mfc\00000157  221    0   100 45  utt 0.014x 1.218e upd 0.014x 1.186e fwd 0.014x 1.122e bwd 0.000x 0.000e gau 0.014x 1.122e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   158 J:\New_Corpus\\train\morphed\train_mfc\00000158  181    0   104 28  utt 0.009x 1.410e upd 0.009x 1.282e fwd 0.009x 1.218e bwd 0.000x 0.000e gau 0.009x 1.090e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   159 J:\New_Corpus\\train\morphed\train_mfc\00000159  269    0   164 41  15 15 4.049497e-102 -1.646988e+02 -4.430398e+04 utt 0.023x 1.138e upd 0.023x 1.106e fwd 0.012x 1.186e bwd 0.012x 1.026e gau 0.052x 1.603e rsts 0.006x 0.128e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   160 J:\New_Corpus\\train\morphed\train_mfc\00000160  250    0   140 47  utt 0.012x 1.474e upd 0.012x 1.410e fwd 0.012x 1.346e bwd 0.000x 0.000e gau 0.012x 1.282e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   161 J:\New_Corpus\\train\morphed\train_mfc\00000161  188    0    88 30  utt 0.017x 0.833e upd 0.017x 0.769e fwd 0.017x 0.705e bwd 0.000x 0.000e gau 0.008x 1.218e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   162 J:\New_Corpus\\train\morphed\train_mfc\00000162  166    0    80 25  utt 0.009x 1.218e upd 0.009x 1.090e fwd 0.009x 0.962e bwd 0.000x 0.000e gau 0.009x 0.962e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   163 J:\New_Corpus\\train\morphed\train_mfc\00000163  183    0    80 38  7 11 5.371878e-103 -1.582143e+02 -2.895321e+04 utt 0.026x 0.748e upd 0.026x 0.705e fwd 0.017x 0.673e bwd 0.009x 0.769e gau 0.017x 1.282e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   164 J:\New_Corpus\\train\morphed\train_mfc\00000164  247    0   112 38  14 12 2.294571e-102 -1.597252e+02 -3.945213e+04 utt 0.025x 0.994e upd 0.025x 0.962e fwd 0.013x 1.026e bwd 0.006x 1.731e gau 0.019x 3.269e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.006x 0.064e
+
+utt>   165 J:\New_Corpus\\train\morphed\train_mfc\00000165  334    0   160 37  15 12 2.049533e-102 -1.626673e+02 -5.433088e+04 utt 0.023x 1.141e upd 0.023x 1.115e fwd 0.014x 0.962e bwd 0.009x 1.314e gau 0.131x 0.527e rsts 0.005x 0.449e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   166 J:\New_Corpus\\train\morphed\train_mfc\00000166  221    0   124 26  utt 0.014x 0.865e upd 0.014x 0.801e fwd 0.014x 0.737e bwd 0.000x 0.000e gau 0.014x 0.641e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   167 J:\New_Corpus\\train\morphed\train_mfc\00000167  237    0   136 35  utt 0.013x 1.186e upd 0.013x 1.122e fwd 0.013x 1.058e bwd 0.000x 0.000e gau 0.013x 0.994e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   168 J:\New_Corpus\\train\morphed\train_mfc\00000168  180    0    88 27  utt 0.017x 0.673e upd 0.017x 0.609e fwd 0.017x 0.545e bwd 0.000x 0.000e gau 0.017x 0.449e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   169 J:\New_Corpus\\train\morphed\train_mfc\00000169  402    0   212 34  utt 0.012x 1.175e upd 0.012x 1.132e fwd 0.012x 1.111e bwd 0.000x 0.000e gau 0.012x 0.983e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   170 J:\New_Corpus\\train\morphed\train_mfc\00000170  213    0   100 40  utt 0.015x 0.962e upd 0.015x 0.897e fwd 0.015x 0.833e bwd 0.000x 0.000e gau 0.000x 0.000e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   171 J:\New_Corpus\\train\morphed\train_mfc\00000171  234    0   120 35  16 14 2.483947e-102 -1.614472e+02 -3.777864e+04 utt 0.027x 0.994e upd 0.027x 0.962e fwd 0.013x 0.962e bwd 0.013x 0.929e gau 0.200x 0.329e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   172 J:\New_Corpus\\train\morphed\train_mfc\00000172  259    0   136 37  utt 0.012x 1.186e upd 0.012x 1.122e fwd 0.012x 1.090e bwd 0.000x 0.000e gau 0.012x 0.962e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   173 J:\New_Corpus\\train\morphed\train_mfc\00000173  202    0   112 34  utt 0.008x 1.923e upd 0.008x 1.795e fwd 0.008x 1.603e bwd 0.000x 0.000e gau 0.008x 1.346e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   174 J:\New_Corpus\\train\morphed\train_mfc\00000174  387    0   216 43  15 13 3.837794e-102 -1.624569e+02 -6.287080e+04 utt 0.028x 1.007e upd 0.028x 0.989e fwd 0.012x 1.261e bwd 0.016x 0.785e gau 0.097x 0.743e rsts 0.004x 0.256e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   175 J:\New_Corpus\\train\morphed\train_mfc\00000175  264    0   140 35  utt 0.012x 1.250e upd 0.012x 1.154e fwd 0.012x 1.090e bwd 0.000x 0.000e gau 0.006x 1.987e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   176 J:\New_Corpus\\train\morphed\train_mfc\00000176  218    0   132 45  10 11 2.342339e-102 -1.636317e+02 -3.567171e+04 utt 0.021x 1.132e upd 0.021x 1.090e fwd 0.014x 0.994e bwd 0.007x 1.282e gau 0.021x 2.393e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   177 J:\New_Corpus\\train\morphed\train_mfc\00000177  435    0   204 38  16 15 3.250407e-102 -1.624914e+02 -7.068374e+04 utt 0.022x 1.100e upd 0.022x 1.079e fwd 0.011x 1.026e bwd 0.011x 1.090e gau 0.129x 0.677e rsts 0.007x 0.288e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   178 J:\New_Corpus\\train\morphed\train_mfc\00000178  294    0   152 30  utt 0.011x 1.154e upd 0.011x 1.090e fwd 0.011x 1.026e bwd 0.000x 0.000e gau 0.011x 0.897e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   179 J:\New_Corpus\\train\morphed\train_mfc\00000179  251    0   140 29  utt 0.012x 0.929e upd 0.012x 0.865e fwd 0.012x 0.801e bwd 0.000x 0.000e gau 0.012x 0.737e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   180 J:\New_Corpus\\train\morphed\train_mfc\00000180  309    0   176 33  utt 0.015x 0.876e upd 0.015x 0.833e fwd 0.015x 0.791e bwd 0.000x 0.000e gau 0.005x 2.179e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   181 J:\New_Corpus\\train\morphed\train_mfc\00000181  319    0   172 34  utt 0.015x 0.940e upd 0.015x 0.897e fwd 0.010x 1.250e bwd 0.000x 0.000e gau 0.005x 2.115e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   182 J:\New_Corpus\\train\morphed\train_mfc\00000182  221    0    96 39  18 13 6.282984e-102 -1.591433e+02 -3.517067e+04 utt 0.028x 1.010e upd 0.028x 0.978e fwd 0.014x 0.929e bwd 0.014x 1.026e gau 0.071x 1.558e rsts 0.007x 0.128e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   183 J:\New_Corpus\\train\morphed\train_mfc\00000183  363    0   196 41  utt 0.013x 1.197e upd 0.013x 1.154e fwd 0.013x 1.111e bwd 0.000x 0.000e gau 0.013x 1.068e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   184 J:\New_Corpus\\train\morphed\train_mfc\00000184  284    0   168 31  utt 0.011x 1.154e upd 0.011x 1.090e fwd 0.011x 1.026e bwd 0.000x 0.000e gau 0.011x 0.962e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   185 J:\New_Corpus\\train\morphed\train_mfc\00000185  148    0    96 38  utt 0.011x 1.603e upd 0.011x 1.474e fwd 0.011x 1.410e bwd 0.000x 0.000e gau 0.000x 0.000e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   186 J:\New_Corpus\\train\morphed\train_mfc\00000186  323    0   184 29  utt 0.014x 0.855e upd 0.014x 0.812e fwd 0.014x 0.748e bwd 0.000x 0.000e gau 0.014x 0.662e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   187 J:\New_Corpus\\train\morphed\train_mfc\00000187  255    0   128 20  utt 0.006x 1.538e upd 0.006x 1.410e fwd 0.006x 1.282e bwd 0.000x 0.000e gau 0.006x 1.282e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   188 J:\New_Corpus\\train\morphed\train_mfc\00000188  219    0   136 22  utt 0.014x 0.801e upd 0.014x 0.705e fwd 0.014x 0.641e bwd 0.000x 0.000e gau 0.014x 0.609e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   189 J:\New_Corpus\\train\morphed\train_mfc\00000189  272    0   172 49  17 14 3.721055e-102 -1.645993e+02 -4.477100e+04 utt 0.029x 1.064e upd 0.029x 1.038e fwd 0.017x 0.919e bwd 0.011x 1.218e gau 0.069x 1.154e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   190 J:\New_Corpus\\train\morphed\train_mfc\00000190  181    0    96 37  utt 0.017x 0.897e upd 0.017x 0.833e fwd 0.017x 0.737e bwd 0.000x 0.000e gau 0.017x 0.641e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   191 J:\New_Corpus\\train\morphed\train_mfc\00000191  364    0   176 56  utt 0.017x 0.962e upd 0.017x 0.929e fwd 0.017x 0.881e bwd 0.000x 0.000e gau 0.017x 0.833e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   192 J:\New_Corpus\\train\morphed\train_mfc\00000192  456    0   264 27  utt 0.010x 1.111e upd 0.010x 1.047e fwd 0.010x 1.004e bwd 0.000x 0.000e gau 0.007x 1.346e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   193 J:\New_Corpus\\train\morphed\train_mfc\00000193  200    0   100 37  utt 0.016x 1.026e upd 0.016x 0.962e fwd 0.016x 0.929e bwd 0.000x 0.000e gau 0.008x 1.795e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   194 J:\New_Corpus\\train\morphed\train_mfc\00000194  304    0   188 27  utt 0.015x 0.791e upd 0.015x 0.769e fwd 0.015x 0.726e bwd 0.000x 0.000e gau 0.015x 0.662e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   195 J:\New_Corpus\\train\morphed\train_mfc\00000195  366    0   212 43  utt 0.013x 1.218e upd 0.013x 1.175e fwd 0.013x 1.132e bwd 0.000x 0.000e gau 0.013x 1.026e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   196 J:\New_Corpus\\train\morphed\train_mfc\00000196  311    0   160 29  utt 0.010x 0.994e upd 0.010x 0.897e fwd 0.010x 0.833e bwd 0.000x 0.000e gau 0.005x 1.410e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   197 J:\New_Corpus\\train\morphed\train_mfc\00000197  355    0   212 27  utt 0.013x 0.791e upd 0.013x 0.748e fwd 0.013x 0.705e bwd 0.000x 0.000e gau 0.013x 0.620e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   198 J:\New_Corpus\\train\morphed\train_mfc\00000198  395    0   180 39  14 11 4.341645e-102 -1.634370e+02 -6.455762e+04 utt 0.024x 1.004e upd 0.024x 0.983e fwd 0.012x 1.026e bwd 0.012x 0.940e gau 0.059x 1.282e rsts 0.004x 0.449e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+utt>   199 J:\New_Corpus\\train\morphed\train_mfc\00000199  217    0   124 40  utt 0.014x 0.962e upd 0.014x 0.929e fwd 0.014x 0.865e bwd 0.000x 0.000e gau 0.007x 1.603e rsts 0.000x 0.000e rstf 0.000x 0.000e rstu 0.000x 0.000e
+
+overall> stats 20845 (-0) -1.621070e+02 -3.379120e+06 0.045x 1.049e
+J:\asr\models\en-us\feat.params
+J:\asr\models\en-us\mdef
+J:\asr\models\en-us\mdef.txt
+J:\asr\models\en-us\means
+J:\asr\models\en-us\mixture_weights
+J:\asr\models\en-us\noisedict
+J:\asr\models\en-us\README
+J:\asr\models\en-us\sendump
+J:\asr\models\en-us\transition_matrices
+J:\asr\models\en-us\variances
+       10 file(s) copied.
+\train\morphed
+\train\morphed
+00000000.raw
+00000001.raw
+00000002.raw
+00000003.raw
+00000004.raw
+00000005.raw
+00000006.raw
+00000007.raw
+00000008.raw
+00000009.raw
+00000010.raw
+00000011.raw
+00000012.raw
+00000013.raw
+00000014.raw
+00000015.raw
+00000016.raw
+00000017.raw
+00000018.raw
+00000019.raw
+00000020.raw
+00000021.raw
+00000022.raw
+00000023.raw
+00000024.raw
+00000025.raw
+00000026.raw
+00000027.raw
+00000028.raw
+00000029.raw
+00000030.raw
+00000031.raw
+00000032.raw
+00000033.raw
+00000034.raw
+00000035.raw
+00000036.raw
+00000037.raw
+00000038.raw
+00000039.raw
+00000040.raw
+00000041.raw
+00000042.raw
+00000043.raw
+00000044.raw
+00000045.raw
+00000046.raw
+00000047.raw
+00000048.raw
+00000049.raw
+00000050.raw
+00000051.raw
+00000052.raw
+00000053.raw
+00000054.raw
+00000055.raw
+00000056.raw
+00000057.raw
+00000058.raw
+00000059.raw
+00000060.raw
+00000061.raw
+00000062.raw
+00000063.raw
+00000064.raw
+00000065.raw
+00000066.raw
+00000067.raw
+00000068.raw
+00000069.raw
+00000070.raw
+00000071.raw
+00000072.raw
+00000073.raw
+00000074.raw
+00000075.raw
+00000076.raw
+00000077.raw
+00000078.raw
+00000079.raw
+00000080.raw
+00000081.raw
+00000082.raw
+00000083.raw
+00000084.raw
+00000085.raw
+00000086.raw
+00000087.raw
+00000088.raw
+00000089.raw
+00000090.raw
+00000091.raw
+00000092.raw
+00000093.raw
+00000094.raw
+00000095.raw
+00000096.raw
+00000097.raw
+00000098.raw
+00000099.raw
+00000100.raw
+00000101.raw
+00000102.raw
+00000103.raw
+00000104.raw
+00000105.raw
+00000106.raw
+00000107.raw
+00000108.raw
+00000109.raw
+00000110.raw
+00000111.raw
+00000112.raw
+00000113.raw
+00000114.raw
+00000115.raw
+00000116.raw
+00000117.raw
+00000118.raw
+00000119.raw
+00000120.raw
+00000121.raw
+00000122.raw
+00000123.raw
+00000124.raw
+00000125.raw
+00000126.raw
+00000127.raw
+00000128.raw
+00000129.raw
+00000130.raw
+00000131.raw
+00000132.raw
+00000133.raw
+00000134.raw
+00000135.raw
+00000136.raw
+00000137.raw
+00000138.raw
+00000139.raw
+00000140.raw
+00000141.raw
+00000142.raw
+00000143.raw
+00000144.raw
+00000145.raw
+00000146.raw
+00000147.raw
+00000148.raw
+00000149.raw
+00000150.raw
+00000151.raw
+00000152.raw
+00000153.raw
+00000154.raw
+00000155.raw
+00000156.raw
+00000157.raw
+00000158.raw
+00000159.raw
+00000160.raw
+00000161.raw
+00000162.raw
+00000163.raw
+00000164.raw
+00000165.raw
+00000166.raw
+00000167.raw
+00000168.raw
+00000169.raw
+00000170.raw
+00000171.raw
+00000172.raw
+00000173.raw
+00000174.raw
+00000175.raw
+00000176.raw
+00000177.raw
+00000178.raw
+00000179.raw
+00000180.raw
+00000181.raw
+00000182.raw
+00000183.raw
+00000184.raw
+00000185.raw
+00000186.raw
+00000187.raw
+00000188.raw
+00000189.raw
+00000190.raw
+00000191.raw
+00000192.raw
+00000193.raw
+00000194.raw
+00000195.raw
+00000196.raw
+00000197.raw
+00000198.raw
+00000199.raw
+the number of raw files are : 200
+['\\train\\morphed\\pankaj_ith4.txt']
+['\\train\\morphed\\train_audio']
+J:\New_Corpus\\train\morphed\train_audio
+\train\morphed
+J:\New_Corpus\\train\morphed
+J:\New_Corpus\\train\morphed\train_audio
+calling bw
+calling mmlr_solve
+copying models
+md J:\asr\models\en-us-adapt
+calling map_adapt
+calling sendump

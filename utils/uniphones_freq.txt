@@ -1,0 +1,12 @@
+AH	3
+DD	2
+N	2
+R	2
+AO	1
+CH	1
+<SIL>	1
+EY	1
+AA	1
+</SIL>	1
+TT	1
+UH	1

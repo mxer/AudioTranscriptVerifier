@@ -1,0 +1,13 @@
+eesen librispeech recipe
+1. create a directory exp
+2. Then create directory exp/nml_seq_fw_seq_tw
+3. Then create directory exp/nml_seq_fw_seq_tw/data
+4. Create directory exp/nml_seq_fw_seq_tw/lm
+5. Create directory exp/nml_seq_fw_seq_tw/lm_tmp
+6. Create directory exp/nml_seq_fw_seq_tw/dict
+7. Create directory exp/nml_seq_fw_seq_tw/lang
+8. There is a reduced dictionary in config directory copy it to exp/nml_seq_fw_seq_tw folder.
+   Rather whatever final pronunciation dictionary you create it should be located in exp/nml_seq_fw_seq_tw folder
+9. from config copy fbconf-8, fbconf-10 and fbconf-11 in exp/nml_seq_fw_seq_tw directory
+10.    
+

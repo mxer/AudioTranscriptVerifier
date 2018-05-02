@@ -1,0 +1,87 @@
+डायनामो  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000000)
+डायनामो  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000000)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+सस्ती  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000001)
+सस्ती  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000001)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+और भरपूर विद्युत शक्ति  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000002)
+और भरपूर विद्युत शक्ति  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000002)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+किसी भी देश के लिए एक बड़ा वरदान है  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000003)
+किसी भी देश के लिए एक बड़ा वरदान है  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000003)
+Words: 9 Correct: 9 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+घरों में इससे न केवल रोशनी और गर्मी ही प्राप्त होती है  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000004)
+घरों में इससे न केवल रोशनी और गर्मी ही प्राप्त होती है  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000004)
+Words: 12 Correct: 12 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+वरन इसी के द्वारा हमारे दैनिक उपयोग की अनेक चीज़ें भी चलती हैं  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000005)
+वरन इसी के द्वारा हमारे दैनिक उपयोग की अनेक चीज़ें भी चलती हैं  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000005)
+Words: 13 Correct: 13 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बिजली की इस्त्री बिजली के टोस्टर बिजली के चूल्हे बिजली की घंटी बिजली के कूलर  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000006)
+बिजली की इस्त्री बिजली के टोस्टर बिजली के चूल्हे बिजली की घंटी बिजली के कूलर  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000006)
+Words: 15 Correct: 15 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+कपड़े धोने की मशीन और बिजली के उस्तरे आदि से हमारा जीवन आसान और सुखमय बन गया है  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000007)
+कपड़े धोने की मशीन और बिजली के उस्तरे आदि से हमारा जीवन आसान और सुखमय बन गया है  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000007)
+Words: 18 Correct: 18 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बिजली से ही ट्रेन और ट्राम तथा फैक्ट्रियों में मशीनें चलायी जाती हैं  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000008)
+बिजली से ही ट्रेन और ट्राम तथा फैक्ट्रियों में मशीनें चलायी जाती हैं  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000008)
+Words: 13 Correct: 13 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+टैलीग्राफ टैलीफोन रेडियो और टैलीविज़न भी बिजली से ही चलते हैं  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000009)
+टैलीग्राफ टैलीफोन रेडियो और टैलीविज़न भी बिजली से ही चलते हैं  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000009)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बिजली के इतने अधिक लाभ हैं कि हम सोच कर हैरान रह जाते हैं  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000010)
+बिजली के इतने अधिक लाभ हैं कि हम सोच कर हैरान रह जाते हैं  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000010)
+Words: 14 Correct: 14 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+कि जब बिजली नहीं थी तब हमारा काम कैसे चलता था  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000011)
+कि जब बिजली नहीं थी तब हमारा काम कैसे चलता था  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000011)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बिजली के आविष्कार  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000012)
+बिजली के आविष्कार  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000012)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बहौत समय नहीं हुआ  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000013)
+बहौत समय नहीं हुआ  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000013)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+सिर्फ डेढ़ सौ वर्ष पहले लोगों को बिजली के बिना ही काम चलाना पड़ता था  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000014)
+सिर्फ डेढ़ सौ वर्ष पहले लोगों को बिजली के बिना ही काम चलाना पड़ता था  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000014)
+Words: 15 Correct: 15 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+इसलिए नहीं कि तब लोगों को बिजली की जानकारी नहीं थी  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000015)
+इसलिए नहीं कि तब लोगों को बिजली की जानकारी नहीं थी  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000015)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बल्कि इसलिए कि तब तक बिजली का उत्पादन कठिन होने के साथ साथ मैहेंगा भी था  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000016)
+बल्कि इसलिए कि तब तक बिजली का उत्पादन कठिन होने के साथ साथ मैहेंगा भी था  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000016)
+Words: 16 Correct: 16 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+तब इसका उत्पादन सिर्फ वैज्ञानिक लोग  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000017)
+तब इसका उत्पादन सिर्फ वैज्ञानिक लोग  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000017)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+थोड़ी मात्रा में बस अपने प्रयोगों आदि भर के लिए किया करते थे  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000018)
+थोड़ी मात्रा में बस अपने प्रयोगों आदि भर के लिए किया करते थे  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000018)
+Words: 13 Correct: 13 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+डायनामो या विद्युत जनरेटर के आविष्कार के बाद ही  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000019)
+डायनामो या विद्युत जनरेटर के आविष्कार के बाद ही  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000019)
+Words: 9 Correct: 9 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+बिजली साधारण आदमी के इस्तेमाल की चीज़ बन सकी  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000020)
+बिजली साधारण आदमी के इस्तेमाल की चीज़ बन सकी  (\\TRAIN\\3553\\FEMALE\\TRAIN_AUDIO\\00000020)
+Words: 9 Correct: 9 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+TOTAL Words: 208 Correct: 208 Errors: 0
+TOTAL Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+TOTAL Insertions: 0 Deletions: 0 Substitutions: 0
