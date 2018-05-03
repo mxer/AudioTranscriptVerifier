@@ -19,8 +19,8 @@ from tester.adutil import create_dictionary
 import make_local_pdict as ml
 
 wavdir = "E:\\\\New_Corpus"
-bindir = "E:\\\\asr\\\\bin"
-lmname = "E:\\\\asr\\\\tester\\\\etc\\\\test.lm"
+bindir = "E:\\\\AudioTranscriptVerifier\\\\bin"
+lmname = "E:\\\\AudioTranscriptVerifier\\\\tester\\\\etc\\\\test.lm"
 transfile = "etc\\hindi_model_test.transcription"
 trfile = "etc\\test.transcription"
 super_prompts_file = "etc\\hindi_model_test_prompt.txt"
@@ -31,7 +31,7 @@ lminfile = "etc\\\\lminput.txt"
 vocabfile = "etc\\\\hindi_model_test_vocab.txt"
 #outfile = "etc\\hindi_model_test_adaptation.dic"
 outfile = "..\\\\test.dic"
-dictutil = "E:\\\\asr\\\\bin\\\\progen.exe"
+dictutil = "E:\\\\AudioTranscriptVerifier\\\\bin\\\\progen.exe"
 
 FILE_SPLIT = 1
 
@@ -42,7 +42,7 @@ wavdir = "E:\\\\New_Corpus"
 mfcdir = "E:\\\\New_Corpus"
 metadata = "metadata"
 
-rootdir = "E:\\\\asr"
+rootdir = "E:\\\\AudioTranscriptVerifier"
 
 org_model = rootdir + "\\\\" + "models\\\\en-us"
 adapt_model = rootdir + "\\\\" + "models\\\\en-us-adapt"
@@ -112,7 +112,7 @@ create_transcripts(transfile,super_prompts_file,trfile,scriptlist,dirlist,wavdir
 
 ml.createDictionary(super_prompts_file, test_dict)
 
-# create_dictionary("E:\\\\asr\\\\eng.dic",super_prompts_file,dictutil,phonefile,test_dict)
+# create_dictionary("E:\\\\AudioTranscriptVerifier\\\\eng.dic",super_prompts_file,dictutil,phonefile,test_dict)
 
 # create Language Model
 #LM configuration
@@ -123,7 +123,7 @@ language_model = lmname
 
 print("calling pocketsphinx_batch")	
 call(
-		"E:\\asr\\bin\\pocketsphinx_batch" + \
+		"E:\\AudioTranscriptVerifier\\bin\\pocketsphinx_batch" + \
 		" -adcin yes" + \
 		" -cepdir" + " " + cepdir + \
 		" -cepext" + " " + ".raw" + \
@@ -140,7 +140,7 @@ call(
 	
 time.sleep(2)	
 	
-callcmd = "perl E:\\asr\\bin\\word_align.pl" + " " + trfile + " " + hypfile 
+callcmd = "perl E:\\AudioTranscriptVerifier\\bin\\word_align.pl" + " " + trfile + " " + hypfile
 print(callcmd)
 cmdcall = callcmd + " > result\\\\test_adapt.txt"
 print(cmdcall)
@@ -151,7 +151,7 @@ call(
 '''	
 print("calling pocketsphinx_batch")	
 call(
-		"E:\\asr\\bin\\pocketsphinx_batch" + \
+		"E:\\AudioTranscriptVerifier\\bin\\pocketsphinx_batch" + \
 		" -adcin yes" + \
 		" -cepdir" + " " + cepdir + \
 		" -cepext" + " " + ".raw" + \
@@ -167,7 +167,7 @@ call(
 	
 time.sleep(2)	
 	
-callcmd = "perl E:\\asr\\bin\\word_align.pl" + " " + trfile + " " + hypfile 
+callcmd = "perl E:\\AudioTranscriptVerifier\\bin\\word_align.pl" + " " + trfile + " " + hypfile 
 print(callcmd)
 cmdcall = callcmd + " > result\\\\test.txt"
 print(cmdcall)
