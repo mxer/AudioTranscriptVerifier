@@ -9,14 +9,14 @@ import sys
 import os
 import codecs
 import time
-import unicodedata2 as uc
-from lm import lmgen
-from adcfg import voice_derivatives 
-from adutil import file_split
-from adutil import create_fileids
-from adutil import create_transcripts
-from adutil import read_words
-from adutil import create_dictionary
+import adapter.unicodedata2 as uc
+from adapter.lm import lmgen
+from adapter.adcfg import voice_derivatives
+from adapter.adutil import file_split
+from adapter.adutil import create_fileids
+from adapter.adutil import create_transcripts
+from adapter.adutil import read_words
+from adapter.adutil import create_dictionary
 import make_local_pdict as ml
 
 

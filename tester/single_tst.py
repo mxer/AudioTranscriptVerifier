@@ -9,13 +9,13 @@ import sys
 import os
 import codecs
 import time
-import unicodedata2 as uc
-from lm import lmgen
-from adutil import file_split
-from adutil import create_fileids
-from adutil import create_transcripts
-from adutil import read_words
-from adutil import create_dictionary
+import tester.unicodedata2 as uc
+from tester.lm import lmgen
+from tester.adutil import file_split
+from tester.adutil import create_fileids
+from tester.adutil import create_transcripts
+from tester.adutil import read_words
+from tester.adutil import create_dictionary
 import make_local_pdict as ml
 
 wavdir = "E:\\\\New_Corpus"

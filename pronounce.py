@@ -1,7 +1,4 @@
 # coding=utf-8
-import Constants as cs
-# import preprocessor as pp
-# import IndicNormalizer as norm
 
 class Stacked:
     def __init__(self):
@@ -184,7 +181,121 @@ class Mappings:
         },
         # Kannada
         {
-
+            u"\u0c80": u"",  # inverted chandrabindu
+            u"\u0c81": u"",  # chandrabindu
+            u"\u0c82": u"N",
+        # anuswar (Y, R, L, V , P , PHA, Ba, Bha, s , sh, sha, ha) and last char of word --> sounds M else it sounds N
+            u"\u0c83": u"HH",  # visarga
+            u"\u0c84": u"",  # ऄ
+            u"\u0c85": u"AH",  # अ
+            u"\u0c86": u"AA",  # आ
+            u"\u0c87": u"IH",  # इ
+            u"\u0c88": u"IY",  # ई
+            u"\u0c89": u"UH",  # उ
+            u"\u0c8A": u"UW",  # ऊ
+            u"\u0c8B": u"R IH",  # ऋ
+            u"\u0c8C": u"L R IH",  # ऌ # This char is not used at all
+            u"\u0c8D": u"",  # ऍ
+            u"\u0c8E": u"EY",  # ऎ
+            u"\u0c8F": u"AE",  # ए
+            u"\u0c90": u"AH IH",  # ऐ
+            u"\u0c91": u"",  # ऑ
+            u"\u0c92": u"OW",  # ऒ
+            u"\u0c93": u"AO",  # ओ
+            u"\u0c94": u"AH OW",  # औ
+            u"\u0c95": u"K",  # क
+            u"\u0c96": u"K HH",  # ख
+            u"\u0c97": u"G",  # ग
+            u"\u0c98": u"G HH",  # घ
+            u"\u0c99": u"N",  # ङ
+            u"\u0c9A": u"CH",  # च
+            u"\u0c9B": u"CH",  # छ
+            u"\u0c9C": u"JH",  # ज
+            u"\u0c9D": u"JH",  # झ
+            u"\u0c9E": u"N",  # ञ
+            u"\u0c9F": u"T",  # ट
+            u"\u0ca0": u"TH",  # ठ
+            u"\u0ca1": u"D",  # ड
+            u"\u0ca2": u"DH",  # ढ
+            u"\u0ca3": u"N",  # ण
+            u"\u0ca4": u"T",  # त
+            u"\u0ca5": u"TH",  # थ
+            u"\u0ca6": u"D",  # द
+            u"\u0ca7": u"DH",  # ध
+            u"\u0ca8": u"N",  # न
+            u"\u0ca9": u"",  # ऩ
+            u"\u0caA": u"P",  # प
+            u"\u0caB": u"F",  # फ
+            u"\u0caC": u"B",  # ब
+            u"\u0caD": u"B HH",  # भ
+            u"\u0caE": u"M",  # म
+            u"\u0caF": u"Y",  # य
+            u"\u0cb0": u"R",  # र
+            u"\u0cb1": u"R",  # ऱ # currently not in use
+            u"\u0cb2": u"L",  # ल
+            u"\u0cb3": u"L",  # ळ
+            u"\u0cb4": u"",  # ऴ
+            u"\u0cb5": u"W",  # ‌व
+            u"\u0cb6": u"SH",  # श
+            u"\u0cb7": u"SH",  # ष
+            u"\u0cb8": u"S",  # स
+            u"\u0cb9": u"HH",  # ह
+            u"\u0cbA": u"",  # ऺ
+            u"\u0cbB": u"",  # ऻ
+            u"\u0cbC": u"",  # nukta #Not in use
+            u"\u0cbD": u"AH",  # avagraha #Not in use
+            u"\u0cbE": u"AA",  # ऽ
+            u"\u0cbF": u"IH",  # ि
+            u"\u0cc0": u"IY",  # ी
+            u"\u0cc1": u"UH",  # ु
+            u"\u0cc2": u"UW",  # ू
+            u"\u0cc3": u"R IH",  # ृ
+            u"\u0cc4": u"L R UH",  # ॄ # not in user
+            u"\u0cc5": u"",  # ॅ
+            u"\u0cc6": u"EY",  # ॆ
+            u"\u0cc7": u"AE",  # े
+            u"\u0cc8": u"AH IH",  # ै
+            u"\u0cc9": u"",  # ॉ
+            u"\u0ccA": u"OW",  # ॊ
+            u"\u0ccB": u"AO",  # ो
+            u"\u0ccC": u"AH OW",  # ौ
+            u"\u0ccD": u"",  # ्    - virama
+            u"\u0ccE": u"",  # ॎ - pristhavirama
+            u"\u0ccF": u"",  # ॏ
+            u"\u0cd0": u"",  # ॐ
+            u"\u0cd1": u"",  # ◌॑
+            u"\u0cd2": u"",  # ◌॒
+            u"\u0cd3": u"",  # ॓॓
+            u"\u0cd4": u"",  # ॔
+            u"\u0cd5": u"",  # ॕ
+            u"\u0cd6": u"",  # ॖ
+            u"\u0cd7": u"",  # ॗ
+            u"\u0cd8": u"",  # क़
+            u"\u0cd9": u"",  # ख़
+            u"\u0cdA": u"",  # ग़
+            u"\u0cdB": u"",  # ज़
+            u"\u0cdC": u"",  # ड़
+            u"\u0cdD": u"",  # ढ़
+            u"\u0cdE": u"",  # फ़
+            u"\u0cdF": u"",  # य़
+            u"\u0ce0": u"R UH",  # ॠ
+            u"\u0ce1": u"L R UH",  # ॡ
+            u"\u0ce2": u"L UH",  # ॠ
+            u"\u0ce3": u"L R UH",  # ॡ
+            u":": u"",
+            u"!": u"",
+            u"'": u"",
+            u"‘": u"",
+            u"\u2019": u"",
+            u"\u200b": u"",
+            u"\u200C": u"",
+            u"\u200D": u"",
+            u'\u2013': u"",
+            u'/': u"",
+            u'[': u"",
+            u']': u"",
+            u'*': u"",
+            u'\u0ce4': u"",
         },
         {
             # Odia
@@ -207,18 +318,18 @@ class Mappings:
             u"\u0B15": "K",
             u"\u0B16": "KH",
             u"\u0B17": "G",
-            u"\u0B18": "GH",
+            u"\u0B18": "G HH",
             u"\u0B19": "N",
             u"\u0B1A": "CH",
             u"\u0B1B": "CHH",
             u"\u0B1C": "JH",
             u"\u0B1D": "JHH",
             u"\u0B1E": "N",
-            u"\u0B1F": "TT",
+            u"\u0B1F": "T",
 
-            u"\u0B20": "TTH",
-            u"\u0B21": "DD",
-            u"\u0B22": "DDH",
+            u"\u0B20": "TH",
+            u"\u0B21": "D",
+            u"\u0B22": "DH",
             u"\u0B23": "NN",
             u"\u0B24": "T",
             u"\u0B25": "TH",
@@ -228,7 +339,7 @@ class Mappings:
             u"\u0B2A": "P",
             u"\u0B2B": "F",
             u"\u0B2C": "B",
-            u"\u0B2D": "BH",
+            u"\u0B2D": "B HH",
             u"\u0B2E": "M",
             u"\u0B2F": "ZH",
 
@@ -253,8 +364,8 @@ class Mappings:
             u"\u0B4C": "OW",
             u"\u0B4D": "",
 
-            u"\u0B5C": "DD",
-            u"\u0B5D": "DDH",
+            u"\u0B5C": "D",
+            u"\u0B5D": "DH",
             u"\u0B5F": "Y",
 
             u"\u0B60": "R IH",
@@ -291,18 +402,18 @@ class Mappings:
             u"\u0995": "K",
             u"\u0996": "KH",
             u"\u0997": "G",
-            u"\u0998": "GH",
+            u"\u0998": "G HH",
             u"\u0999": "N",
             u"\u099A": "SH",
             u"\u099B": "SH",
             u"\u099C": "JH",
             u"\u099D": "JHH",
             u"\u099E": "N",
-            u"\u099F": "TT",
+            u"\u099F": "T",
 
-            u"\u09a0": "TTH",
-            u"\u09a1": "DD",
-            u"\u09a2": "DDH",
+            u"\u09a0": "TH",
+            u"\u09a1": "D",
+            u"\u09a2": "DH",
             u"\u09a3": "NN",
             u"\u09a4": "T",
             u"\u09a5": "TH",
@@ -312,7 +423,7 @@ class Mappings:
             u"\u09aA": "P",
             u"\u09aB": "F",
             u"\u09aC": "B",
-            u"\u09aD": "BH",
+            u"\u09aD": "B HH",
             u"\u09aE": "M",
             u"\u09aF": "ZH",
 
@@ -349,8 +460,8 @@ class Mappings:
             u"\u09cE": "T",
             u"\u09cf": "",
 
-            u"\u09dC": "DD",
-            u"\u09dD": "DDH",
+            u"\u09dC": "D",
+            u"\u09dD": "DH",
             u"\u09dF": "Y",
 
             u"\u09e0": "R IH",
@@ -389,18 +500,18 @@ class Mappings:
             u"\u0995": "K",
             u"\u0996": "KH",
             u"\u0997": "G",
-            u"\u0998": "GH",
+            u"\u0998": "G HH",
             u"\u0999": "N",
             u"\u099A": "S",
             u"\u099B": "S",
             u"\u099C": "JH",
             u"\u099D": "JHH",
             u"\u099E": "N",
-            u"\u099F": "TT",
+            u"\u099F": "T",
 
-            u"\u09a0": "TTH",
-            u"\u09a1": "DD",
-            u"\u09a2": "DDH",
+            u"\u09a0": "TH",
+            u"\u09a1": "D",
+            u"\u09a2": "DH",
             u"\u09a3": "NN",
             u"\u09a4": "T",
             u"\u09a5": "TH",
@@ -410,7 +521,7 @@ class Mappings:
             u"\u09aA": "P",
             u"\u09aB": "F",
             u"\u09aC": "B",
-            u"\u09aD": "BH",
+            u"\u09aD": "B HH",
             u"\u09aE": "M",
             u"\u09aF": "ZH",
 
@@ -446,8 +557,8 @@ class Mappings:
             u"\u09cE": "T",
             u"\u09cf": "",
 
-            u"\u09dC": "DD",
-            u"\u09dD": "DDH",
+            u"\u09dC": "D",
+            u"\u09dD": "DH",
             u"\u09dF": "Y",
 
             u"\u09e0": "R IH",
@@ -777,6 +888,5 @@ class Mappings:
 # for token in inputTokens:
 #     list.append(token.strip() + "\t" + mappings.pronounce(token, cs.Hindi) + "\n")
 #     list.append(token.encode('utf-8').strip() + "\t" + mappings.pronounce(token, cs.Hindi) + "\n")
-
 
 
