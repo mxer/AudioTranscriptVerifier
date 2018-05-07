@@ -1,59 +1,127 @@
-ಬಹುತೇಕ ರಾಜಕಾರಣಗಳು ಇದಕ್ಕೆ ಹೊರತಲ್ಲವಾದರೂ ಅರಸರು *** ಈ ಗುಂಪಿನಲ್ಲಿ ಎದ್ದು ಕಾಣುವ ವ್ಯಕ್ತಿ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000000)
-ಬಹುತೇಕ ರಾಜಕಾರಣಗಳು ಇದಕ್ಕೆ ಹೊರತಲ್ಲವಾದರೂ ಅರಸರು ಈ ಈ ಗುಂಪಿನಲ್ಲಿ ಎದ್ದು ಕಾಣುವ ವ್ಯಕ್ತಿ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000000)
-Words: 10 Correct: 10 Errors: 1 Percent correct = 100.00% Error = 10.00% Accuracy = 90.00%
-Insertions: 1 Deletions: 0 Substitutions: 0
-ಎಚ್ಚೆತ್ತ ರೈತಪ್ರಜ್ಞೆ ಚಳವಳಿಯ ಹಾದಿ ಹಿಡಿಯಿತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000001)
-ಎಚ್ಚೆತ್ತ ರೈತಪ್ರಜ್ಞೆ ಚಳವಳಿಯ ಹಾದಿ ಹಿಡಿಯಿತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000001)
-Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
-Insertions: 0 Deletions: 0 Substitutions: 0
-ಶ್ರೀ ರಾಮಕೃಷ್ಣ ಹೆಗಡೆ ಬೊಮ್ಮಾಯಿಯವರು ಈ ಅವಧಿಯಲ್ಲಿ ಮುಖ್ಯಮಂತ್ರಿಗಳಾದರು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000002)
-ಶ್ರೀ ರಾಮಕೃಷ್ಣ ಹೆಗಡೆ ಬೊಮ್ಮಾಯಿಯವರು ಈ ಅವಧಿಯಲ್ಲಿ ಮುಖ್ಯಮಂತ್ರಿಗಳಾದರು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000002)
-Words: 7 Correct: 7 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
-Insertions: 0 Deletions: 0 Substitutions: 0
-ಅದಕ್ಕಾಗಿ ಅಪಾರ ರಿಯಾಯಿತಿ ಸೌಲಭ್ಯಗಳನ್ನು ಕಲ್ಪಿಸಲಾಯಿತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000003)
-ಅದಕ್ಕಾಗಿ ಅಪಾರ ರಿಯಾಯಿತಿ ಸೌಲಭ್ಯಗಳನ್ನು ಕಲ್ಪಿಸಲಾಯಿತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000003)
-Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
-Insertions: 0 Deletions: 0 Substitutions: 0
-ಒಟ್ಟಾರೆ ರಾಜ್ಯದಲ್ಲಿ ಈಗ ಹಲವಾರು ದಲಿತ ಸಂಘಟನೆಗಳಿವೆ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000004)
-ಒಟ್ಟಾರೆ ರಾಜ್ಯದಲ್ಲಿ ಈಗ ಹಲವಾರು ದಲಿತ ಸಂಘಟನೆಗಳಿವೆ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000004)
-Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
-Insertions: 0 Deletions: 0 Substitutions: 0
-ಗ್ರಾಮೀಣ ಪ್ರದೇಶದಲ್ಲಿ ಇದರ ಒತ್ತಡ ಇನ್ನೂ ಹೆಚ್ಚಾಗುವ ಸಂಭವವಿದೆ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000005)
-ಗ್ರಾಮೀಣ ಪ್ರದೇಶದಲ್ಲಿ ಇದರ ಒತ್ತಡ ಇನ್ನೂ ಹೆಚ್ಚಾಗುವ ಸಂಭವವಿದೆ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000005)
-Words: 7 Correct: 7 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
-Insertions: 0 Deletions: 0 Substitutions: 0
-ಕೆಲವು ಕಡೆ ಕಾಂಗ್ರೆಸ್ಸಿಗರು ಇದನ್ನು ವಿರೋಧಿಸಿದರು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000006)
-ಕೆಲವು ಕಡೆ ಕಾಂಗ್ರೆಸ್ಸಿಗರು ಇದನ್ನು ವಿರೋಧಿಸಿದರು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000006)
-Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
-Insertions: 0 Deletions: 0 Substitutions: 0
-ಈ ವಿಷಯಗಳನ್ನು ಕಾರ್ಯರೂಪಕ್ಕೆ ತಂದಿದ್ದು ಬರಿ ಹಾಳೆಯ ಮೇಲೆ ಮಾತ್ರ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000007)
-ಈ ವಿಷಯಗಳನ್ನು ಕಾರ್ಯರೂಪಕ್ಕೆ ತಂದಿದ್ದು ಬರಿ ಹಾಳೆಯ ಮೇಲೆ ಮಾತ್ರ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000007)
+﻿ಆದ್ದರಿಂದ ಹೇಗಾದರೂ ಮಾಡಿ ಈ ಮಗುವನ್ನು ಕಾಡುಜನರಾಗಿದ್ದರಿಂದ ತೊಲಗಿಸಬೇಕೆಂದು ಯೋಚಿಸಿದ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000000)
+﻿ಆದ್ದರಿಂದ ಹೇಗಾದರೂ ಮಾಡಿ ಈ ಮಗುವನ್ನು ಕಾಡುಜನರಾಗಿದ್ದರಿಂದ ತೊಲಗಿಸಬೇಕೆಂದು ಯೋಚಿಸಿದ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000000)
 Words: 8 Correct: 8 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
 Insertions: 0 Deletions: 0 Substitutions: 0
-ಹಾಗೆಯೇ ಅವು ಪರಿಹಾರದ ಮೊತ್ತವನ್ನೂ ನಿಗದಿಪಡಿಸಬೇಕಿತ್ತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000008)
-ಹಾಗೆಯೇ ಅವು ಪರಿಹಾರದ ಮೊತ್ತವನ್ನೂ ನಿಗದಿಪಡಿಸಬೇಕಿತ್ತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000008)
+ಇವನೊಂದಿಗೆ ಹೋರಾಡಿದ ಹುಲಿಗಳೆರಡು ಮೀಂಚೇರಿಹಳ್ಳದ ದಂಡೆಯಲ್ಲಿ ಸತ್ತುಬಿದ್ದವು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000001)
+ಇವನೊಂದಿಗೆ ಹೋರಾಡಿದ ಹುಲಿಗಳೆರಡು ಮೀಂಚೇರಿಹಳ್ಳದ ದಂಡೆಯಲ್ಲಿ ಸತ್ತುಬಿದ್ದವು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000001)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ಏನೋ ಅನಾಹುತ ನಡೆದಿದೆ ಎಂದು ಪರಿಪರಿ ಚಿಂತಿಸತೊಡಗಿದರು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000002)
+ಏನೋ ಅನಾಹುತ ನಡೆದಿದೆ ಎಂದು ಪರಿಪರಿ ಚಿಂತಿಸತೊಡಗಿದರು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000002)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ಅಕ್ಕ ತಂಗಿಯರಿಗೆ ಆಕಾಶವೇ ಕಳಚಿ ಬಿದ್ದಂತಾಯಿತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000003)
+ಅಕ್ಕ ತಂಗಿಯರಿಗೆ ಆಕಾಶವೇ ಕಳಚಿ ಬಿದ್ದಂತಾಯಿತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000003)
 Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
 Insertions: 0 Deletions: 0 Substitutions: 0
-ಸಾಮಾನ್ಯವಾಗಿ ಪರಿಹಾರದ ಮೊತ್ತ ಕಡಿಮೆ ಆಗಿರುತ್ತಿತ್ತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000009)
-ಸಾಮಾನ್ಯವಾಗಿ ಪರಿಹಾರದ ಮೊತ್ತ ಕಡಿಮೆ ಆಗಿರುತ್ತಿತ್ತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000009)
+ಇದಕ್ಕೆ ಅನೇಕ ಅರಸರು ಕಾಣಿಕೆ ಸಲ್ಲಿಸಿ ದೇವಾಲಯವನ್ನು ಕಟ್ಟಿಸಿದ್ದಾರೆ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000004)
+ಇದಕ್ಕೆ ಅನೇಕ ಅರಸರು ಕಾಣಿಕೆ ಸಲ್ಲಿಸಿ ದೇವಾಲಯವನ್ನು ಕಟ್ಟಿಸಿದ್ದಾರೆ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000004)
+Words: 7 Correct: 7 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ಪಾಪನಾಯಕ ಒಬ್ಬ ಪಶುಪಾಲಕನಾಗಿ ತನ್ನ ಸಾಂಸ್ಕೃತಿಕ ಬದುಕಿನೊಂದಿಗೆ ಆಧ್ಯಾತ್ಮಿಕ ರಂಗವನ್ನು ಪ್ರವೇಶಿಸಿದ ಮಹಾವೀರ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000005)
+ಪಾಪನಾಯಕ ಒಬ್ಬ ಪಶುಪಾಲಕನಾಗಿ ತನ್ನ ಸಾಂಸ್ಕೃತಿಕ ಬದುಕಿನೊಂದಿಗೆ ಆಧ್ಯಾತ್ಮಿಕ ರಂಗವನ್ನು ಪ್ರವೇಶಿಸಿದ ಮಹಾವೀರ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000005)
+Words: 10 Correct: 10 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ಇಲ್ಲಿ ವಾಸಿಸುವವರಿಗೆ ನಡುಗಡ್ಡೆ ನಾಯಕರೆಂದು ದೊರೆಗಳೆಂದು ಕರೆಯುವರು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000006)
+ಇಲ್ಲಿ ವಾಸಿಸುವವರಿಗೆ ನಡುಗಡ್ಡೆ ನಾಯಕರೆಂದು ದೊರೆಗಳೆಂದು ಕರೆಯುವರು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000006)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ಕಲಿಯುಗದ ಶುಕ್ಲಮಲ್ಲಿನಾಯಕನ ಗೋತ್ರದಲ್ಲಿ ಯರಮಂಚಿನಾಯಕ ಜನಿಸಿದ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000007)
+ಕಲಿಯುಗದ ಶುಕ್ಲಮಲ್ಲಿನಾಯಕನ ಗೋತ್ರದಲ್ಲಿ ಯರಮಂಚಿನಾಯಕ ಗಿಡ           (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000007)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ಆ ನೀರಿನಲ್ಲಿ ಕಾಲುಗಳನ್ನು ಚಾಚಿಕೊಂಡು ಆಟವಾಡುತ್ತಾ ಕೊಡಕ್ಕೆ ನೀರು ತುಂಬುತ್ತಿದ್ದಳು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000008)
+ಆ ನೀರಿನಲ್ಲಿ ಕಾಲುಗಳನ್ನು ಚಾಚಿಕೊಂಡು ಆಟವಾಡುತ್ತಾ ಕೊಡಕ್ಕೆ ನೀರು ತುಂಬುತ್ತಿದ್ದಳು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000008)
+Words: 8 Correct: 8 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ಎಲ್ಲಿಯೂ ಕಾಣಲಿಲ್ಲ ಎಂದಾಗ ಇನ್ನೇನು ಹಿಂತಿರುಗಬೇಕು ***    ಆಗ ದಡದಲ್ಲಿ ಒಡೆದು ಬಿದ್ದಿದ್ದ ಕೊಡದ ಚೂರುಗಳು ಕಂಡವು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000009)
+ಎಲ್ಲಿಯೂ ಕಾಣಲಿಲ್ಲ ಎಂದಾಗ ಇನ್ನೇನು ಹಿಂತಿರುಗಬೇಕು ಆಗ ಆಗ ದಡದಲ್ಲಿ ಒಡೆದು ಬಿದ್ದಿದ್ದ ಕೊಡದ ಚೂರುಗಳು ಕಂಡವು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000009)
+Words: 12 Correct: 12 Errors: 1 Percent correct = 100.00% Error = 8.33% Accuracy = 91.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ಹೀಗೆ ಇರುವಾಗ ಬಾಳೆದಪಟ್ಟಮ್ಮ ಗರ್ಭವತಿಯಾಗಿದ್ದು ಗಂಡನಿಗೆ ಚೇತನವನ್ನು ತುಂಬುತ್ತಿದ್ದಳು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000010)
+ಹೀಗೆ ಇರುವಾಗ ಬಾಳೆದಪಟ್ಟಮ್ಮ ಗರ್ಭವತಿಯಾಗಿದ್ದು ಗಂಡನಿಗೆ ಚೇತನವನ್ನು ತುಂಬುತ್ತಿದ್ದಳು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000010)
+Words: 7 Correct: 7 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ನಿಮ್ಮಲ್ಲಿಗೆ ಬಂದರೆ ಏನಾದರೂ ತೊಂದರೆ ಆಗಬಹುದು ಎಂದು ತಿರಸ್ಕರಿಸಿದ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000011)
+ನಿಮ್ಮಲ್ಲಿಗೆ ಬಂದರೆ ಏನಾದರೂ ತೊಂದರೆ ಆಗಬಹುದು ಎಂದು ತಿರಸ್ಕರಿಸಿದ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000011)
+Words: 7 Correct: 7 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ಕ್ಯಾಸನೋನನ್ನು ನಾನಾ ***                ***                         ***          ವಿಧವಾಗಿ                         ಬೇಡಿಕೊಂಡರೂ ಕೋರ‍್ಲಮಲ್ಲಿನಾಯಕನಿಗೆ ಫಲ       ಸಿಗಲಿಲ್ಲ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000012)
+ಕ್ಯಾಸನೋನನ್ನು ನಾನಾ ಇದಕ್ಕೆ ಬಿದ್ದಿದ್ದ ಕೊಡದ ಶುಕ್ಲಮಲ್ಲಿನಾಯಕನ ಇದಕ್ಕೆ             ಅನೇಕ                                              ಮನೆಯ ಆ                       (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000012)
+Words: 7 Correct: 2 Errors: 8 Percent correct = 28.57% Error = 114.29% Accuracy = -14.29%
+Insertions: 3 Deletions: 0 Substitutions: 5
+ಅತ್ತಿಗೆಗೆ ಹೆರಿಗೆಯಾದಗ ಮನೆಯ ಕೆಲಸವನ್ನು ಇವಳೇ ನಿರ್ವಹಿಸಬೇಕಾಗುತ್ತದೆ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000013)
+ಅತ್ತಿಗೆಗೆ ಹೆರಿಗೆಯಾದಗ ಮನೆಯ ಕೆಲಸವನ್ನು ಇವಳೇ ನಿರ್ವಹಿಸಬೇಕಾಗುತ್ತದೆ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000013)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ಆಗಲಿ ನಿನ್ನ ಹೆಂಡತಿಗೆ ತೊಂದರೆ ಸಂಭವಿಸಿದರೆ ಅದಕ್ಕೆ ಗಳಗಂಟನಾದ ಶೆಟ್ಟಿಯು ನಾನೇ ಹೊಣೆಗಾರನೆಂದು ಒಪ್ಪಿಕೊಂಡನು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000014)
+ಆಗಲಿ ನಿನ್ನ ಹೆಂಡತಿಗೆ ತೊಂದರೆ ಸಂಭವಿಸಿದರೆ ಅದಕ್ಕೆ ಗಳಗಂಟನಾದ ಶೆಟ್ಟಿಯು ನಾನೇ ಹೊಣೆಗಾರನೆಂದು ಒಪ್ಪಿಕೊಂಡನು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000014)
+Words: 11 Correct: 11 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ಅವನ ಶಕ್ತಿ ಧೈರ್ಯ ಪರಾಕ್ರಮವನ್ನು ಆಗಲೇ ನಿರ್ಧರಿಸಿಕೊಂಡಳು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000015)
+ಅವನ ಶಕ್ತಿ ಧೈರ್ಯ ಪರಾಕ್ರಮವನ್ನು ಆಗಲೇ ನಿರ್ಧರಿಸಿಕೊಂಡಳು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000015)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ಆದ್ದರಿಂದ    ಹೇಗಾದರೂ ಮಾಡಿ ಈ ಮಗುವನ್ನು ಕಾಡುಜನರಾಗಿದ್ದರಿಂದ ತೊಲಗಿಸಬೇಕೆಂದು ಯೋಚಿಸಿದ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000016)
+﻿ಆದ್ದರಿಂದ ಹೇಗಾದರೂ ಮಾಡಿ ಈ ಮಗುವನ್ನು ಕಾಡುಜನರಾಗಿದ್ದರಿಂದ ತೊಲಗಿಸಬೇಕೆಂದು ಗಿಡ              (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000016)
+Words: 8 Correct: 6 Errors: 2 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ಎಂದಾಗ *** ಮನೆಮಠಗಳೆಲ್ಲಿ ಪಶು ಪ್ರಾಣಿಗಳೂ ಕಾಣುತ್ತಿರಲಿಲ್ಲ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000017)
+ಎಂದಾಗ ಆ ಮನೆಮಠಗಳೆಲ್ಲಿ ಪಶು ಪ್ರಾಣಿಗಳೂ ಕಾಣುತ್ತಿರಲಿಲ್ಲ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000017)
+Words: 5 Correct: 5 Errors: 1 Percent correct = 100.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ಲೋಕಕಲ್ಯಾಣವಾಗಿ ಭಕ್ತಿಬಾಂದವನೆಂಬ ಬಿರುದಿನಿಂದ ಪ್ರಸಿದ್ಧ ಪವಾಡ ಪುರುಷನಾಗುತ್ತಾನೆಂದು ಹೇಳಿದನು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000018)
+ಲೋಕಕಲ್ಯಾಣವಾಗಿ ಭಕ್ತಿಬಾಂದವನೆಂಬ ಬಿರುದಿನಿಂದ ಪ್ರಸಿದ್ಧ ಪವಾಡ ಪುರುಷನಾಗುತ್ತಾನೆಂದು ಹೇಳಿದನು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000018)
+Words: 7 Correct: 7 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ಶಿವನ ಈ ಮಾತಿಗೆ ಪಾರ್ವತಿ ಒಪ್ಪಿದಳು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000019)
+ಅನೇಕ ಈ ಮಾತಿಗೆ ಪಾರ್ವತಿ ಒಪ್ಪಿದಳು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000019)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ಅಂದು ಚಳ್ಳಕೆರೆ ಸ್ಥಳದ ಹೆಸರು ಇದ್ದಂತಿರಲಿಲ್ಲ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000020)
+ಅಂದು ಚಳ್ಳಕೆರೆ ಸ್ಥಳದ ಹೆಸರು ಇದ್ದಂತಿರಲಿಲ್ಲ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000020)
 Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
 Insertions: 0 Deletions: 0 Substitutions: 0
-ನಂತರ ಈ ಜವಾಬ್ದಾರಿಯನ್ನು ಸಂಬಂಧಪಟ್ಟ ಜಿಲ್ಲಾಧಿಕಾರಿಗೆ ವಹಿಸಲಾಯಿತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000010)
-ನಂತರ *** ಜವಾಬ್ದಾರಿಯನ್ನು ಸಂಬಂಧಪಟ್ಟ ಜಿಲ್ಲಾಧಿಕಾರಿಗೆ ವಹಿಸಲಾಯಿತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000010)
-Words: 6 Correct: 5 Errors: 1 Percent correct = 83.33% Error = 16.67% Accuracy = 83.33%
-Insertions: 0 Deletions: 1 Substitutions: 0
-ಅಲ್ಲಿ ಕಳೆದುಕೊಳ್ಳುವಂಥದ್ದು ಬಹಳ ಕಡಿಮೆ ಇತ್ತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000011)
-ಅಲ್ಲಿ ಕಳೆದುಕೊಳ್ಳುವಂಥದ್ದು ಬಹಳ ಕಡಿಮೆ ಇತ್ತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000011)
+ಆ ಹುತ್ತದ ಮೇಲೆ ಒಂದು ಮಂಗಾರೆ ಗಿಡ ಬೆಳೆದಿತ್ತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000021)
+ಆ ಹುತ್ತದ ಮೇಲೆ ಒಂದು ಮಂಗಾರೆ ಗಿಡ ಬೆಳೆದಿತ್ತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000021)
+Words: 7 Correct: 7 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ಅವುಗಳನ್ನು ಒಂದೆಡೆ ಕೂಡಲು ಕೋಲಿನ ಅಗತ್ಯವಿತ್ತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000022)
+ಅವುಗಳನ್ನು ಒಂದೆಡೆ ಕೂಡಲು ಕೋಲಿನ ಅಗತ್ಯವಿತ್ತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000022)
 Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
 Insertions: 0 Deletions: 0 Substitutions: 0
-ಏಕೀಕರಣ ಚಳುವಳಿಯ ಮೂಲಕ ಕರ್ನಾಟಕವು ಉದಯಿಸಿತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000012)
-ಏಕೀಕರಣ ಚಳುವಳಿಯ ಮೂಲಕ ಕರ್ನಾಟಕವು ಉದಯಿಸಿತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000012)
+ಸಂತೋಷಗೊಂಡ ಹಾವು ಏಳೆಡೆ ಬಿಚ್ಚಿ ಹಾರಾಡುತ್ತಿತ್ತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000023)
+ಸಂತೋಷಗೊಂಡ ಹಾವು ಏಳೆಡೆ ಬಿಚ್ಚಿ ಹಾರಾಡುತ್ತಿತ್ತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000023)
 Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
 Insertions: 0 Deletions: 0 Substitutions: 0
-ಏಕೀಕರಣದ ಸಂದರ್ಭದಲ್ಲಿ ಇವು ಕರ್ನಾಟಕದಲ್ಲಿ ವಿಲೀನಗೊಂಡವು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000013)
-ಏಕೀಕರಣದ ಸಂದರ್ಭದಲ್ಲಿ ಇವು ಕರ್ನಾಟಕದಲ್ಲಿ ವಿಲೀನಗೊಂಡವು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000013)
+ಅವರಿಗೆ ಬಾಯಾರಿಕೆಯಾಗಿದ್ದರಿಂದ ನೀರು ಕುಡಿಯಲು ಬಂದರು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000024)
+ಅವರಿಗೆ ಬಾಯಾರಿಕೆಯಾಗಿದ್ದರಿಂದ ನೀರು ಕುಡಿಯಲು ಬಂದರು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000024)
 Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
 Insertions: 0 Deletions: 0 Substitutions: 0
-TOTAL Words: 84 Correct: 83 Errors: 2
-TOTAL Percent correct = 98.81% Error = 2.38% Accuracy = 97.62%
-TOTAL Insertions: 1 Deletions: 1 Substitutions: 0
+ಊರಿನೊಳಕ್ಕೆ ಹೋಗಿ ಒಂದು ದುಗ್ಗಾಣಿ ಕೊಟ್ಟು ಮಂಗಾರಕಾಯಿ ಬುಡ್ಡಿಯಲ್ಲಿ ಎಣ್ಣೆ ತುಂಬಿಸಿಕೊಂಡನು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000025)
+ಊರಿನೊಳಕ್ಕೆ ಹೋಗಿ ಒಂದು ದುಗ್ಗಾಣಿ ಕೊಟ್ಟು ಮಂಗಾರಕಾಯಿ ಬುಡ್ಡಿಯಲ್ಲಿ ಎಣ್ಣೆ ತುಂಬಿಸಿಕೊಂಡನು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000025)
+Words: 9 Correct: 9 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ಪವಾಡದಂತೆ ಕುಳಿತ ಬಂಡೆ ಮೇಲಕ್ಕೆ ಬೆಳೆಯುತ್ತಾ ಹೋಯಿತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000026)
+ಪವಾಡದಂತೆ ಕುಳಿತ ಬಂಡೆ ಮೇಲಕ್ಕೆ ಬೆಳೆಯುತ್ತಾ ಹೋಯಿತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000026)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ಇವನನ್ನು ಹುಚ್ಚನೆಂದು ಬಗೆದು ಜನರು ಹೊಂಡಕ್ಕೆ ಬಿಡಲಿಲ್ಲ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000027)
+ಇವನನ್ನು ಹುಚ್ಚನೆಂದು ಬಗೆದು ಜನರು ಹೊಂಡಕ್ಕೆ ಬಿಡಲಿಲ್ಲ  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000027)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ಜನರ ಸಾಲಿಗೆ ಸೇರಲು ಹೋದಾಗ ***    ಇವನನ್ನು ಹುಚ್ಚನೆಂದು ಹಿಂದೆ ತಳ್ಳಿದರು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000028)
+ಜನರ ಸಾಲಿಗೆ ಸೇರಲು ಹೋದಾಗ ಆಗ ಇವನನ್ನು ಹುಚ್ಚನೆಂದು ಹಿಂದೆ ತಳ್ಳಿದರು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000028)
+Words: 8 Correct: 8 Errors: 1 Percent correct = 100.00% Error = 12.50% Accuracy = 87.50%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ಶ್ರೀಮನ್ನಾರಾಯಣನು ಗರ್ಭಗುಡಿಯಿಂದ ಹೊರಟು ಶಂಖ ಚಕ್ರಧಾರಿಯಾಗಿ ಬಂದು ಪಾಪಿನಾಯಕನ ಎದುರಿನಲ್ಲಿ ನಿಂತನು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000029)
+ಶ್ರೀಮನ್ನಾರಾಯಣನು ಗರ್ಭಗುಡಿಯಿಂದ ಹೊರಟು ಶಂಖ ಚಕ್ರಧಾರಿಯಾಗಿ ಬಂದು ಪಾಪಿನಾಯಕನ ಎದುರಿನಲ್ಲಿ ನಿನ್ನ     (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000029)
+Words: 9 Correct: 8 Errors: 1 Percent correct = 88.89% Error = 11.11% Accuracy = 88.89%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ಕೊನೆಗೆ ಕ್ಯಾಸಪುರ ಸುತ್ತ ಮುತ್ತ ಬಂದು ವಿಚಾರಿಸಿದಾಗ ಸುಳಿವು ಸಿಕ್ಕಿತು  (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000030)
+ಕೊನೆಗೆ ಕ್ಯಾಸಪುರ ಸುತ್ತ ಮುತ್ತ ಬಂದು ವಿಚಾರಿಸಿದಾಗ ಆಗ             ಸುಳಿವು        (\TRAIN\OTHERS\ACCOMODATION\TOBEVERIFIED\TEST\\TRAIN_AUDIO\\00000030)
+Words: 8 Correct: 6 Errors: 2 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+TOTAL Words: 215 Correct: 203 Errors: 18
+TOTAL Percent correct = 94.42% Error = 8.37% Accuracy = 91.63%
+TOTAL Insertions: 6 Deletions: 0 Substitutions: 12

@@ -57,7 +57,7 @@ wavdirs_and_files = [
 		# ["\\train\\others\\accomodation\\ToBeVerified\\arun\\1", "1.raw", "1.txt"],
 		# ["\\train\\others\\accomodation\\ToBeVerified\\test", "1.raw", "master.txt"],
 		# ["\\train\\others\\accomodation\\ToBeVerified\\cleaned", "2.raw", "master.txt"],
-		["\\train\\others\\accomodation\\ToBeVerified\\cleaned","2.raw","master.txt"],
+		["\\train\\others\\accomodation\\ToBeVerified\\test","2.raw","master.txt"],
 					]
 								
 # i = 0

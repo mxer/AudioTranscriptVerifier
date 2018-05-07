@@ -46,7 +46,7 @@ hypfile = "result\\hindi_adapt.hyp.txt"
 cepdir = wavdir
 
 wavdirs_and_files = [
-						["\\train\\others\\accomodation\\ToBeVerified\\cleaned","2.raw","master.txt"],
+						["\\train\\others\\accomodation\\ToBeVerified\\test","2.raw","master.txt"],
 ]
 
 # create train_audio and train_mfc directories
@@ -57,15 +57,29 @@ for lst in wavdirs_and_files:
 	dirlist.append(lst[0])
 
 def copy_rename(root, rawfile, txtfile, i):
+	# print(root)
 	copyfile(os.path.join(root, rawfile),
 			 os.path.join(wavdir + "\\" + dir + "\\train_audio", rawfile))
-
+	print(rawfile)
 	with io.open(root + "\\" + txtfile, "r", encoding="utf-8") as fr:
 		for line in fr:
-			wf.write(line)
+			print(line)
+			wf.write(line.strip()+"\n")
 
 	os.rename(os.path.join(wavdir + "\\" + dir + "\\train_audio", rawfile),
 			  os.path.join(wavdir + "\\" + dir + "\\train_audio\\%08d"%(i) + ".raw"))
+
+	# os.rename(os.path.join(root, rawfile),
+	# 		  os.path.join(root + "\\%08d" % (i) + ".wav"))
+    #
+	# os.rename(os.path.join(root, txtfile),
+	# 		  os.path.join(root + "\\%08d" % (i) + ".txt"))
+
+	os.rename(os.path.join(root, rawfile),
+			  os.path.join(root + "\\%08d" % (i) + "_"+rawfile))
+
+	os.rename(os.path.join(root, txtfile),
+			  os.path.join(root + "\\%08d" % (i) + "_"+txtfile))
 
 i=0
 
@@ -73,14 +87,14 @@ for dir in dirlist:
 	if not os.path.exists(wavdir+ "\\"+dir+"\\train_audio"):
 		os.makedirs(wavdir+ "\\"+dir+"\\train_audio")
 	wf = io.open(wavdir + "\\" + dir + "\\master.txt", "w", encoding="utf-8")
-	print(dir)
+	# print(dir)
 	filecounter = 0
 	for root,dirs,files in os.walk(wavdir + "\\" + dir):
 		if root.endswith("train_audio") or root.endswith("train_mfc"):
 			continue
 		for file in files:
 			if file.endswith('.wav'):
-				print(file)
+				# print(file)
 				s = file.split(".wav")
 				callcmd = "sox " + root + "\\"+file + " " + root + "\\"+ s[0]+".raw"
 				call(callcmd,shell=True)
