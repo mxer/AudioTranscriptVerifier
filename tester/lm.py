@@ -6,7 +6,7 @@ Created on Mon Oct 31 01:15:17 2016
 """
 
 #LM configuration
-
+import codecs
 import datetime, math, re
 discount = 0.25
 
@@ -31,7 +31,7 @@ def lmgen(infile,lmname):
 	trigram = {}
 	bigram = {}
 	unigram = {}
-	with open(sentfile,"r",encoding="utf-8") as sf:
+	with codecs.open(sentfile,"r",encoding="utf-8") as sf:
 		print("senfile opened")
 		for line in sf:
 			if line in ['\n','\r\n']:
@@ -103,7 +103,7 @@ def lmgen(infile,lmname):
 		exit()
 	
 
-	lf = open(lmname,"w",encoding="utf-8")
+	lf = codecs.open(lmname,"w",encoding="utf-8")
 
 	if lf == None:
 		print("Can't open LM file")
@@ -158,6 +158,9 @@ def lmgen(infile,lmname):
 	klist = []
 	for k in unigram:
 		klist.append(k)
+		print k
+		print uniprob[k]
+		print alpha[k]
 		lf.write("%6.4f %s %6.4f\n"%(math.log(uniprob[k])/log10, k, math.log(alpha[k])/log10))
 
 	lf.write("\n")

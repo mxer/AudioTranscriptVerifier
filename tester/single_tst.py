@@ -17,14 +17,14 @@ import make_local_pdict as ml
 import Constants as cs
 from shutil import copyfile
 
-bindir = "E:\\\\AudioTranscriptVerifier\\\\bin"
-lmname = "E:\\\\AudioTranscriptVerifier\\\\tester\\\\etc\\\\test.lm"
+bindir = "..\\bin"
+lmname = "..\\tester\\\\etc\\\\test.lm"
 transfile = "etc\\hindi_model_test.transcription"
 trfile = "etc\\test.transcription"
 super_prompts_file = "etc\\hindi_model_test_prompt.txt"
 # phonefile = "..\\\\bin\\\\phonemap.txt"
 # hindi_phone_file = "..\\\\bin\\\\hindiphone.txt"
-infile = "etc\\\\hindi_model_test_prompt.txt"
+infile = "etc\\hindi_model_test_prompt.txt"
 # lminfile = "etc\\\\lminput.txt"
 # vocabfile = "etc\\\\hindi_model_test_vocab.txt"
 # outfile = "..\\\\test.dic"
@@ -32,14 +32,14 @@ infile = "etc\\\\hindi_model_test_prompt.txt"
 
 FILE_SPLIT = 1
 
-test_fileid = "etc\\\\hindi_model_adapt_test.fileids"
-mfc_fileids_file = "etc\\\\hindi_model_adapt_mfc.fileids"
+test_fileid = "etc\\hindi_model_adapt_test.fileids"
+mfc_fileids_file = "etc\\hindi_model_adapt_mfc.fileids"
 
-wavdir = "E:\\\\New_Corpus"
-mfcdir = "E:\\\\New_Corpus"
+wavdir = "C:\\Users\\Reverie-IT\\Desktop\\projects"
+mfcdir = "C:\\Users\\Reverie-IT\\Desktop\\projects"
 metadata = "metadata"
 
-rootdir = "E:\\\\AudioTranscriptVerifier"
+rootdir = "C:\\Users\\Reverie-IT\\Desktop\\projects\\AudioTranscriptVerifier"
 
 org_model = rootdir + "\\\\" + "models\\\\en-us"
 adapt_model = rootdir + "\\\\" + "models\\\\en-us-adapt"
@@ -57,7 +57,7 @@ wavdirs_and_files = [
 		# ["\\train\\others\\accomodation\\ToBeVerified\\arun\\1", "1.raw", "1.txt"],
 		# ["\\train\\others\\accomodation\\ToBeVerified\\test", "1.raw", "master.txt"],
 		# ["\\train\\others\\accomodation\\ToBeVerified\\cleaned", "2.raw", "master.txt"],
-		["\\train\\others\\accomodation\\ToBeVerified\\test","2.raw","master.txt"],
+		["\\raw_recorded_data_c\\81","","81.txt"]
 					]
 								
 # i = 0
@@ -127,7 +127,7 @@ language_model = lmname
 
 print("calling pocketsphinx_batch")	
 call(
-		"E:\\AudioTranscriptVerifier\\bin\\pocketsphinx_batch" + \
+		"..\\bin\\pocketsphinx_batch" + \
 		" -adcin yes" + \
 		" -cepdir" + " " + cepdir + \
 		" -cepext" + " " + ".raw" + \
@@ -144,7 +144,7 @@ call(
 	
 time.sleep(2)	
 	
-callcmd = "perl E:\\AudioTranscriptVerifier\\bin\\word_align.pl" + " " + trfile + " " + hypfile
+callcmd = "perl ..\\bin\\word_align.pl" + " " + trfile + " " + hypfile
 print(callcmd)
 cmdcall = callcmd + " > result\\\\test_adapt.txt"
 print(cmdcall)
@@ -155,7 +155,7 @@ call(
 '''	
 print("calling pocketsphinx_batch")	
 call(
-		"E:\\AudioTranscriptVerifier\\bin\\pocketsphinx_batch" + \
+		"..\\bin\\pocketsphinx_batch" + \
 		" -adcin yes" + \
 		" -cepdir" + " " + cepdir + \
 		" -cepext" + " " + ".raw" + \
@@ -171,7 +171,7 @@ call(
 	
 time.sleep(2)	
 	
-callcmd = "perl E:\\AudioTranscriptVerifier\\bin\\word_align.pl" + " " + trfile + " " + hypfile 
+callcmd = "perl ..\\bin\\word_align.pl" + " " + trfile + " " + hypfile 
 print(callcmd)
 cmdcall = callcmd + " > result\\\\test.txt"
 print(cmdcall)

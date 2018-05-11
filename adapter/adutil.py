@@ -33,12 +33,12 @@ def create_fileids(audiodir,dirlist,train_fileid,mfc_fileids_file):
 			for file in files:
 				if file.endswith('.raw'):
 					print(file)
-					arg = "%s\\%08d\n"%(dir + "\\train_audio",filecounter)
+					arg = unicode("%s\\%08d\n"%(dir + "\\train_audio",filecounter))
 					f.write(arg)
 					mfdir = audiodir + "\\" + dir + "\\train_mfc"
 					if not os.path.exists(mfdir):
 						os.makedirs(mfdir)
-					arg = "%s\\%08d\n"%(audiodir+"\\"+dir + "\\train_mfc",filecounter)	
+					arg = unicode("%s\\%08d\n"%(audiodir+"\\"+dir + "\\train_mfc",filecounter))
 					mf.write(arg)
 					filecounter += 1
 					global_counter += 1

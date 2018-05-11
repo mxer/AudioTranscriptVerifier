@@ -21,8 +21,8 @@ def file_split(bindir,inraw_file,rawdir):
     return
     
 def create_fileids(audiodir,dirlist,train_fileid,mfc_fileids_file):
-    f = open(train_fileid,"w",encoding="utf-8")
-    mf = open(mfc_fileids_file,"w",encoding="utf-8")
+    f = codecs.open(train_fileid,"w",encoding="utf-8")
+    mf = codecs.open(mfc_fileids_file,"w",encoding="utf-8")
     filecounter = 0
     global_counter = 0
     for dir in dirlist:
@@ -46,16 +46,16 @@ def create_fileids(audiodir,dirlist,train_fileid,mfc_fileids_file):
     return
     
 def create_transcripts(transfile,super_prompts_file,trfile,scriptlist,dirlist,transdir):
-    f = open(transfile,"w",encoding="utf-8")
-    sf = open(super_prompts_file,"w",encoding="utf-8")
-    tf = open(trfile,"w",encoding="utf-8")
+    f = codecs.open(transfile,"w",encoding="utf-8")
+    sf = codecs.open(super_prompts_file,"w",encoding="utf-8")
+    tf = codecs.open(trfile,"w",encoding="utf-8")
     audiodir = transdir
     fcounter = 0
     index = 0
     for file in scriptlist:
         filename = transdir + "\\\\" + file
         fcounter = 0
-        with open(filename,"r",encoding="utf-8") as fr:
+        with codecs.open(filename,"r",encoding="utf-8") as fr:
             filepath = audiodir + "\\\\" + dirlist[index]
             fpath = dirlist[index]
             print(filepath)
@@ -77,12 +77,12 @@ def create_transcripts(transfile,super_prompts_file,trfile,scriptlist,dirlist,tr
     tf.close()
     
 def read_words(words_file):
-    return [word for line in open(words_file, 'r',encoding="utf-8") for word in line.split()]
+    return [word for line in codecs.open(words_file, 'r',encoding="utf-8") for word in line.split()]
 
 def merge_dict(dictlist,output_dict):
     dict_dbase = {}
     for dictfile in dictlist:
-        df = open(dictfile,"r",encoding="utf-8")
+        df = codecs.open(dictfile,"r",encoding="utf-8")
         for line in df:
             word,pron = line.rstrip("\n").rstrip("\r").replace("\t"," ",1).split(" ",1)
             if word not in dict_dbase:
@@ -91,7 +91,7 @@ def merge_dict(dictlist,output_dict):
                 dict_dbase[word].append(pron)
         df.close()
     
-    of = open(output_dict,"w",encoding = "utf-8")
+    of = codecs.open(output_dict,"w",encoding = "utf-8")
     for key in dict_dbase:
         value = dict_dbase[key]
         for i in range(0,len(value)):
@@ -107,17 +107,17 @@ def create_dictionary(seed_dict,super_prompts_file,dictutil,phonefile,appdic):
     outfile = "temp_hindi.dic"
     vocabfile = 'vocab.txt'
     unique_word_list = sorted(set(read_words(super_prompts_file)))
-    f = open(vocabfile,"w",encoding="utf-8")
+    f = codecs.open(vocabfile,"w",encoding="utf-8")
     unk_hindi_vocab = "unk_hindi.txt"
     unk_english_vocab = "unk_english.txt"    
-    uhwf = open(unk_hindi_vocab,"w",encoding="utf-8")
-    uewf = open(unk_english_vocab,"w",encoding="utf-8")
+    uhwf = codecs.open(unk_hindi_vocab,"w",encoding="utf-8")
+    uewf = codecs.open(unk_english_vocab,"w",encoding="utf-8")
     
         
     gdbase = {}
     ldbase = {}
     
-    sdf = open(seed_dict,"r",encoding="utf-8")
+    sdf = codecs.open(seed_dict,"r",encoding="utf-8")
     
     for line in sdf:
         word,pron = line.replace("\n","").replace("\r","").replace("\t"," ",1).split(" ",1)
@@ -167,7 +167,7 @@ def create_dictionary(seed_dict,super_prompts_file,dictutil,phonefile,appdic):
     uhwf.close()
     uewf.close()
 #    ldbase = sorted(ldbase)
-    af = open(appdic,"w",encoding="utf-8")
+    af = codecs.open(appdic,"w",encoding="utf-8")
 #    print(ldbase)
     keylist = [key for key in ldbase]
     keylist = sorted(keylist)
@@ -187,16 +187,16 @@ def create_dictionary(seed_dict,super_prompts_file,dictutil,phonefile,appdic):
         call(callstr,shell=True)
 #        print(appdic)
 #        print(outfile)
-        af = open(appdic,"rb+")
+        af = codecs.open(appdic,"rb+")
         af.seek(-1,2)
         af.truncate()
         af.close()
         time.sleep(2)
-        af = open(appdic,"a",encoding="utf-8")
-        s = open(outfile, mode='r', encoding='utf-8-sig').read()
-        open(outfile, mode='w', encoding='utf-8').write(s)
+        af = codecs.open(appdic,"a",encoding="utf-8")
+        s = codecs.open(outfile, mode='r', encoding='utf-8-sig').read()
+        codecs.open(outfile, mode='w', encoding='utf-8').write(s)
     if unkhin == 1:
-        hf = open(outfile,"r",encoding="utf-8")
+        hf = codecs.open(outfile,"r",encoding="utf-8")
         for line in hf:
 #            print(line)
             line = line.replace(" ","",1)
@@ -205,7 +205,7 @@ def create_dictionary(seed_dict,super_prompts_file,dictutil,phonefile,appdic):
     
     if (unkeng == 1):
         print("Unknown english words found\n")
-        ef = open(unk_english_vocab,"r",encoding="utf-8")
+        ef = codecs.open(unk_english_vocab,"r",encoding="utf-8")
         for line in ef:
 #            print(line)
             af.write(line)
