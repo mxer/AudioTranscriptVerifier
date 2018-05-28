@@ -1,9 +1,10 @@
+# -*- coding: utf-8 -*-
 from subprocess import call
 import sys
 import os
 import codecs
 import time
-import unicodedata2 as uc
+import adapter.unicodedata2 as uc
 import re
 
 
@@ -60,8 +61,12 @@ def create_transcripts(transfile,super_prompts_file,trfile,scriptlist,dirlist,tr
             fpath = dirlist[index]
             print(filepath)
             for line in fr:
+
                 if line=="\n":
                     continue
+                line = line.replace("\r", "").replace("\n", "").replace("/", " ").replace(":", u"").replace(u"॑","").replace(
+                    u"|", "").replace(u"।", "").replace(u"ʼ", "").replace(u"'", "").replace(u"-", " ").replace(u"…","").replace(
+                    u"+", " ").replace(u'”', "").replace(u"ଵ", u"ୱ").replace("0", "").replace(u"\u200c", "").replace(u"\u200d", "")
                 linewords = line.strip().lower().split()
                 for word in linewords:
                     if uc.script(word[0]) not in ['Devanagari','Lain']:

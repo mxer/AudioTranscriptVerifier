@@ -47,7 +47,7 @@ hypfile = "result\\hindi_adapt.hyp.txt"
 cepdir = wavdir
 
 wavdirs_and_files = [
-						["\\raw_recorded_data_c\\81","","81.txt"],
+						["\\raw_recorded_data_c\\83","","83.txt"],
 ]
 
 # create train_audio and train_mfc directories
@@ -66,6 +66,7 @@ def copy_rename(root, rawfile, txtfile, i):
 		for line in fr:
 			print(line)
 			wf.write(line.strip()+"\n")
+
 
 	os.rename(os.path.join(wavdir + "\\" + dir + "\\train_audio", rawfile),
 			  os.path.join(wavdir + "\\" + dir + "\\train_audio\\%08d"%(i) + ".raw"))

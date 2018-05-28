@@ -158,9 +158,6 @@ def lmgen(infile,lmname):
 	klist = []
 	for k in unigram:
 		klist.append(k)
-		print k
-		print uniprob[k]
-		print alpha[k]
 		lf.write("%6.4f %s %6.4f\n"%(math.log(uniprob[k])/log10, k, math.log(alpha[k])/log10))
 
 	lf.write("\n")

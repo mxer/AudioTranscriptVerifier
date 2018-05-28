@@ -28,4 +28,4 @@
 	
 ### Step 3: Check the test results in test_adapt.txt	
 	
-`note:` (Check all the path equivalents in ad.py and single_tst.py)
+`note:` (Check all the path equivalents in ad.py and single_tst.py) and runs only on Python 3

@@ -1,10 +1,10 @@
+# -*- coding: utf-8 -*-
 from subprocess import call
 import sys
 import os
 import codecs
 import time
 import re
-import adapter.unicodedata2 as uc
 import adapter.unicodedata2 as uc
 import io
 
@@ -70,6 +70,7 @@ def create_transcripts(transfile,super_prompts_file,trfile,scriptlist,dirlist,tr
 				if line=="\n":
 					continue
 				line = line.strip().lower()
+				line = line.replace("\r", "").replace("\n", "").replace("/", " ").replace(":", u"").replace(u"॑", "").replace(u"|","").replace(u"।", "").replace(u"ʼ", "").replace(u"'", "").replace(u"-", " ").replace(u"…", "").replace(u"+", " ").replace(u'”', "").replace(u"ଵ", u"ୱ").replace("0", "").replace(u"\u200c", "").replace(u"\u200d", "")
 #				print(line)
 				f.write("<s> %s </s> (%s\\%08d)\n" % (line,filepath,fcounter))
 				tf.write("<s> %s </s> (%s\\%08d)\n" % (line,fpath,fcounter))
