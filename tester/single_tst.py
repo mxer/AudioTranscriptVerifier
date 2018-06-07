@@ -17,166 +17,172 @@ import make_local_pdict as ml
 import Constants as cs
 from shutil import copyfile
 
-bindir = "..\\bin"
-lmname = "..\\tester\\\\etc\\\\test.lm"
-transfile = "etc\\hindi_model_test.transcription"
-trfile = "etc\\test.transcription"
-super_prompts_file = "etc\\hindi_model_test_prompt.txt"
-# phonefile = "..\\\\bin\\\\phonemap.txt"
-# hindi_phone_file = "..\\\\bin\\\\hindiphone.txt"
-infile = "etc\\hindi_model_test_prompt.txt"
-# lminfile = "etc\\\\lminput.txt"
-# vocabfile = "etc\\\\hindi_model_test_vocab.txt"
-# outfile = "..\\\\test.dic"
-# dictutil = "E:\\\\AudioTranscriptVerifier\\\\bin\\\\progen.exe"
 
-FILE_SPLIT = 1
+def run(root_dir, wav_files):
+    bindir = "..\\bin"
+    lmname = "..\\tester\\\\etc\\\\test.lm"
+    transfile = "etc\\hindi_model_test.transcription"
+    trfile = "etc\\test.transcription"
+    super_prompts_file = "etc\\hindi_model_test_prompt.txt"
+    # phonefile = "..\\\\bin\\\\phonemap.txt"
+    # hindi_phone_file = "..\\\\bin\\\\hindiphone.txt"
+    infile = "etc\\hindi_model_test_prompt.txt"
+    # lminfile = "etc\\\\lminput.txt"
+    # vocabfile = "etc\\\\hindi_model_test_vocab.txt"
+    # outfile = "..\\\\test.dic"
+    # dictutil = "E:\\\\AudioTranscriptVerifier\\\\bin\\\\progen.exe"
 
-test_fileid = "etc\\hindi_model_adapt_test.fileids"
-mfc_fileids_file = "etc\\hindi_model_adapt_mfc.fileids"
+    FILE_SPLIT = 1
 
-wavdir = "C:\\Users\\Reverie-IT\\Desktop\\projects"
-mfcdir = "C:\\Users\\Reverie-IT\\Desktop\\projects"
-metadata = "metadata"
+    test_fileid = "etc\\hindi_model_adapt_test.fileids"
+    mfc_fileids_file = "etc\\hindi_model_adapt_mfc.fileids"
 
-rootdir = "C:\\Users\\Reverie-IT\\Desktop\\projects\\AudioTranscriptVerifier"
+    wavdir = root_dir
+    mfcdir = root_dir
+    metadata = "metadata"
 
-org_model = rootdir + "\\\\" + "models\\\\en-us"
-adapt_model = rootdir + "\\\\" + "models\\\\en-us-adapt"
+    rootdir = "C:\\Users\\Reverie-IT\\Desktop\\projects\\AudioTranscriptVerifier"
 
-test_dict = rootdir + "\\\\revasr.dic"
+    org_model = rootdir + "\\\\" + "models\\\\en-us"
+    adapt_model = rootdir + "\\\\" + "models\\\\en-us-adapt"
 
-# language_model = "..\\reverie.lm"
-dictionary = test_dict	
-hypfile = "result\\\\hindi_adapt.hyp.txt"
-cepdir = wavdir
+    test_dict = rootdir + "\\\\revasr.dic"
 
-discount = 0.3
+    # language_model = "..\\reverie.lm"
+    dictionary = test_dict
+    hypfile = "result\\\\hindi_adapt.hyp.txt"
+    cepdir = wavdir
 
-wavdirs_and_files = [
-		# ["\\train\\others\\accomodation\\ToBeVerified\\arun\\1", "1.raw", "1.txt"],
-		# ["\\train\\others\\accomodation\\ToBeVerified\\test", "1.raw", "master.txt"],
-		# ["\\train\\others\\accomodation\\ToBeVerified\\cleaned", "2.raw", "master.txt"],
-		["\\raw_recorded_data_c\\83","","83.txt"]
-					]
-								
-# i = 0
-# for wf in wavdirs_and_files:
-# 	# os.rename(os.path.join(wavdir + "\\" + wf[0],wf[1]),os.path.join(wavdir + "\\" + wf[0],"0000000"+str(i)+".raw"))
-# 	# copyfile(os.path.join(wavdir + "\\" + wf[0], "0000000"+str(i)+".raw"), os.path.join(wavdir + "\\" + wf[0]+"\\train_audio", "0000000"+str(i)+".raw"))
-# 	copyfile(os.path.join(wavdir + "\\" + wf[0], wf[1]),
-# 			 os.path.join(wavdir + "\\" + wf[0] + "\\train_audio", wf[1]))
-# 	os.rename(os.path.join(wavdir + "\\" + wf[0] + "\\train_audio", wf[1]),
-# 			  os.path.join(wavdir + "\\" + wf[0] + "\\train_audio", "0000000" + str(i) + ".raw"))
-# 	i=i+1
-							
-# First split the raw audio files in audio segments
-# if FILE_SPLIT == 1:
-# 	for rawfiles in wavdirs_and_files:
-# 		dirname = rawfiles[0]
-# 		inraw_file = wavdir + "\\\\" + dirname + "\\\\" + rawfiles[1]
-# 		rawdir = wavdir + "\\\\" + dirname + "\\\\" + "train_audio"
-# 		file_split(bindir,inraw_file,rawdir)
-	
-# create train_audio and train_mfc directories
-dirlist = []
-#mfdirlist = []
-for lst in wavdirs_and_files:
-	print(lst[0])
-	dirlist.append(lst[0])
-	
-#for lst in dirlist:
-#	mfdirlist.append(lst + "\\\\train_mfc")
+    discount = 0.3
 
-print(dirlist)
-
-# create fileids
-
-create_fileids(wavdir,dirlist,test_fileid,mfc_fileids_file)
+    wavdirs_and_files = wav_files
+    #     [
+    #                         ["\\adarshhs953\\1","","1.txt"],
+    #                         # ["\\raw_recorded_data_c\\113","","113.txt"],
+    # ]
 
 
+    # i = 0
+    # for wf in wavdirs_and_files:
+    #     # os.rename(os.path.join(wavdir + "\\" + wf[0],wf[1]),os.path.join(wavdir + "\\" + wf[0],"0000000"+str(i)+".raw"))
+    #     # copyfile(os.path.join(wavdir + "\\" + wf[0], "0000000"+str(i)+".raw"), os.path.join(wavdir + "\\" + wf[0]+"\\train_audio", "0000000"+str(i)+".raw"))
+    #     copyfile(os.path.join(wavdir + "\\" + wf[0], wf[1]),
+    #              os.path.join(wavdir + "\\" + wf[0] + "\\train_audio", wf[1]))
+    #     os.rename(os.path.join(wavdir + "\\" + wf[0] + "\\train_audio", wf[1]),
+    #               os.path.join(wavdir + "\\" + wf[0] + "\\train_audio", "0000000" + str(i) + ".raw"))
+    #     i=i+1
 
-audiodir = wavdir
+    # First split the raw audio files in audio segments
+    # if FILE_SPLIT == 1:
+    #     for rawfiles in wavdirs_and_files:
+    #         dirname = rawfiles[0]
+    #         inraw_file = wavdir + "\\\\" + dirname + "\\\\" + rawfiles[1]
+    #         rawdir = wavdir + "\\\\" + dirname + "\\\\" + "train_audio"
+    #         file_split(bindir,inraw_file,rawdir)
 
-transdir = wavdir
-scriptlist = []
+    # create train_audio and train_mfc directories
+    dirlist = []
+    #mfdirlist = []
+    for lst in wavdirs_and_files:
+        print(lst[0])
+        dirlist.append(lst[0])
 
-for lst in wavdirs_and_files:
-	scriptlist.append(lst[0] + "\\\\" + lst[2])
-	
-print(scriptlist)
+    #for lst in dirlist:
+    #    mfdirlist.append(lst + "\\\\train_mfc")
 
-dirlist = []
-for lst in wavdirs_and_files:
-	dirlist.append(lst[0] + "\\\\train_audio")
-	
-print(dirlist)
+    print(dirlist)
 
-create_transcripts(transfile,super_prompts_file,trfile,scriptlist,dirlist,wavdir)
+    # create fileids
 
-ml.createDictionary(super_prompts_file, test_dict, cs.Kannada)
+    create_fileids(wavdir,dirlist,test_fileid,mfc_fileids_file)
 
-# create_dictionary("E:\\\\AudioTranscriptVerifier\\\\eng.dic",super_prompts_file,dictutil,phonefile,test_dict)
 
-# create Language Model
-#LM configuration
-print("LM creation")
-lmgen(infile,lmname)
-#lmname = "E:\\New_Corpus\\language_model\\reverie.lm"
-language_model = lmname
 
-print("calling pocketsphinx_batch")	
-call(
-		"..\\bin\\pocketsphinx_batch" + \
-		" -adcin yes" + \
-		" -cepdir" + " " + cepdir + \
-		" -cepext" + " " + ".raw" + \
-		" -ctl" + " " + test_fileid + \
-		" -lm" + " " + language_model + \
-		" -dict" + " " + dictionary + \
-		" -hmm" + " " + adapt_model + \
-		" -cmn" + " " + "current" + \
-		" -hyp" + " " + hypfile
-		#" -mllr" + " " + metadata + "\\mllr_matrix" 
-  )
+    audiodir = wavdir
 
-	
-	
-time.sleep(2)	
-	
-callcmd = "perl ..\\bin\\word_align.pl" + " " + trfile + " " + hypfile
-print(callcmd)
-cmdcall = callcmd + " > result\\\\test_adapt.txt"
-print(cmdcall)
-call(
-		cmdcall, shell=True
-  )
+    transdir = wavdir
+    scriptlist = []
 
-'''	
-print("calling pocketsphinx_batch")	
-call(
-		"..\\bin\\pocketsphinx_batch" + \
-		" -adcin yes" + \
-		" -cepdir" + " " + cepdir + \
-		" -cepext" + " " + ".raw" + \
-		" -ctl" + " " + test_fileid + \
-		" -lm" + " " + language_model + \
-		" -dict" + " " + dictionary + \
-		" -hmm" + " " + org_model + \
-		" -hyp" + " " + hypfile
-		#" -mllr" + " " + metadata + "\\mllr_matrix" 
-  )
+    for lst in wavdirs_and_files:
+        scriptlist.append(lst[0] + "\\\\" + lst[2])
 
-	
-	
-time.sleep(2)	
-	
-callcmd = "perl ..\\bin\\word_align.pl" + " " + trfile + " " + hypfile 
-print(callcmd)
-cmdcall = callcmd + " > result\\\\test.txt"
-print(cmdcall)
-call(
-		cmdcall, shell=True
-  )
+    print(scriptlist)
 
-'''  
+    dirlist = []
+    for lst in wavdirs_and_files:
+        dirlist.append(lst[0] + "\\\\train_audio")
+
+    print(dirlist)
+
+    create_transcripts(transfile,super_prompts_file,trfile,scriptlist,dirlist,wavdir)
+
+    ml.createDictionary(super_prompts_file, test_dict, cs.Kannada)
+
+    # create_dictionary("E:\\\\AudioTranscriptVerifier\\\\eng.dic",super_prompts_file,dictutil,phonefile,test_dict)
+
+    # create Language Model
+    #LM configuration
+    print("LM creation")
+    lmgen(infile,lmname)
+    #lmname = "E:\\New_Corpus\\language_model\\reverie.lm"
+    language_model = lmname
+
+    print("calling pocketsphinx_batch")
+    call(
+            "..\\bin\\pocketsphinx_batch" + \
+            " -adcin yes" + \
+            " -cepdir" + " " + cepdir + \
+            " -cepext" + " " + ".raw" + \
+            " -ctl" + " " + test_fileid + \
+            " -lm" + " " + language_model + \
+            " -dict" + " " + dictionary + \
+            " -hmm" + " " + adapt_model + \
+            " -cmn" + " " + "current" + \
+            " -hyp" + " " + hypfile
+            #" -mllr" + " " + metadata + "\\mllr_matrix"
+      )
+
+
+
+    time.sleep(2)
+
+    callcmd = "perl ..\\bin\\word_align.pl" + " " + trfile + " " + hypfile
+    print(callcmd)
+    out_ = '_'.join(wavdirs_and_files[0][0].split("\\"))
+    cmdcall = callcmd + " > result\\\\"+out_+"test_adapt.txt"
+    print(cmdcall)
+    call(
+            cmdcall, shell=True
+      )
+
+    '''    
+    print("calling pocketsphinx_batch")    
+    call(
+            "..\\bin\\pocketsphinx_batch" + \
+            " -adcin yes" + \
+            " -cepdir" + " " + cepdir + \
+            " -cepext" + " " + ".raw" + \
+            " -ctl" + " " + test_fileid + \
+            " -lm" + " " + language_model + \
+            " -dict" + " " + dictionary + \
+            " -hmm" + " " + org_model + \
+            " -hyp" + " " + hypfile
+            #" -mllr" + " " + metadata + "\\mllr_matrix" 
+      )
+    
+        
+        
+    time.sleep(2)    
+        
+    callcmd = "perl ..\\bin\\word_align.pl" + " " + trfile + " " + hypfile 
+    print(callcmd)
+    cmdcall = callcmd + " > result\\\\test.txt"
+    print(cmdcall)
+    call(
+            cmdcall, shell=True
+      )
+    
+    '''
+
+# if __name__ == '__main__':
+#     run("C:\\Users\\Reverie-IT\\Desktop\\projects\\raw_recorded_data",[['\\amogh\\1', '', '1.txt']])

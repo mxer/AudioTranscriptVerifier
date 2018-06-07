@@ -20,7 +20,7 @@ def file_split(bindir,inraw_file,rawdir):
 			callcmd,shell=True
 		)
 	return
-	
+
 def create_fileids(audiodir,dirlist,train_fileid,mfc_fileids_file):
 	f = io.open(train_fileid,"w",encoding="utf-8")
 	mf = io.open(mfc_fileids_file,"w",encoding="utf-8")
@@ -33,21 +33,21 @@ def create_fileids(audiodir,dirlist,train_fileid,mfc_fileids_file):
 			for file in files:
 				if file.endswith('.raw'):
 					print(file)
-					arg = unicode("%s\\%08d\n"%(dir + "\\train_audio",filecounter))
+					arg = u"%s\\%08d\n"%(dir + "\\train_audio",filecounter)
 					f.write(arg)
 					mfdir = audiodir + "\\" + dir + "\\train_mfc"
 					if not os.path.exists(mfdir):
 						os.makedirs(mfdir)
-					arg = unicode("%s\\%08d\n"%(audiodir+"\\"+dir + "\\train_mfc",filecounter))
+					arg = u"%s\\%08d\n"%(audiodir+"\\"+dir + "\\train_mfc",filecounter)
 					mf.write(arg)
 					filecounter += 1
 					global_counter += 1
 	f.close()
 	mf.close()
 	print("the number of raw files are : %d"%(global_counter))
-	
+
 	return
-	
+
 def create_transcripts(transfile,super_prompts_file,trfile,scriptlist,dirlist,transdir):
 	print(super_prompts_file)
 	print(transfile)
@@ -78,9 +78,9 @@ def create_transcripts(transfile,super_prompts_file,trfile,scriptlist,dirlist,tr
 				fcounter += 1
 		index += 1
 	f.close()
-	sf.close()		
+	sf.close()
 	tf.close()
-	
+
 def read_words(words_file):
     return [word for line in io.open(words_file, 'r',encoding="utf-8") for word in line.split()]
 
@@ -95,7 +95,7 @@ def merge_dict(dictlist,output_dict):
 			if pron not in dict_dbase[word]:
 				dict_dbase[word].append(pron)
 		df.close()
-	
+
 	of = io.open(output_dict,"w",encoding = "utf-8")
 	for key in dict_dbase:
 		value = dict_dbase[key]
@@ -106,7 +106,7 @@ def merge_dict(dictlist,output_dict):
 				of.write("%s\t%s\n"%(key,value[i]))
 	of.close()
 	return
-		
+
 def create_dictionary(seed_dict,super_prompts_file,dictutil,phonefile,appdic):
 	# create a database of the dictionary
 	outfile = "temp_hindi.dic"
@@ -114,16 +114,16 @@ def create_dictionary(seed_dict,super_prompts_file,dictutil,phonefile,appdic):
 	unique_word_list = set(read_words(super_prompts_file))
 	f = io.open(vocabfile,"w",encoding="utf-8")
 	unk_hindi_vocab = "unk_hindi.txt"
-	unk_english_vocab = "unk_english.txt"	
+	unk_english_vocab = "unk_english.txt"
 	uhwf = io.open(unk_hindi_vocab,"w",encoding="utf-8")
 	uewf = io.open(unk_english_vocab,"w",encoding="utf-8")
-	
-		
+
+
 	gdbase = {}
 	ldbase = {}
-	
+
 	sdf = io.open(seed_dict,"r",encoding="utf-8")
-	
+
 	for line in sdf:
 #		print(line)
 		word,pron = line.rstrip("\n").rstrip("\r").replace("\t"," ",1).split(" ",1)
@@ -140,7 +140,7 @@ def create_dictionary(seed_dict,super_prompts_file,dictutil,phonefile,appdic):
 #				print(gdbase[word])
 				if gdbase[word] is not None and pron not in gdbase[word]:
 #					print(gdbase[word])
-#					print(pron)				
+#					print(pron)
 					gdbase[word].append(pron)
 	sdf.close()
 	unkhin = 0
@@ -173,7 +173,7 @@ def create_dictionary(seed_dict,super_prompts_file,dictutil,phonefile,appdic):
 				print(word)
 				print("script not supported")
 
-#	gdf.close()			
+#	gdf.close()
 	f.close()
 	uhwf.close()
 	uewf.close()
@@ -193,7 +193,7 @@ def create_dictionary(seed_dict,super_prompts_file,dictutil,phonefile,appdic):
 				else:
 					af.write("%s\t%s\n"%(key,value[i]))
 	af.close()
-		
+
 	if (unkhin == 1):
 		callstr = dictutil + " " + phonefile + " " + unk_hindi_vocab + " " + outfile
 		print(callstr)
@@ -224,5 +224,5 @@ def create_dictionary(seed_dict,super_prompts_file,dictutil,phonefile,appdic):
 		ef.close()
 		af.close()
 	time.sleep(2)
-	
+
 	return
