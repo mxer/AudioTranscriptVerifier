@@ -4,7 +4,7 @@ import sys
 #sys.path.append('E:/STT_Apps/src/preprocess')
 import pronounce_new as pr
 from random import shuffle
-import Constants as cs
+import constants as cs
 import IndicNormalizer as norm
 
 #generatePhones("J:\\New_Corpus\\text_corpus\\93165Hindi_monolingual_sampledata\\Hindi_monolingual_sampledata\\hin_politics and public administration_set2.txt")

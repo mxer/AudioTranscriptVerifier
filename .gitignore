@@ -1,7 +1,7 @@
 venv
-tester/result
-tester/__pycache__
+tester/result/*
+tester/__pycache__/*
 *.pyc
 .idea
 __pycache__
-adapter/__pycache__
+adapter/__pycache__/*

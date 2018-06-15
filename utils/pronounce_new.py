@@ -1,5 +1,5 @@
 # coding=utf-8
-import Constants as cs
+import constants as cs
 # import preprocessor as pp
 # import IndicNormalizer as norm
 

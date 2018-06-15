@@ -4,7 +4,7 @@ import sys
 #sys.path.append('E:/STT_Apps/src/preprocess')
 import pronounce_new as pr
 from random import shuffle
-import Constants as cs
+import constants as cs
 import IndicNormalizer as norm
 
 uniphonelist = []
