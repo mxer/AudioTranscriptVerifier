@@ -33,7 +33,7 @@ def copy_rename(wf, root_audio_path, root, rawfile, txtfile, i):
         os.rename(old_raw_file, new_raw_file)
 
 
-def run(root_dir, wav_files):
+def run(root_dir, wav_files, language):
     bindir = "bin"
     transfile = os.path.join( "adapter","etc","hindi_model_train.transcription")
     trfile = os.path.join("adapter","etc","train.transcription")
@@ -65,30 +65,30 @@ def run(root_dir, wav_files):
         dirlist.append(lst[0])
     i=0
 
-    for dir_ in dirlist:
-        root_audio_path = wavdir+ dir_
-        train_audio_path = os.path.join(root_audio_path, t_audio)
-        if not os.path.exists(train_audio_path):
-            os.makedirs(train_audio_path)
-        wf = io.open(os.path.join(root_audio_path, os.path.basename(dir_)+".txt"), "w", encoding="utf-8")
-
-        filecounter = 0
-        for root, dirs, files in os.walk(root_audio_path):
-            if root.endswith(t_audio) or root.endswith(t_mfc):
-                continue
-            for file in files:
-                if file.endswith('.wav'):
-                    s = file.split(".wav")
-                    print(os.path.join(root, t_audio, s[0] + ".raw"))
-                    src_file = os.path.join(root,file)
-                    dest_file = os.path.join(root , t_audio , s[0] + ".raw")
-
-                    callcmd = ['sox', src_file, '-b', '16', '-r', '16k', '-c', '1', '-e', 'signed', '-t', 'raw',
-                               dest_file]
-                    call(callcmd)
-                    copy_rename(wf, root_audio_path, root, s[0]+".raw", s[0]+".txt", filecounter)
-                    filecounter += 1
-        wf.close()
+    # for dir_ in dirlist:
+    #     root_audio_path = wavdir+ dir_
+    #     train_audio_path = os.path.join(root_audio_path, t_audio)
+    #     if not os.path.exists(train_audio_path):
+    #         os.makedirs(train_audio_path)
+    #     wf = io.open(os.path.join(root_audio_path, os.path.basename(dir_)+".txt"), "w", encoding="utf-8")
+    #
+    #     filecounter = 0
+    #     for root, dirs, files in os.walk(root_audio_path):
+    #         if root.endswith(t_audio) or root.endswith(t_mfc):
+    #             continue
+    #         for file in files:
+    #             if file.endswith('.wav'):
+    #                 s = file.split(".wav")
+    #                 print(os.path.join(root, t_audio, s[0] + ".raw"))
+    #                 src_file = os.path.join(root,file)
+    #                 dest_file = os.path.join(root , t_audio , s[0] + ".raw")
+    #
+    #                 callcmd = ['sox', src_file, '-b', '16', '-r', '16k', '-c', '1', '-e', 'signed', '-t', 'raw',
+    #                            dest_file]
+    #                 call(callcmd)
+    #                 copy_rename(wf, root_audio_path, root, s[0]+".raw", s[0]+".txt", filecounter)
+    #                 filecounter += 1
+    #     wf.close()
 
     # Check whether transcripts file lines are equal to no of raw files
     for wav_file in wavdirs_and_files:
@@ -130,7 +130,7 @@ def run(root_dir, wav_files):
     print(dirlist)
 
     create_transcripts(transfile,super_prompts_file,trfile,scriptlist,dirlist,wavdir)
-    ml.create_dictionary(super_prompts_file, train_dict, cs.Kannada)
+    ml.create_dictionary(super_prompts_file, train_dict, language)
 
     dirlist = []
     for lst in wavdirs_and_files:

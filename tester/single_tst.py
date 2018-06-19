@@ -16,7 +16,7 @@ import make_local_pdict as ml
 import constants as cs
 
 
-def run(root_dir, wav_files):
+def run(root_dir, wav_files, language):
     bindir = "bin"
     lmname = os.path.join("tester","etc","test.lm")
     transfile = os.path.join("tester", "etc", "hindi_model_test.transcription")
@@ -79,7 +79,7 @@ def run(root_dir, wav_files):
 
     create_transcripts(transfile,super_prompts_file,trfile,scriptlist,dirlist,wavdir)
 
-    ml.create_dictionary(super_prompts_file, test_dict, cs.Kannada)
+    ml.create_dictionary(super_prompts_file, test_dict, language)
 
     # create Language Model
     #LM configuration
@@ -101,10 +101,12 @@ def run(root_dir, wav_files):
     callcmd = "perl "+os.path.join(bindir,"word_align.pl") + " " + trfile + " " + hypfile
     print(callcmd)
     out_ = '_'.join(wavdirs_and_files[0][0].split(os.path.sep))
-    cmdcall = callcmd + " > "+os.path.join("tester","result",out_+"_test_adapt.txt")
+    out_file = os.path.join("tester","result",out_+"_test_adapt.txt")
+    cmdcall = callcmd + " > "+ out_file
     print(cmdcall)
     call(cmdcall, shell=True)
 
+    return out_file
     '''    
     print("calling pocketsphinx_batch")    
     call(
