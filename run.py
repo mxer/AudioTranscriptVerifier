@@ -8,7 +8,7 @@ f_preprocess_report = os.path.join(os.getcwd(), "preprocessing_report.tsv")
 lang = "hindi"
 lang_code = cs.Hindi
 
-if False:
+if True:
     # Preprocessing of Audio Files
     users_list = []
         # ["amit.singh@reverieinc.com", "minakshi.sablok@reverieinc.com", "ranvijai.singh@reverieinc.com",
@@ -31,7 +31,7 @@ if False:
                 report_writer.write("\n")
             # usr_aud_ts_files.out_folder_path
 
-if False:
+if True:
     # Using PocketSphinx to generate reports
     ps_reports.run(preprocess_report=f_preprocess_report, lang=lang_code)
 
